@@ -1,4 +1,4 @@
-Process
+Process (Updated: November 25, 2023)
 
 1. convert pdfs to txt files ([pdf_to_txt.py](code/pdf_to_txt.py))
 2. manually remove attachments and index from txt (top and bottom of the file)
