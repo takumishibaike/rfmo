@@ -15,8 +15,6 @@ os.chdir('C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\wcpfc')
 # Load the CSV file
 csv_file_path = 'WCPFC.csv'
 df = pd.read_csv(csv_file_path)
-
-# Assuming the text is in the third column, change the column name accordingly
 text_data = df['Content']
 
 # Preprocess the text data using CountVectorizer

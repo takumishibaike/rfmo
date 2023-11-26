@@ -24,7 +24,7 @@ sorted_file_list = sorted(text_files, key=lambda filename: int(re.search(r'\d+',
 
 ### Change the i number to find a specific file
 # see sorted_file_list
-i = 17
+i = 1
 file_path = '.\\txt\\' + sorted_file_list[i]
 
 with open(file_path, 'r', encoding='utf-8') as file:

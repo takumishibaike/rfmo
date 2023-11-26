@@ -25,7 +25,7 @@ for file in csv_files:
     combined_data = pd.concat([combined_data, df], ignore_index=True)
 
 # Save the combined DataFrame to a new CSV file
-combined_data.to_csv('.\\combined_file.csv', index=False)
+combined_data.to_csv('.\\WCPFC.csv', index=False)
 
 # Display the combined DataFrame
 print(combined_data)
