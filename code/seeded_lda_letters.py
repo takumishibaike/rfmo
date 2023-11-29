@@ -41,7 +41,7 @@ for i, doc in enumerate(df['content']):
 
 # Lemmatize the documents
 df['content_lemmatized'] = [' '.join([token.lemma_ for token in nlp(doc)]) for doc in df['content']]
-df['content_lemmatized'] = [re.sub(r'[,.;:\-]', '', doc) for doc in df['content_lemmatized']]
+df['content_lemmatized'] = [re.sub(r'http\S+|www\S+|https\S+|[,.;:\-()]', '', doc.lower()) for doc in df['content_lemmatized']]
 df['content_lemmatized'] = [' '.join(doc.split()) for doc in df['content_lemmatized']]
 
 # Convert text to a bag of words representation
@@ -53,9 +53,9 @@ lda_seed = 123
 
 # Set seed words for each topic along with labels
 topic_seed_words = [
-    {'words': ['reference', 'control', 'MSE'], 'label': 'Harvest Strategy'},
-    {'words': ['bycatch', 'shark', 'turtle'], 'label': 'Bycatch'},
-    {'words': ['transparency', 'transshipment', 'IUU'], 'label': 'Fleet Transparency'}
+    {'words': ['reference', 'mse','hcr','trp'], 'label': 'Harvest Strategy'},
+    {'words': ['bycatch', 'shark', 'turtle','seabird','mammal'], 'label': 'Bycatch'},
+    {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Fleet Transparency'}
     # Add more seed words for each topic along with labels
 ]
 
@@ -88,8 +88,8 @@ for idx, row in df.iterrows():
 df['topic_label'] = topic_labels
 
 # Save the DataFrame with topic labels as a CSV file
-columns_to_save = ['year', 'observer', 'category', 'source', 'joint', 'signatories', 'asks', 'content', 'content_lemmatized', 'topic_label']
-df[columns_to_save].to_csv('.\\analysis\\letters_with_labels.csv', index=False)
+#columns_to_save = ['year', 'observer', 'category', 'source', 'joint', 'signatories', 'asks', 'content', 'content_lemmatized', 'topic_label']
+#df[columns_to_save].to_csv('.\\analysis\\letters_with_labels.csv', index=False)
 
 # Print the topics and associated words, including seeded words and labels
 feature_names = vectorizer.get_feature_names_out()

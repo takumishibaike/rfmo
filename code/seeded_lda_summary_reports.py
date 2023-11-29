@@ -41,7 +41,7 @@ for i, doc in enumerate(df['content']):
 
 # Lemmatize the documents
 df['content_lemmatized'] = [' '.join([token.lemma_ for token in nlp(doc)]) for doc in df['content']]
-df['content_lemmatized'] = [re.sub(r'[,.;:\-]', '', doc) for doc in df['content_lemmatized']]
+df['content_lemmatized'] = [re.sub(r'http\S+|www\S+|https\S+|[,.;:\-()]', '', doc.lower()) for doc in df['content_lemmatized']]
 df['content_lemmatized'] = [' '.join(doc.split()) for doc in df['content_lemmatized']]
 
 # Convert text to a bag of words representation
@@ -53,9 +53,9 @@ lda_seed = 123
 
 # Set seed words for each topic along with labels
 topic_seed_words = [
-    {'words': ['reference', 'control', 'MSE'], 'label': 'Harvest Strategy'},
-    {'words': ['bycatch', 'shark', 'turtle'], 'label': 'Bycatch'},
-    {'words': ['transparency', 'transshipment', 'IUU'], 'label': 'Fleet Transparency'}
+    {'words': ['reference', 'mse','hcr','trp'], 'label': 'Harvest Strategy'},
+    {'words': ['bycatch', 'shark', 'turtle','seabird','mammal'], 'label': 'Bycatch'},
+    {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Fleet Transparency'}
     # Add more seed words for each topic along with labels
 ]
 
@@ -88,8 +88,8 @@ for idx, row in df.iterrows():
 df['topic_label'] = topic_labels
 
 # Save the DataFrame with topic labels as a CSV file
-columns_to_save = ['document', 'number', 'content', 'content_lemmatized', 'topic_label']
-df[columns_to_save].to_csv('.\\analysis\\letters_with_labels.csv', index=False)
+#columns_to_save = ['document', 'number', 'content', 'content_lemmatized', 'topic_label']
+#df[columns_to_save].to_csv('.\\analysis\\wcpfc_with_labels.csv', index=False)
 
 # Print the topics and associated words, including seeded words and labels
 feature_names = vectorizer.get_feature_names_out()
@@ -135,12 +135,16 @@ for topic_idx, topic_info in enumerate(topic_seed_words):
     print(f"{label}: {ratio:.2%}")
 
 
+# Convert 'document' to a categorical variable with custom ordering
+custom_order = ['WCPFC{}'.format(i) for i in range(1, 20)]  # 19 years from WCPFC1 to WCPFC19
+df['document'] = pd.Categorical(df['document'], categories=custom_order, ordered=True)
+
 # Calculate topic distribution by meeting for chart
 topic_distribution_by_meeting = df.groupby(['document', 'topic_label']).size().unstack(fill_value=0)
 topic_distribution_by_meeting_percentage = topic_distribution_by_meeting.div(topic_distribution_by_meeting.sum(axis=1), axis=0) * 100
 
 # Plot 100% stacked bar chart
-fig, ax = plt.subplots(figsize=(10, 6))
+fig, ax = plt.subplots(figsize=(12, 8))
 topic_distribution_by_meeting_percentage.plot(kind='bar', stacked=True, ax=ax)
 
 # Add labels and legend
