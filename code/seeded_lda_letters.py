@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ##### Author: Takumi Shibaike
-##### Date: November 25, 2023
+##### Date: November 29, 2023
 ##### Revision: V1.0
-##### File : seeded_lda.py
+##### File : seeded_lda_letters.py
 
 import os
 import pandas as pd
