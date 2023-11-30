@@ -53,9 +53,10 @@ lda_seed = 123
 
 # Set seed words for each topic along with labels
 topic_seed_words = [
-    {'words': ['reference', 'mse','hcr','trp'], 'label': 'Harvest Strategy'},
+    {'words': ['mse','hcr','trp'], 'label': 'Strategy'},
     {'words': ['bycatch', 'shark', 'turtle','seabird','mammal'], 'label': 'Bycatch'},
-    {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Fleet Transparency'}
+    {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Transparency'},
+    {'words': ['sids', 'right', 'governance'], 'label': 'Governance'}
     # Add more seed words for each topic along with labels
 ]
 
@@ -150,7 +151,7 @@ ax.set_title('Topic Distribution by Year')
 ax.legend(title='Topic', bbox_to_anchor=(1, 1))
 
 # Save the figure as PNG with specified dimensions
-plt.savefig('topic_distribution_chart.png', dpi=300, bbox_inches='tight')  # Adjust the file name and DPI as needed
+#plt.savefig('topic_distribution_chart.png', dpi=300, bbox_inches='tight')  # Adjust the file name and DPI as needed
 
 # Show the plot
 plt.show()

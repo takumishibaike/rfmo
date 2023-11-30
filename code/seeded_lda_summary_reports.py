@@ -53,9 +53,10 @@ lda_seed = 123
 
 # Set seed words for each topic along with labels
 topic_seed_words = [
-    {'words': ['reference', 'mse','hcr','trp'], 'label': 'Harvest Strategy'},
+    {'words': ['mse','hcr','trp'], 'label': 'Strategy'},
     {'words': ['bycatch', 'shark', 'turtle','seabird','mammal'], 'label': 'Bycatch'},
-    {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Fleet Transparency'}
+    {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Transparency'},
+    {'words': ['sids', 'right', 'governance'], 'label': 'Governance'}
     # Add more seed words for each topic along with labels
 ]
 
@@ -145,7 +146,13 @@ topic_distribution_by_meeting_percentage = topic_distribution_by_meeting.div(top
 
 # Plot 100% stacked bar chart
 fig, ax = plt.subplots(figsize=(12, 8))
+# Move "Residual" column to the last position
+topic_distribution_by_meeting_percentage = topic_distribution_by_meeting_percentage[
+    [col for col in topic_distribution_by_meeting_percentage.columns if col != 'Residual'] + ['Residual']
+    ]
 topic_distribution_by_meeting_percentage.plot(kind='bar', stacked=True, ax=ax)
+
+
 
 # Add labels and legend
 ax.set_ylabel('Percentage')
