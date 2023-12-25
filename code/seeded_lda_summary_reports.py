@@ -56,7 +56,7 @@ topic_seed_words = [
     {'words': ['mse','hcr','trp'], 'label': 'Strategy'},
     {'words': ['bycatch', 'shark', 'turtle','seabird','mammal'], 'label': 'Bycatch'},
     {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Transparency'},
-    {'words': ['sids', 'right', 'governance'], 'label': 'Governance'}
+    {'words': ['sids', 'right', 'small', 'island'], 'label': 'Governance'}
     # Add more seed words for each topic along with labels
 ]
 
