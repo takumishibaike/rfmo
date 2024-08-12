@@ -3,7 +3,6 @@ Process (Updated: November 25, 2023)
 Annual meeting reports
 
 1. Convert pdf files to txt files ([pdf_to_txt.py](code/pdf_to_txt.py))
-<<<<<<< HEAD
 2. Manually remove attachments and index from txt (top and bottom of the file)
 3. Parse each file by itemized numbers ([cleaning.py](code/cleaning.py))
 4. Some numbers are not properly ordered. Manually reorder them on txt file (cleaning.py ends where any number is not ordered properly, extracting the rest of the document as one item, which is very large and noticeable).
