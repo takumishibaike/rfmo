@@ -1,0 +1,1606 @@
+ 
+ 
+TWELFTH REGULAR SESSION 
+Bali, Indonesia  
+3 - 8 December 2015 
+ 
+ASSOCIATION FOR PROFESSIONAL OBSERVERS -  INTERNATIONAL 
+OBSERVER BILL OF RIGHTS 
+ 
+WCPFC12-2015-OP04 
+13 November 2015 
+ 
+ 
+ 
+ 
+Paper submitted by World Wide Fund for Nature (WWF) 
+ 
+ 
+ 
+A s so c i a t i o n� f o r � P r o f e s s i o na l �
+O b s e r v e r s �
+Best�Practice�Guidelines�for�Responsible�Observer�Programmes�
+�
+�
+Mission�of�the�APO�
+The�Association�for�Professional�Observers�(APO)�is�a�non-profit,�non-governmental�organization�
+whose�mission�is�to�strengthen�observer�programs�through�advocacy�and�education.�Our�goal�is�to�
+facilitate�the�exchange�of�fisheries�information�while�providing�an�important�source�of�fisheries�observer�
+program�and�fisheries�observer�data-use�information.�It�is�our�intention�that�the�results�of�our�activities�
+may�encourage�the�recruitment�and�retention�of�professional�observers�and�foster�the�best�quality�
+observer�data�for�the�purposes�of�conservation�and�the�responsible�management�of�marine�living�
+resources.�
+�
+2�
+Version�1.1,�July�2015�(Formatted)�
+-�*�*�*�*�This�page�intentionally�left�blank�*�*�*�*�-�
+�
+�
+3�
+Version�1.1,�July�2015�(Formatted)�
+Contents
+INTERNATIONAL�OBSERVER� BILL�OF�RIGHTS�-�A�GUIDE�TO�THE�HEALTH,�SAFETY,�
+WELFARE�AND�PROFESSIONALISM�OF�OBSERVERS�.....................................................................�4�
+Introduction�...................................................................................................................................�5�
+Article�I:�Employment�Terms�...................................................................................................�5�
+Article�II:�Fair�and�Equitable�Employment�..........................................................................�6�
+Article�III:�Competitive�Wage�Package�..................................................................................�6�
+Article�IV:�Health�and�Safety�.....................................................................................................�7�
+Article�V:�Regulatory�Authority,�Observer�Programme�and�Observer�Employer�
+Support�...................................................................................................................................................�8�
+Article�VI:�Stakeholder�Integrity,�Responsibility�and�Programme�Transparency�.�8�
+Article�VII:�Professional�Development�..................................................................................�9�
+References�......................................................................................................................................�9�
+CODE�OF�CONDUCT�FOR�RESPONSIBLE�OBSERVER�PROGRAMMES�–�STAKEHOLDER�
+RESPONSIBILITIES�(CCROP-SR)�..........................................................................................................�10�
+Introduction�.................................................................................................................................�10�
+Section�I:�Regulatory�Authority�.............................................................................................�11�
+Section�II:�Observer�Programme�...........................................................................................�11�
+Section�III:�Observer�Employer..............................................................................................�13�
+Section�IV:�Monitored�Entity...................................................................................................�15�
+Section�V:�Observer�...................................................................................................................�17�
+References�....................................................................................................................................�19�
+CODE�OF�CONDUCT�FOR�RESPONSIBLE�OBSERVER�PROGRAMMES�–�OBSERVER�
+HEALTH�AND�SAFETY�(CCROP-HS)�....................................................................................................�20�
+Introduction�.................................................................................................................................�20�
+Section�I:�Medical�and�Physical�Employment�Criteria�...................................................�21�
+1.�
+Medical�certificates�........................................................................................................�21�
+2.�
+Preventive�Measures�.....................................................................................................�21�
+Section�II:�Medical�Training�....................................................................................................�22�
+1.�
+Basic�Training�..................................................................................................................�22�
+2.�
+Additional�Training�........................................................................................................�22�
+Section�III:�Health�and�Safety�Training�...............................................................................�22�
+1.�
+Training�length�................................................................................................................�22�
+2.�
+Minimum�Health�and�Safety�Training�Topics�(IMO�1978)�................................�22�
+3.�
+Required�Competencies�................................................................................................�24�
+4.�
+Safety�during�Hands-on�Component�of�Training�..................................................�26�
+Section�IV:�Worksite�Health�and�Safety...............................................................................�26�
+1.�
+Legal�and�programmatic�policy�framework...........................................................�26�
+2.�
+Transportation�Safety�...................................................................................................�26�
+3.�
+Embarkation/Disembarkation/Transfer�Protocols�............................................�26�
+4.�
+Accommodation...............................................................................................................�27�
+5.�
+Access..................................................................................................................................�27�
+6.�
+Adequate�assignment�notice�.......................................................................................�27�
+7.�
+Communication�...............................................................................................................�28�
+8.�
+Mental�health�...................................................................................................................�28�
+9.�
+Provided�safety�equipment�.........................................................................................�28�
+References�....................................................................................................................................�28�
+Box�1:�SAMPLE�CHECKLIST� FOR�VESSELS�......................................................................................�29�
+Box�2:�MINIMUM�SAFETY�REQUIREMENTS�...................................................................................�30�
+GLOSSARY�..........................................................................................................................................�31�
+�
+�
+4�
+Version�1.1,�July�2015�(Formatted)�
+INTERNATIONAL OBSERVER BILL OF RIGHTS - A GUIDE TO THE HEALTH, SAFETY,
+WELFARE AND PROFESSIONALISM OF OBSERVERS
+The� original� Observer� Bill� of� Rights� (OBR)� was� published� in� 2000� as� the� product� of� a�
+workshop� and� panel� session� held� at� the� Canada� -� US� Fisheries� Observer� Programme�
+Workshop,� St.� John’s,� Newfoundland,� Canada� (Anon.� 2001),� which� was� the� second�
+conference� in� the� International� Fisheries� Observer� and� Monitoring� Conference� (IFOMC)�
+series.� The� original� drafters� included� active� and� former� observers� who� felt� that� the�
+managing�agencies�and�employers�were�in� need�of� best-practice� guidelines� in� order� to�
+enhance� and� maintain� a� professional� corps� of� observers.� The� Observer� Professionalism�
+Working� Group� (OPWG)� was� initiated� at� the� 5th� IFOMC� in� 2007� (McVea� and� Kennelly�
+2007),� using� elements� of�the�OBR� for�its� workshops� and�resulting�documents� (Davis� and�
+Quelch� 2008).� The� OBR� was� last� modified� in� the� 5th� IFOMC� proceedings� (McVea� and�
+Kennelly� 2007).� The� current� version� widens� the� scope� of� the� document� to� the� ever-
+increasing� corps� of� observers� worldwide.� The� IOBR� has� been� developed� to� clearly�
+delineate� the� employment� and� human� rights� of� the� observer.� It� is� complemented� by� the�
+provisions� of� the� Code� of� Conduct� for� Responsible� Observer� Programmes� -� Observer�
+Health� and� Safety� (CCROP-HS)� and� Stakeholder� Responsibilities� (CCROP-SR).� A�
+standard� list� of� definitions� is� used� for� referencing� these� documents� (CCROP-SR,�
+Glossary).�The�two�supplemental�CCROP� documents�detail� what�is�required� to�implement�
+the� IOBR.� These� documents� do� not� intend� to� supersede� any� existing� international,�
+regional,� national,� state/provincial�or� local� law� or� observer�programme�requirements,�
+which�may�be�more�extensive�or�restrictive.�All�observer�rights�are�equal�and�shall�not�
+be�construed�to�deny�or�disparage�other�rights�retained�by�the�observers.�
+�
+This�International�Observer�Bill�of�Rights�(IOBR)�was�modified�in�collaboration�with�current�
+and� former� members� from� the� Association� for� Professional� Observers� (APO)� and� the�
+OPWG,� as�well� as�input� received� in�association� with�the� 7th� IFOMC1�(150� delegates�from�
+27� countries),� held� in� Viña� del� Mar,� Chile,� April� 8-12,� 2013.� These� documents� were�
+distributed�for�public� comment� to� over� 1200� stakeholders� internationally� from� February�
+2013� until� August� 2013.� Venues� for� outreach� were� the� APO� Mail� List,� APO� Facebook�
+Group,� the� 7th� IFOMC� Steering� Committee,� and� targeted� mail� lists� of� additional� public�
+stakeholders.�
+�
+The� APO� has� agreed� to� be� custodian� of� this� document
+2�and� associated� CCROP-HS� and�
+CCROP-SR� documents.� These� documents� will� be� modified� biennially� with� stakeholder�
+input.� For� enquiries,� comments,� contributions� and� updates,� please� contact� the� IOBR�
+Team:�E-mail:�iobr@apo-observers.org;�Web:�http://www.apo-observers.org/billofrights.�
+�������������������������������������������������������������
+1�http://www.ifomc.com�
+2�Suggested citation: International Observer Bill of Rights (IOBR) [Internet]. Association for Professional Observers (APO): The
+International Observer Bill of Rights and Codes of Conduct for Responsible Observer Programmes. Version 1.0. September 2013. Available
+from: http://www.apo- observers.org/billofrights.
+�
+5�
+Version�1.1,�July�2015�(Formatted)�
+Introduction
+�
+An� ‘observer’� is� a� person� who� is� authorised� by� a� regulatory� authority� to� collect�
+information� in� the� field� (either� at� sea� or� on� shore)� to� support� sustainable� aquatic�
+resource�management.�The� observer�must� be�financially�independent�of�the� industry�being�
+monitored�(CCROP-SR,�Section�V).�Observers�generally�do�not�have�enforcement�powers�
+but�their�duties�often�involve�the� collection�of� enforcement�related�information.�There�are�
+many� titles� associated�with� the� observer�profession,�some�of�which�do�not�have�the�word�
+“observer”� in�the�title�(such�as�monitor,�fisheries�assistant,�inspector,� and�sampler).� For�the�
+purposes�of�this�document,�the�term�“observer”�is�inclusive�of�several�analogous�positions�
+under� the� monitoring,� compliance� and� surveillance� (MCS)� umbrella� (Flewwelling� 1994,�
+Flewwelling� et�al.�2002).�
+�
+Observers� are�tasked� with�a�wide�range� of�duties�that�are�primarily� related� to�commercial�
+fishing,� although� other� industries� impacting� the� ocean� environment� may� be� monitored� as�
+well.� Observer� programmes� typically� have� a� multitude� of� objectives�ranging�from�science�
+to� compliance� and� frequently� a� combination� of� both� (Davies� and� Reynolds� 2002).�
+Observers�are�typically�either�hired�by�third�party�contractual�agreements�or� directly�by�a�
+government�regulatory�authority.�However,�sometimes� observers� are� hired� as�independent�
+contractors.� Regardless� of� employer,� observers� generally� work� independently� and�
+unsupervised� in� an� isolated� and� sometimes� contentious� environment� and� a� variety� of�
+entities� may� negatively� impact� their� ability� to� complete� their� duties.� The� intent� of� these�
+documents�is� to� establish� international�standards�that� programmes� can� strive� toward� and�
+to� clarify� and� harmonise� observer� terms� of� reference.� Standard� terms� of� reference�
+relating�to� professional�levels�of�observers�would�make�it�easier�for�an�observer�to�transfer�
+their�expertise�and�clarify�the�technological� level�of�data�collected�in�a�programme�for�data�
+end-users.�
+Article I: Employment Terms
+I.
+Observers� have�the�right�to�a�written� contract� that�clearly� defines�
+employment�terms�(CCROP-SR,�Section� III(9),�including:�
+1. Position� level� as� it�relates� to� qualifications,� competencies,� responsibilities� and� types�
+of�data�collected;�
+2. Hiring,�promotion,�probation,�demotion�and�firing�criteria;�
+3. Health,�life,�and�disability�insurance�terms�(IOBR�Article�III(3));�
+4.��Wage�linked�with�observer�experience,�performance,�position,�and�location;�segregated�
+by�different�components�of�observer�employment;�
+5. Employment� leave� terms� (including� holiday/vacation,� bereavement,� medical� and�
+employment�re-entry�terms);�
+6. Retirement�package�terms;�
+7.��Protocols� for� deployment� and� field� support� of� observers� (e.g.� travel� logistics� and�
+documents,� cash,� gear,� food,� accommodations� and� medical� needs),� in� the� field� and�
+during�briefings,�trainings,�debriefings,�and�during�standby�intervals;�
+6�
+Version�1.1,�July�2015�(Formatted)�
+8. Specify� payment� interval� frequency� and� disclose� any� payroll� deduction� types� (e.g.�
+expenses,�cash�advances,�and�taxes);�
+9. Observer�gear�and�equipment�requirements�and�maintenance;�
+10. Protocols�that�ensure�safe�and�healthy�working�conditions�(CCROP-HS�Section�IV);�
+11. Communications� and�Emergency� action�plan:�protocols�for�helping�and/or�rescuing�
+observers� from� emergency� situations,� including� interference,� harassment� or� assault�
+scenarios�(CCROP-HS�Section�IV(7));�
+12. Performance� evaluation�criteria�and�frequency;�
+13. Employer’s�Plan�of�Action�for�observer’s�professional� development;�
+14. Professional�stakeholder�Codes�of�Conduct�(CCROP-SR).�
+Article II: Fair and Equitable Employment
+II.
+Observers� have� a� right� to� non-discriminatory,� fair� and�
+equitable�employment,� including:�
+1. Work�environment�free�of�discrimination�based�on�factors�such�as�gender,�ethnicity,�
+race,�spiritual�beliefs,�age,�class,�sexual�orientation,�nationality�or�political�activities;�
+2. Equal�opportunity�grievance�procedure�available�at�no�cost�to�the�observer.�Grievance�
+procedures� must� be� independent� of� observer� programme� and� observer� employer�
+influence�and�include�an�appeal�process.�Employers�and�observer�programmes�must�
+specify�the�equal�opportunity�grievance�procedures�as�part�of�a�labour�agreement�and�
+must�comply�with�national�labour�law;�
+3. Transparent� and� unbiased� protocols� used� to� select� individual� observers� for� a� given�
+deployment;�
+4. Performance�evaluations�that�are�transparent�to�the�observer,�part�of�the�debriefing�
+process� and� include� criteria� used� by� both� the� observer� programme� and� employer.�
+Observer�programmes�and�employers�shall�afford�a�system�of�warnings�within�their�
+performance�evaluations�that�allow�the�observer�the�option�of�appealing�the�evaluation�
+or�make�the�necessary�changes�to�return�to�good�standing�with�the�programme�and�the�
+employer;�
+5. Fair� labour� standards� for� observers� at� both� the� observer� programme� and� observer�
+employer� level.� Reviews� of� programme� and� observer� employer� adherence� to� fair�
+labour�standards�must�be�regularly�performed,�be�transparent,�independent�and�easily�
+accessible�to�new�and�former�observers;�
+6. No� employer� may,� without� cause,� fire,� demote� or� restrict� an� observer� from�
+employment�opportunities.�The�employer�shall�clearly�support�any�termination�of�an�
+observer’s� employment� with� both� observer� programme� and� observer� employer�
+policies� and� documentation,� stated� in� the� observers’� employment� contract� and� in�
+accordance�with�national�labour�laws.�
+Article III: Competitive Wage Package
+III.
+Observers� have� a� right� to� a� competitive� wage� package� commensurate� with�
+positions� requiring� similar� duties� and� educational� background� (IOBR� Article� I;�
+7�
+Version�1.1,�July�2015�(Formatted)�
+CCROP-SR�Section�III�(9,�10,�11�and�14)).�Financial�independence�from� the�monitored�
+industry�is�crucial.�A�competitive�wage�package�includes,�but�is�not�limited�to:�
+1. Step-based� pay� system� that� acknowledges� different� observer� levels� (defined� by�
+variations� in� duties,� responsibilities)� and� encourages� experience� and� work�
+performance�that�meets�or�exceeds�expectations;�
+2. Transferability�of�observer�credit�(experience)�for�purposes�of�financial�compensation�
+from�one�programme�to�the�next,�regardless�of�employer;�
+3. Insurance�coverage,�with�consideration�for�coverage�being�equivalent�to�observer�field�
+(sea)�time,�and�consideration�of�a�national�or�group�pool�to�decrease�cost,�including:�
+i. Basic�health�coverage�provided�for�employment�period;�
+ii. Options� for� year� round� (comprehensive,� beyond� employment/during� stand-by�
+periods)�health�coverage;�
+iii. Life� insurance,� which� provides� compensation� to� a� named� beneficiary� in� case� of�
+death;�
+iv. Disability� insurance;� for� long-term,� cumulative� injury� arising� from� work� related�
+injuries�that�were�not�originally�detected�during�the�work�such�as�back�problems,�
+knee�failure,�lung�problems;�
+4. Retirement�package�options;�
+5. Shore-based� work� alternatives� for� older� observers� and� those� who� experience�
+disabilities�resulting�from�their�observer�careers;�
+6. Leave� remuneration� including� compensation� options� that� acknowledge� leave-time�
+needs�(e.g.�vacations�and�holidays)�between�deployments;�
+7. Payment� for� all� time� awaiting� deployment,� between� deployments� or� waiting� to� be�
+debriefed.�
+Article IV: Health and Safety
+IV.
+Observers� have� a� right� to� a� working� environment� with� minimal� health� and�
+safety�risks�(See�CCROP-HS),�including:�
+1. Ability� to� conduct� duties� free� from� assault,� harassment,� interference� or� bribery�
+(CCROP-HS�Section�III(2)(A)(xii)�and�(E)(iii)�and�Section�IV(1);�CCROP-SR�Section�I(2�
+and�3),�Section�II(1)(E),�(3)(B),�(14,�17�and�20),�Section�III(3)(A�and�B),�(13,�14,�16�and�
+17),�Section�IV,�Section�V(10�and�11);�
+2. Right�to�refuse�an�assignment�without�negative�repercussions,�with�documentation�of�
+reason.�Observer�programmes�or�employers�shall�not�require�observers�to�address�any�
+vessel�inadequacies�that�cause�vessel�refusal�(CCROP-SR�Section�III(13)�and�Section�IV�
+(7,�8);�CCROP-HS�Section�IV);�
+3. National/international� protocol� developed� for� checking� minimum� compulsory� safety�
+and� emergency-action� equipment� prior� to� each� deployment� (e.g.� pre-deployment�
+checklist,� CCROP-HS,� Box� 2).� Protocol� must� also� include� documentation� of� vessel�
+refusal,� follow-up� actions� taken� by� appropriate� regulatory� authority� and� observer�
+employer�(if�different)�to�address�any�safety� or� accommodation� issues�and� how� any�
+shortfalls�were�resolved�prior�to�placement�of�subsequent�observer;�
+4. Development�and�enforcement�of�laws�protecting�observer�health�and�welfare;�
+8�
+Version�1.1,�July�2015�(Formatted)�
+5. Established� minimum� standards� for� adequate� accommodation� for� an� observer�
+deployment�appropriate�to�the�size�of�the�monitored�entity�and�equivalent�to�that�of�
+the�officers�of�the�monitored�entity�(CCROP-HS�Section�IV�(4);�CCROP-SR�Section�1(3),�
+Section�II�(3)(B),Section�III�(13�and�17)�IV(13,�14�and�17);�
+6. Transparency� (especially� available� to� observers)� of� safety� and� welfare� reports� from�
+previous� observer� deployments� (especially� on� refused� assignments).� Include�
+accountability�report,�with�follow-up�and�actions�taken�to�rectify�problem;�
+7. Minimum� health� and� safety� training� standards,� safety� protocols� and� that� are�
+programme-specific.�(CCROP-HS�Section�III�and�IV);�
+8. Communication�protocols�and�emergency�action�plan�(CCROP-HS�Section�IV�(5�and�7)).�
+Article V: Regulatory Authority, Observer Programme and Observer Employer Support
+V.
+Observers� have� the� right� to� regulatory� authority,� observer� programme,�
+observer�employer�and�monitored�entity�support,�including:�
+1. Regular� communication� between� observer� programme/employers� and� the� observer�
+while� they� are� deployed� (CCROP-HS� Section� IV(7);� CCROP-SR� Section� II(1)(B)� and�
+Section�IV(11));�
+2. Assessment�and�attendance�to�observers’�health�and�welfare�status,�including�mental�
+health� (CCROP-HS� Section� I(2)� and� Section� IV(8);� CCROP-SR� Section� II(14� and� 17),�
+Section�III(14,16�and�17),�and�Section�IV);�
+3. Face-to-face�debriefings�(CCROP-SR�Section�II(17);�
+4. Adequate� break� time� between� deployments� (CCROP-HS� Section� I(2)(C)� and� Section�
+IV(6�and�8);�CCROP-SR�Section�III(14));�
+5. Debriefings�and�performance�evaluations�by�observer�programme�personnel�who�are�
+experienced� in� data� collection� from� the� resource� they� are� monitoring� (CCROP-SR�
+Section�II(14).�
+Article VI: Stakeholder Integrity, Responsibility and Programme Transparency
+VI.
+Observers�have�a�right�to�stakeholder�integrity�and�programme�transparency�
+(See�CCROP-SR),�including�but�not�limited�to:�
+1. Financial�independence�of�observer,�observer�employer�and�observer�programme�from�
+monitored� entity� is� crucial� (CCROP-SR� Section� I(1),� Section,� II(3)(A),� Section� III(4),�
+Section�IV(15)�and�(16)(B)�and�Section�V(3,�10�and�11);�
+2. Institutionalised�whistle-blower�rights�for�observers�with�a�third�party�for�observers�to�
+address�both�employer�and�observer�programme�issues;�
+3. Minimum� data� collection� and� debriefing� standards� that� ensure� the� objectives� of� the�
+programme�are�met�and�accounted�at�a�prescribed�level�of�quality;�
+4. Enforceable�Codes�of�Conduct�for�stakeholders�that�support�the�integrity�of�all�levels�of�
+the�observer�programme�(CCROP-SR�Section�1(1));�
+5. Transparency�of�observer�programme�statistics�that�allow�comparison�of�programme,�
+including�retention�rates�and�actual�deployment/employment�rates.�
+�
+9�
+Version�1.1,�July�2015�(Formatted)�
+Article VII: Professional Development
+VII.�Observers�have�a�right�to�professional�development,�including�but�not�limited�to:�
+1. Acknowledgment�of�individual�observers�for�their�contribution�to�science�and�resource�
+management� through� credit� in� publications� and� support� of� their� attendance� at�
+observer�programme�conferences�and�workshops;�
+2. Inclusion� of� observers� and� observers’� perspective� in� observer� programme� decision-
+making� processes� that� impact� the� observer’s� work� environment� (CCROP-SR� Section�
+I(1),�II(1)(C),�(6,�17);�
+3. Connection� with� data� users� through� workshops,� presentations� and� programme�
+libraries� of� reports� based� on� data� collected� by� observers� and� make� these� easily�
+available�to�observers�(CCROP-SR�II(19);�
+4. Certificate� or� training� endorsements� that� documents� additional� training� and� use� of�
+special� sampling� equipment,� skill� level� obtained� and� information� about� the� project�
+(CCROP-SR�Section�II(18),�Section�III�(3)(D),�(5�and�15).�
+References
+�
+Anon.�2001.�Proceedings�of�the�Canada�-�US�Fisheries�Observer�Program�Workshop,�June�26-
+29,�2000,�St.�John's�Newfoundland.� U.S.�Dep.�Commerce,�Silver�Spring,�MD.�
+Davies,� S.�L.�and�J.�E.�Reynolds.� 2002.� Guidelines� for�developing� an�at-sea�fishery� observer�
+programme.�FAO�Fish.� Tech.�Paper�No.�414.:116�pp.�
+Davis,�K.�G.�and�D.�G.�Quelch,�editors.�2008.�Report�of�the�Observer�Professionalism�Working�
+Group�(OPWG).�5th�International�Fisheries�Observer�Conference,�Victoria,�BC�Canada,�May�
+15-18,�2007.�
+Flewwelling,� P.�1994.�An�introduction� to�monitoring,� control�and�surveillance� systems�for�
+capture�fisheries.�FAO� Technical�Paper�No.�338,�FAO,�Rome.�
+Flewwelling,�P.,�C.�Cullinan,� D.�Balton,� R.�P.�Sautter,� and�J.�E.�Reynolds.� 2002.� Recent�
+trends� in�monitoring,�control� and�surveillance�systems�for�capture�fisheries.�FAO�
+Fisheries�Technical�Paper.�No.�415,�FAO,�Rome.�
+McVea,�T.�A.�and�S.�J.�Kennelly,�(Eds.),.�2007.�Proceedings� of�the�5th�International� Fisheries�
+Observer�Conference� (IFOC),�15-18�May�2007,�Victoria,� BC�Canada.� NSW� Department� of�
+Primary� Industries,� Cronulla� Fisheries� Research� Centre� of�Excellence,�Cronulla,�
+Australia.�
+�
+�
+10�
+Version�1.1,�July�2015�(Formatted)�
+CODE OF CONDUCT FOR RESPONSIBLE OBSERVER PROGRAMMES – STAKEHOLDER
+RESPONSIBILITIES (CCROP-SR)
+Introduction
+Detailed,� systematic� and� comparable� fisheries� information� is� important� to� strengthening�
+fisheries� management� schemes� (DeYoung� 2007).� Observer� programmes� provide� the� best�
+source�of� independent�data�in� support�of� sustainable�fisheries�management�(Babcock�et�al.�
+2003,�WWF�UK�2006).� This�document� is�global�in�scope� but�does�not�intend�to�supersede�
+any� existing� international,� regional,� national,� state� /� provincial� or� local� law� or� observer�
+programme� requirements�which�may� be�more�extensive�or�restrictive.�
+�
+Observers� have� an� important� role� to� maintain� as� professional� scientists.� To� become� a�
+'qualified'� observer,� one� needs� sufficient� understanding� of� the� science� behind� the�
+management�of�the�resources�being�monitored�and�time�to�learn�their�duties.�Observers�need�
+to� develop� good� judgment� in� carrying� out� those� duties,� adhering� to� professional�
+standards� of� conduct,� and� adapting� to� the� rigors� of� a� hazardous� working� environment.�
+Multiple� stakeholders� are� responsible� for� the� various� components� of� an� observers'� work�
+environment.� For� the� purposes� of� this� document,� observer� programme� stakeholders� are�
+categorised� by� the� titles� Regulatory� Authority,� Observer� Programme,� Employer,� Monitored�
+Entity,�and�Observer.�The�intent�of� this� document� is�to�provide� explicit� guidance� regarding�
+the�responsibilities� of�each�of�these�stakeholder� groups.�
+�
+This�document�supplements�and�complements�the�provisions�in�the�International�Observer�
+Bill�of�Rights�(IOBR)�and�Code� of�Conduct� for� Responsible�Observer� Programs� –� Observer�
+Health� and� Safety� (CCROP-HS).�A� standard� list� of� definitions� is� used� for� referencing� these�
+documents� (CCROP-SR,� Glossary).� These� documents� were� distributed� for� public� comment�
+to�over�1200�stakeholders�internationally�from�February�2013�until�August�2013.�Venues�for�
+outreach� were� the� Association� for� Professional� Observers� (APO)� Mail� List,� APO� Facebook�
+Group,� the� 7th� International� Fisheries� Observer� and� Monitoring� Conference� (IFOMC)�
+Steering�Committee,�and�targeted�mail�lists�of�additional�public�stakeholders.�
+�
+The� APO� has� agreed� to� be� custodian�of� this� document
+3�and� associated�IOBR� and� CCROP-
+HS.� These� documents� will� be� modified� biennially� with� stakeholder� input.� For� enquiries,�
+comments,� contributions� and� updates,� please� contact� the� IOBR� Team:� E-mail:� iobr@apo-
+observers.org;�Web:�http://www.apo-observers.org/billofrights.�
+�������������������������������������������������������������
+3�Suggested citation: Code of Conduct for Responsible Observer Programmes – Stakeholder Responsibilities (CCROP-SR)
+[Internet]. Association for� Professional Observers (APO): The International Observer Bill of Rights and Codes of Conduct for
+Responsible Observer Programmes. Version 1.0. September 2013. Available from: http://www.apo-observers.org/billofrights.�
+11�
+Version�1.1,�July�2015�(Formatted)�
+Section I: Regulatory Authority
+�
+I.
+Regulatory�authorities�must:�
+1. Have� the� power� and� ability� to� implement� and� enforce� these� stakeholder� Codes� of�
+Conduct,�including�regular�independent�reviews�to�evaluate�stakeholders’�performance�
+in� terms� of� achieving� programme� goals,� meeting� objectives� and� implementing�
+protocols�that�result�in�the�programme’s�intended�purpose.�Evaluations�shall�include�
+input�from�observers;�
+2. Consistent�with�the�International�Plan�of�Action�on�Illegal,�Unreported�and�Unregulated�
+(IPOA�IUU)�fishing�(FAO�2001),�uphold�(through�policy,�procedure,�and�accountability)�
+that�any�Monitored�Entity�that�engages�in�IUU�fishing,�or�engages�in�business�or�trading�
+in�fish�or�fish�products�derived�from�IUU�fishing,�which�involves�interference�with�an�
+observer,� must� be� submitted� for� inclusion� on� IUU� lists� according� to� appropriate�
+Regulatory�Authority�(e.g.�RFMO)�procedures�and�criteria�(CCROP-SR�Section�IV(15));�
+3. Ensure� (through� policy,� procedure� and� accountability)� that� IOBR,� CCROP-HS,� and�
+CCROP-SR�are�upheld.�
+Section II: Observer Programme
+�
+Note:�‘Observer�Programme’�and�‘Observer�Employer’�may�be�the�same;�in�such�cases,�consider�
+both�Sections�II�and�III.�
+�
+II.
+Observer�programme�shall:�
+1. Clearly�define,�enforce,� make�transparent�(to� all� observer�programme�stakeholders),�
+and�regularly�update:��
+A. The�responsibilities� of�all�programme�stakeholders�(Davies�and�Reynolds� 2002);�
+B. A� structure� of� inter-stakeholder� communication� protocols� and� stakeholder�
+accountability,� including� regular� communications� (e.g.� radio,� e-mail)� between�
+observer�and�programme/employer�(CCROP-HS�Section�IV(7);�
+C. Observer� employer� approval� process� (e.g.� certification,� permit,� contract� award),�
+including:� criteria� for� annual� evaluation� of� observer� employer� performance,� with�
+inclusion� of� observers'� grievances,� input� and� evaluation;� protocols� for� monitoring�
+and� reporting� of� observer� employer� performance;� and,� a� system� of� fining� or�
+suspending� observer� employer� contracts� for� failing� to� meet� observer� employer�
+performance� standards�(U.S.�Dept.�of�Commerce�2004);�
+D. Objectives,�terms,�and�expectations�of�observers’�employment,�including�but�not�
+limited�to:�
+i) Define�applicant�eligibility�criteria�(including�applicable�‘waiver’�criteria)�for� who�
+a� ‘qualified�observer’�is;�competency�testing�standards;�professional�standards�of�
+conduct;�and,�indicators�for�evaluating�work�performance;�
+ii) What�factors�determine�‘quality�observer�data’;�
+iii)Parameters�for�levels�of�observers�(e.g.�‘junior’,�‘senior’;�‘level�1’,�‘level�2’);�
+12�
+Version�1.1,�July�2015�(Formatted)�
+iv)How� and� when� tools� and� strategies� such� as� Electronic� Monitoring� (EM),�
+Electronic� Reporting� (ER),� industry� self-monitoring� (NMFS� 2013)� may� be�
+utilised�as�an�alternative�to�a�‘qualified’� observer;�
+E. Terms�of� conduct�with�regards�to� reporting�assault,�harassment�(e.g.�sexual,�racial),�
+interference� or� bribery� and� enforcement� of� offenses;� and� associated� trainings� and�
+emergency�action�protocols,�particularly�in�the�context�of�the�remote�nature�of�much�
+of�observer�work�(e.g.�aboard�fishing�vessels);�
+F. Criteria�that�constitutes�a�‘bribe’;�a�‘gift’�vs.�a�‘provision’;�and�acceptable�‘gifts’�
+exchanged�between�stakeholders;�
+G. All� activities�among�stakeholders�that�constitute� a� conflict�of� interest�or� perceived�
+conflict� of� interest,� and� the� associated� policies� and� procedures� in� place� to� guard�
+against�conflict�of�interest;�
+2. Not� engage� in�an� activity� that� may� give� rise� to�the� appearance�of�a� conflict� of�
+interest� that� could� cause� a� reasonable�person�to�question�the�impartiality,�fairness�or�
+objectivity�with�which�the�observer�programme�is�administered;�
+3. Develop�policy,�procedures,�and�accountability� measures� to:�
+A. Ensure� that� observers,� observer� employer� staff� and� observer� programme� staff�
+maintain� financial� independence� from� monitored� entities;� that� all� interests� in� the�
+employment� of�observers� are�free�from�conflicting� financial� and� personal� interests�
+that� could� jeopardise� the�objectivity� of� observer� services� or� the�fair� and� equitable�
+treatment� of� observers;� including� a� system� for� separating� industry� funding� of�
+observer�programmes�from�observer�payment�(MRAG�Americas�Inc.�2000);�
+B. Require�the�observers’�right�to�a�safe�and�healthy�working�environment�(CCROP-HS�
+and�IOBR�Article�IV);�C.�Uphold�observers’�right�to�‘Observer�Programme�Support’�
+(IOBR�Article�V);D.�Protect�and�support� observers� right�to�professional�
+development,�such�as�a�plan�of�action�that�outlines� how� quality�data�collection�and�
+long-term�retention�of�observers�is�encouraged�(IOBR�Article�VII);�
+4. Develop�and�implement�statistically�valid,�unbiased�monitored�entity�selection�
+procedures;�
+5. Ensure�deployment�and�post-deployment�support�(CCROP-HS�Section�IV);�
+6. Seek�feedback�from�observer�workforce�after�every�assignment;�describing�their�
+evaluation�of�all�stages�(e.g.�briefing,�training,�deployment,�debriefing,�stand-by)�of�their�
+employment,�including�information�on�equity�issues�that�may�be�linked�to�specific�social�
+groups;�and,�produce�annual�reports�(available�to�observers)�regarding�observer�
+feedback;�
+7. Explicitly�specify�what�compliance�monitoring�duties�the�observer�has�with�the�
+monitored�entity�and�the�observer;�
+8. Maintain�awareness�of�how�other�programmes�define�observer�employment,�their�
+successes,�limitations�and�pitfalls;�and�share�information�with�other�programmes�on�
+successful�practices,�limitations�and�pitfalls;�
+9. Harmonise�on�principles�with�other�programmes�wherever�possible;�
+10. Guard�against�the�issuance�of�eligibility�‘waivers’�and�like�practices�leading�to�real�or�
+perceived�double-standards;�
+13�
+Version�1.1,�July�2015�(Formatted)�
+11. Unclear�standards�(e.g.�eligibility)�can�have�negative�impacts�on�the�morale�of�an�
+observer�workforce,�on�the�credibility�of�the�observer�data�and�the�integrity�of�the�
+programme;�
+12. Require�observer�candidates�complete�and�pass�an�observer�training�demonstrating�
+their�competency�of�core�training�modules�(McVea�and�Kennelly�2007)4�and�hands-on�
+safety�competency�components�before�being�authorised�to�work�as�an�observer�
+(CCROP-HS�Section�III(3));�
+13. Make�certain�that�any�entity�facilitating�observer�training�has�the�qualifications�and�
+infrastructure�to�provide�training�at�prescribed�standards�and�evaluate�competencies�
+and�performance�at�prescribed�levels�of�quality;�
+14. Ensure�training�elements�are�supported�by�training�materials�(e.g.�training�manual,�
+species�identification�guides)�that�detail�subject�matter�and�can�be�fully�accessed�by�
+observers�while�working;�
+15. Ensure�that�debriefings�and�performance�evaluations�are�conducted�by�observer�
+programme�personnel�who�are�experienced�in�data�collection�from�the�resources�being�
+monitored;�
+16. Ensure�options�for�mental�health�counselling�are�provided,�including�crisis�
+intervention�and�drug�and�alcohol�counselling,�independent�of�observer�programme�or�
+observer�employer�that�allow�observers�to�freely�address�psychological�stresses�of�the�
+job.�If�there�is�indication�of�a�mental�health�or�alcohol�or�drug�problem,�counselling�is�
+required�(CCROP-HS�Section�IV(8));�
+17. Develop�a�pre-deployment�safety�inspection�checklist�appropriate�to�the�class�of�
+vessels�or�worksites�to�be�monitored�and�establish�minimum�requirements�for�
+assignment�refusal�(IOBR�Article�IV(3)�and�CCROP-HS�Section�III(2)(E)(vi)�and�Section�
+IV�(1)(B)�and�(2)(B));�
+18. Ensure�observers�are�provided�with�sampling�and�safety�gear�appropriate�to�the�
+assignment�(CCROP-HS�Section�IV(9))�;�
+19. Ensure�face-to-face�debriefing�of�observers;�
+20. Develop�observer�performance�evaluation�criteria�and�conduct�observer�performance�
+evaluations�that�are�reported�back�to�observers�(in�written�form)�as�part�of�the�
+debriefing�process�and�prior�to�next�deployment;�
+21. Ensure�observer�collected�data�is�accessible�to�the�public�in�a�usable�format;�
+22. Ensure�(through�policy,�procedures,�and�accountability)�that�IOBR,�CCROP-HS,�and�
+CCROP-SR�are�upheld�with�regards�to�defining�and�enforcing�the�responsibilities�of�
+Observer�Employer,�Monitored�Entity�and�Observer�stakeholders.�
+Section III: Observer Employer
+�
+Note:�‘Observer�Programme’�and�‘Observer�Employer’�may�be�the�same;�in�such�cases,�consider�
+both�sections�II�and�III.�
+�
+�
+�������������������������������������������������������������
+4 �See�5th�Conference�Observer�Training�Work�Group�‘core’�and�‘enhanced’�training�programme�elements.�
+14�
+Version�1.1,�July�2015�(Formatted)�
+III.
+Observer�Employer�should:�
+1. Uphold�and�protect�observers’�right�to�‘Fair�and�Equitable�Employment’�(IOBR�Article�
+II),�with�policy�and�accountability�measures;�
+2. Enact�policies�to�foster�social�equity�in�all�stages�and�levels�of�observer�employment,�
+including:�
+A. Ensure�accountable�resources�are�set�aside�to�promote�social�equity;�
+B. Establish�protocols�for�including�underrepresented� social�groups�in�employment�
+recruitment;�
+C. Ensure�gender�balance�and�sensitivity�in:�employee�applicant�screenings�–� such�as,�
+medical� examinations� that� determine� aptitude� for� work;� trainings� (e.g.� life� at� sea,�
+conflict�
+scenarios);�
+and,�
+deployment�
+(e.g.�
+competitive�
+wage�
+package;�
+accommodations,� including�bathing�facilities);�
+3. With�policy�and�accountability�measures,�protect�and�support�observers’�right�to:��
+A. A�safe�and�healthy�working�environment�(CCROP-HS�and�IOBR�Article�IV);��
+B. ‘Observer�Employer�Support’�(IOBR�Article�V);�
+C. A�competitive�wage�package�(IOBR�Article�III);�D.�‘Professional� Development’� (IOBR�
+Article�VII);�
+4. Not�engage�in�an�activity�that�may�give�rise�to�the�appearance�of�a�conflict�of�interest�
+that�could�cause�a�reasonable�person�to�question�the�impartiality,�fairness�or�objectivity�
+with�which�the�observer�programme�is�administered;�
+5. Only�deploy�observers�who�have�been�trained�and�supported�according�to�observer�
+programme�standards�of�conduct.�
+6. Guard�against�discrimination�due�to�industry’s�selection�requests�for�or�against�
+individual�employees;�and,�ensure�that�selection�preferences�act�to�retain�experience�
+among�qualified�employees,�and�that�less�experienced�employees�are�not�favoured�due�
+to�less�compensation�projections;�
+7. Support�statistically�valid,�unbiased�observer�deployment�procedures�for�monitored�
+entities;�
+8. Develop�and�implement�non-discriminatory�observer�placement�procedures;�after�being�
+‘selected’�to�have�an�observer,�ensure�that�monitored�entity�(company�or�personnel)�
+cannot�influence�observer(s)�selection�and�that�observer(s)�cannot�select�specific�
+monitored�entity;�
+9. Clearly�define�observer�employment�terms�by�way�of�written�contract�with�observer�
+employees�(IOBR�Article�I).�
+10. Provide�transparent�standards�and�procedures�for�regularly�scheduled�payment�
+including�itemised�deductions�where�appropriate;�
+11. Provide�for�medical�examinations�or�‘physicals’�pertinent�to�the�specific�work�of�
+observers,�to�be�completed�by�the�observer�prior�to�deployment�(CCROP-HS�Section�I);�
+12. While�protecting�employee�privacy,�collect�observer�employment�data�(from�employee�
+recruitment�to�exit)�disaggregated�by�social�factors�such�as�gender,�ethnicity,�age,�class,�
+etc.,�with�policy�and�accountability�measures;�
+13. Uphold�and�protect�observers’�right�to�refuse�an�assignment�with�documentation�of�
+reason�and�without�negative�repercussions�or�requirement�that�the�observer�address�
+15�
+Version�1.1,�July�2015�(Formatted)�
+the�issue�(IOBR�Article�IV(2)�and�CCROP-HS�Section�IV�(2)(B)).�In�any�case�that�a�
+monitored�entity�breaches�the�guidelines�of�observer�programme�and/or�observer�
+employer�(especially�with�regards�to�observer�health,�safety�and�general�welfare),�the�
+observer�employer�shall�remove�the�observer(s).�Henceforth,�the�observer�employer�
+shall�submit�a�full�report�to�that�monitored�entity.�The�observer�employer�shall�only�
+provide�a�replacement�Observer�when�the�issue(s)�surrounding�observer�refusal�or�
+removal�event�has�been�satisfactorily�resolved;�
+14. Ensure�adequate�break�time�between�deployments�and�deployment�notice�(CCROP-HS�
+Section�I(2)(C)�and�Section�IV(6)�and�(8));�
+15. Conduct�observer�performance�evaluations�that�are�reported�back�to�observers�(in�
+written�form)�as�part�of�the�debriefing�process�and�prior�to�next�deployment;�
+16. Communicate�with�the�Observer�Programme�within�24�hours�any�reports�or�
+investigation�of:��
+A. Violations�observed;�
+B. Refusals�of�vessels�for�any�reason;�
+C. Assault,�harassment,�interference�or�bribery�attempts�reported�by�observer;�
+D. Injuries;�
+E. Observer�misconduct;�
+17. Ensure�(through�policy,�procedures�and�accountability)�CCROP-SR,�CCROP-HS�and�
+IOBR�are�upheld�with�regards�to�defining�and�enforcing�the�responsibilities�for�
+Monitored�Entity�and�Observer�stakeholders.�
+Section IV: Monitored Entity
+�
+IV.
+Monitored�Entity�shall:�
+1. Ensure�that�masters/managers,�crew�and�owners�of�the�monitored�entity�do�not�
+obstruct,�intimidate,�harass,�assault,�interfere�with,�influence,�bribe�or�attempt�to�bribe�
+an�assigned�observer�(IOBR�Article�IV(1));�
+2. Take�appropriate�measures�within�competence�to�ensure�to�the�extent�possible�that�any�
+observer�designated�by�observer�employer�and/or�observer�programme�will�be�allowed�
+on�board/premises�to�observe�and�report�on�monitored�entity�activities,�as�agreed�
+upon;�
+3. Ensure�that�master/manager�of�monitored�entity�shall�accept�deployment�of�observers�
+on-board/on-site�without�regard�to,�inter�alia,�observer�gender,�ethnicity,�race,�spiritual�
+beliefs,�age,�class,�sexual�preference,�nationality,�or�political�activities;�
+4. When�operating�a�vessel,�ensure�personnel�comply�with�the�stability�report�or�stability�
+guidelines;�
+5. Take�steps�as�are�necessary,�including�the�instruction�of�its�on-board/on-site�
+master(s)/manager(s)�to�assist�in�the�prompt,�efficient�and�safe�embarkations�and�
+disembarkations�of�observers�(CCROP-HS�Section�IV(3));�
+6. Acknowledge�and�respect�observers’�right�to�refuse�an�assignment�(IOBR�Article�IV(2)�
+and�CCROP-HS�Section�IV(1)(B));�
+16�
+Version�1.1,�July�2015�(Formatted)�
+7. Acknowledge�and�support�that,�prior�to�deployment,�observers�shall�conduct�a�(pre-
+deployment)�safety�inspections�and�a�familiarisation�tour�of�monitored�entity�(CCROP-
+HS�Section�IV(2)(B)�and�IOBR�Article�IV(2�and�3);�
+8. Acknowledge�and�support�that�the�observer�employer�may�need�to�recover�the�observer�
+from�monitored�entity�at�any�time�during�the�deployment�period.�Replacement�of�an�
+observer�prior�to�the�completion�of�deployment�may�become�necessary,�for�example�in�
+the�following�circumstances�(this�list�is�provided�for�guidance�only�and�is�not�
+exhaustive)�(ICCAT�2007):�
+A. The�observer�needs�urgent�medical�attention�that�is�unavailable� on�monitored�
+entity�or�is�injured�or�ill�to�the�extent�they�are�prevented�from�performing�their�
+duties�for�the�remainder�of�their�intended/planned� deployment;�
+B. As� a� result�of� an� unforeseen�family�emergency�involving�the� Observer�(e.g.�death�or�
+serious�illness�of� a� close�member�of�the�observer’s�family);�
+9. Allow�observers�access�to�monitored�entity�personnel�and�to�gear�and�equipment�
+pertinent�to�their�duties�or�maintaining�their�safety;�
+10. Allow,�upon�request,�observer�access�to�the�following�equipment,�if�present�on�
+monitored�entity�to�which�they�are�assigned,�in�order�to�facilitate�the�carrying�out�of�
+their�duties:�
+A. Satellite�navigation�and�communications� equipment;��
+B. Radar�display�viewing�screens�when�in�use;�
+C. Electronic�means�of�communication� (e.g.�email,�fax);�
+11.�Amply� inform� observer(s)�according�to� observer� programme�policy,� of� all� monitored�
+entity� activity� plans� pertinent� to�performance� of�their�duties;�
+12.�Provide�observer(s)�with�accommodations,�according�to� the� minimum�standards�listed�
+in� CCROP-HS�Section�IV(4)�(IOBR�Article�IV(5));�
+13.� Provide� observer(s)� with� adequate� space� for� completing� clerical� work,� as� well� as�
+adequate�space�and�accommodations�for�carrying�out�their�field�duties�(e.g.�on�deck,�in�
+factory);�
+14.�Not�engage�in�an�activity�that�may�give�rise�to�the�appearance�of�a�conflict�of�interest�
+that�could�cause�a�reasonable�person�to�question�the�impartiality,�fairness�or�objectivity�
+with�which�the�observer�programme�is�administered�(See�above�-�Section�II(3)(A);�
+15.�Acknowledge�that:��
+A. Any�Monitored�Entity�that�engages�in�IUU�fishing�or�engages�in�business�or�trading�in�
+fish� or� fish� products� derived� from� IUU� fishing� involving� interference� with� an�
+observer,� must� be� submitted� for� inclusion� on� IUU� lists� according� to� appropriate�
+Regulatory�Authority�(e.g.�RFMO)�procedures�and�criteria;�and,��
+B. A�Monitored�Entity�is�presumed�to� have�carried�out�IUU�fishing�activities�-� consistent�
+with�the� IPOA�on� IUU�fishing,�when�an� observer�programme� stakeholder� presents�
+documented�information�that�such�activity�has�occurred,�including� having:�
+i) Interfered�in� any� way� with� an� observer�that� prevents�the� observer�from�
+recording�or� reporting�according�to� the�observer’s�duties,�consistent�with�
+conservation�and�management� measures;�
+17�
+Version�1.1,�July�2015�(Formatted)�
+ii) Coerced,�bribed,�attempted�to�bribe,�or�otherwise�influenced�an�observer�to�
+make�false�reports,�or;�
+iii)Engaged�in� any�other�activities�that�undermine�the� provisions�of� the� regulatory�
+authority,�convention,�observer�programme�or�any�other�conservation�measures;�
+including�the�proper�function�and�engagement�of�observers;�
+16.� Acknowledge� that� in� the� event� the� monitored� entity� breaches� agreements� with�
+observer� programme/observer� employer,� the� observer� employer� shall� remove� the�
+observer.�In�such�circumstances�the�monitored�entity�will�take�such�steps�as�necessary�
+for�the�prompt,�efficient�and�safe�recovery�of�the�observer,�including�cooperation�with�
+the�observer�employer.�In�such�a�situation,�the�observer�employer�shall�submit�a�full�
+report�to�the�monitored�entity�and�observer�programme.�The�observer�employer�shall�
+only�provide�a�replacement�Observer�when�the�issue(s)�surrounding�the�event�has�been�
+satisfactorily�resolved.�
+Section V: Observer
+�
+V.
+Observer�shall:�
+1.� Provide� proof� of� medical� and� physical� employment� criteria� as� defined� in� CCROP-HS�
+Section�I;�
+2.��Maintain� professionalism� in� work;� attempt� at� all� times� to� have� a� professional� and�
+courteous� relationship� with� industry� and� monitored� entity� personnel;� and,� avoid�
+behaving�in�a�manner�that�could�adversely�affect�the�public�confidence�in�the�integrity�of�
+the�observer�programme,�the�observer�employer,�the�data�provided�or�other�observers;�
+3.��Maintain�independence�at�all�times�and�shall�report�any�attempt�to�compromise�their�
+independence;� including� attempts� to� assault,� harass,� bribe,� or� interfere� with� their�
+duties;�
+4.��Adhere� to� all� safety� guidelines� set� forth� by� their� observer� programme;� including�
+appropriate�knowledge�and�use�of�safety�gear�and�performance�of�safety�checks�during�
+their�deployment�(CCROP-HS);�
+5.��Ensure�that�they�do�not�hinder�or�interfere�with�the�proper�functioning�of�their�assigned�
+monitored�entity;�observers�will�respect�all�property�and�equipment�and�living�space�on�
+board/at�monitored�entity,� including� documents,�logbooks�andactivity�plans�and�shall�
+respect� the� safety,� sanitary� rules,� chains� of� command,� and� regular� functions� of� their�
+assigned�monitored�entity;�
+6.��Recognise�that� observers� are�not� law� enforcement�officers� but�shall� be�firm,�fair�and�
+tactful� in� giving� official� notice� of� potential� compliance� issues� to� monitored� entity.�
+Observers�do�not�possess�the�authority�to�direct�any�monitored�entity�function�(Dietrich�
+et�al.�2012);�
+7.��Diligently�perform�assigned�duties�as�described� by�their�observer�programme� and� as�
+described�in�observer�programme�resources�(e.g.�manuals);�
+8.�Accurately�record�their�data,�write�complete�reports�and�report�accurately�and�honestly�
+any� observations� of� suspected� violations.� Truthfully� follow� scientific� protocols� as�
+prescribed;�if�data�are�not�known,�record�as�such;�
+18�
+Version�1.1,�July�2015�(Formatted)�
+9.��Preserve�the�confidentiality�of�the�collected�data�and�observations�made�during�their�
+employment;�Observers�shall�ensure�that�data�and�information�collected�are�kept�secure�
+and�confidential�at�all�times,�and�are�not�disclosed�to�any�person�who�is�not�approved�by�
+their�observer�programme;�
+10.�Expressly�refrain�from�any�illegal�actions�or�activities.�This�includes,�but�is�not�limited�
+to:��
+A. Engaging�in�the�use�or�distribution�of�illegal�substances;�
+B. Soliciting� or� accepting,� directly� or� indirectly,� any� bribes� from� anyone� who� has�
+interest(s)� that� may� be� substantially� affected� by� the� performance� or� non-
+performance� of� the� observers'� official� duties.� Soliciting� or� accepting,� directly� or�
+indirectly,�bribes�in�money� or�kind�(e.g.�gratuity,� gifts,�favours,� loan,�and�future�job�
+opportunities)� from� anyone� who� has� interest(s)�that� may� be� substantially�affected�
+by� performance� or� non-performance� (neglect)� of� the� observer’s� official� duties,�
+before�or�after�deployment;�
+11.�Not�engage�in�an�activity�that�would�compromise�their�independence�or�give�rise�to�the�
+appearance�of�a�conflict�of�interest�that�could:�cause�a�reasonable�a�person�to�question�
+the� impartiality,� fairness� or� objectivity� with� which� the� observer� programme� is�
+administered;�significantly�impair�the�observer’s�ability�to�perform�his/her�duties;�or,�
+adversely� affect� the� overall� image� observers,� programme,� employers,� their�
+accomplishments�or�missions.�Observers�may�not:�
+A. Select�their�monitored�entity;�
+B. Have� direct� financial� interest� in� the� monitored� industry,� other� than� the� provision�
+of� observer� services� including,� but� not� limited� to,� monitored�entity(s)� involved� in�
+the� catching,� processing,� transport� of� the� products� of� the� industry;� otherwise�
+impacting� living�aquatic� resources;� companies� selling�supplies� or�services�to�at-sea�
+or� dockside� locations;� or� companies� purchasing� raw� or� processed� products� from�
+monitored� entities;�
+C. Serve� as� observers� of� any� monitored� entity� owned� or� operated� by� a� person� who�
+previously� employed�the�observer�in�any�capacity;�
+D. Solicit�or� accept�employment�as� a� crew�member�or� an�employee�of� the�monitored�
+entity�in� any�fishery�while�employed�as�an�observer;�
+E. Engage� in� physical� or� emotional�relationships�(including�but� not� limited� to� sexual�
+contact)� with� monitored�entity�personnel;�
+F. Engage� in� drinking� of� alcoholic� beverages� while� on� duty� or� engaging� in� excessive�
+drinking� of� alcoholic� beverages� at� any� time� (note:� if� the� monitored� entity�
+maintains�a�stricter� alcoholic�beverage�policy� for� its�employees,�then� the�observers�
+should�comply�with�that�policy);�
+G. Serve�as�an�observer�for�periods�of�time�that�would�lead�to�excessive�familiarity�
+with�a�monitored� entity.�
+�
+�
+�
+19�
+Version�1.1,�July�2015�(Formatted)�
+References
+�
+Babcock,� E.� A.,� E.� K.� Pikitch,� and� C.� G.� Hudson.� 2003.� How� much� observer� coverage� is�
+enough� to� adequately� estimate� bycatch?� Oceana,� Washington� D.C.,� Pew� Institute� for�
+Ocean� Science,� Miami,� FL.Davies,� S.� L.� and� J.� E.� Reynolds.� 2002.� Guidelines� for�
+developing� an� at-sea� fishery� observer� programme.� FAO� Fish.� Tech.�Paper� No.�414.:116�
+pp.�
+DeYoung,�C.� e.� 2007.� Review�of� the� state� of� world� marine� capture�fisheries�management:�
+Pacific� Ocean.� FAO� Fisheries�Technical�Paper.�No.�488/1,�FAO,�Rome.�170�pp.�
+Dietrich,� K.,� et� al� (Compiler).� 2012.� West� Africa� Regional� Scientific� Observer� Training�
+Manual,�Version�1.2.�Developed�for�NOAA�Fisheries�and�ICCAT�Fisheries�Capacity�Building�
+Fund.�http://www.kimdietrich.com/WAfr-Manual/WAfr-�Manual-v1.2.htm.�
+FAO.� 2001.� International� Plan� of� Action� to� prevent,� deter� and� eliminate� illegal,�
+unreported�and� unregulated�fishing.� FAO.�Rome.� 24p.� http://www.fao.org/fishery/ipoa-
+iuu/en.�
+ICCAT.�2007.�Memorandum�of�Understanding�between�Marine�Resources�Assessment�Group�
+and� Capricorn� Fisheries� Monitoring� and� XXXX� (Carrier� Vessel� Operator)� -� Draft�
+Template.� International� Commission� for� the� Conservation� of� Atlantic� Tunas� (ICCAT)�
+Regional�Observer�Programme.�http://www.iccat.int/Documents/Other/ROP_MOU.pdf.�
+McVea,� T.�A.�and�S.�J.� Kennelly� (Eds.).� 2007.� Proceedings�of�the� 5th� International�Fisheries�
+Observer� Conference,�15-18�May�2007,�Victoria,�BC�Canada.�NSW�Department�of�Primary�
+Industries,�Cronulla�Fisheries�Research�Centre�of�Excellence,�Cronulla,�Australia.�
+MRAG� Americas� Inc.� 2000.� Independent�Review� of� the� North� Pacific� Groundfish�Observer�
+Program.� Prepared� for� NMFS� North� Pacific� Groundfish� Observer� Program,� Tampa,� FL.�
+128pp.�
+NMFS.� 2013.� Electronic� Monitoring� and� Electronic� Reporting:� Guidance� &� Best� Practices�
+for�Federally-Managed�Fisheries.�Discussion�Draft.�August�2013.�58�pp.�
+U.S.� Dept.� of� Commerce.� 2004.� NMFS� Observer� Programs� Should� Improve� Data� Quality,�
+Performance�Monitoring� andOutreach� Efforts.� Final� Audit� Report� No.� IPE-15721,� Dept.�
+of�Commerce,� Office�of�Inspector�General,�Washington� D.C.�64pp.�
+WWF�UK.� 2006.� Observer�programmes:�best� practice,�funding�options�and� North�Sea� case�
+study.�A� report�to� WWF�by�Marine�Resource�Assessment�Group�(MRAG).�
+20�
+Version�1.1,�July�2015�(Formatted)�
+CODE OF CONDUCT FOR RESPONSIBLE OBSERVER PROGRAMMES – OBSERVER HEALTH
+AND SAFETY (CCROP-HS)
+Introduction
+�
+Observer� programmes� are� tasked� with� monitoring� aquatic� resources� which� provide� a�
+vital� source� of�food,� employment,�recreation,� trade� and� economic� well-being� for� people�
+throughout� the� world,� both� for� present� and� future� generations� and�should� therefore� be�
+conducted�in�a�responsible�manner.�This�document�is�global�in�scope�but�does�not�intend�
+to� supersede� any� existing� international,� regional,� national,� state� /� provincial� or� local�
+law�or�observer� programme�requirements�which�may�be�more�extensive�or�restrictive.�
+�
+Recognising� that� fishing� is� considered� to� be� the� world’s� most� dangerous� occupation,�
+with�more�than�24,000�casualties� per�year�(International�Labour� Organisation�1999)�and�
+observers� are� deployed� to� a� wide� range� of� entities,� the� intent� of� this� document� is� to�
+provide� regulatory� authorities� and� observer� programmes� with� a� set� of� international�
+standards�for�responsible�practices� with� a�view� toward� minimising�the�health� and�safety�
+risks� to� observers� during� their� employment.� The�concept� of�this�document� draws�from�
+previous� guidelines� for� the� development� of� observer� programmes� (van� Helvoort� 1986;�
+Davies� and� Reynolds� 2002)� and� was� further� developed� by� the� Observer� Safety�
+Working� group� in� 2006� at� the� 5th� International�Fisheries� Observer� Conference�(McVea�
+and� Kennelly� 2007;� National� Marine� Fisheries� Service� 2007a,� b).�Observer� programmes�
+are� encouraged� to� apply� this� CCROP-HS� to� the� maximum� extent� in� order� to� advance�
+health� and� safety� training� and� increase� health� and� safety� awareness� to� the� extent�
+practicable�thereby�minimising� risks.�
+�
+This� document� supplements� and� complements� the� provisions� in� the� International�
+Observer�Bill� of� Rights�(IOBR)�and�Code�of� Conduct�for� Responsible�Observer�Programs�-�
+Stakeholder� Responsibilities� (CCROP-SR).� A� standard� list� of� definitions� is� used� for�
+referencing� these� documents� (CCROP-SR,� Glossary).� These� documents� were� distributed�
+for� public�comment�to�over�1200�stakeholders� internationally� from�February�2013�until�
+August�2013.�Venues�for�outreach�were�the�Association� for�Professional� Observers� (APO)�
+Mail�List,�APO�Facebook� Group,�the�7th�International� Fisheries� Observer�and�Monitoring�
+Conference� (IFOMC)� Steering� Committee,� and� targeted� mail� lists� of� additional� public�
+stakeholders.�
+�
+The�APO�has�agreed�to�be�custodian�of�this�document5�and�associated�IOBR�and�CCROP-SR.�
+These� documents� will� be� modified� from� time� to� time� with� stakeholder� input.� For�
+enquiries,� comments,� contributions�and� updates,� please� contact�the�IOBR�Team:� E-mail:�
+iobr@apo-observers.org;�Web:�http://www.apo-observers.org/billofrights.�
+�������������������������������������������������������������
+5�Suggested citation: Code of Conduct for Responsible Observer Programmes – Observer Health and Safety (CCROP-HS)
+[Internet]. Association for Professional Observers (APO): The International Observer Bill of Rights and Codes of Conduct for
+Responsible Observer Programmes. Version 1.0. September 2013. Available from: http://www.apo-observers.org/billofrights.�
+21�
+Version�1.1,�July�2015�(Formatted)�
+Section I: Medical and Physical Employment Criteria6
+1.
+Medical certificates7
+A. Observer� shall� possess� a� valid� medical� certificate� issued� by� a� qualified� medical�
+examiner� stating� the�observer� is� physically� fit� for� duty� (CCROP-SR� Section� III(11)�
+and�Section�V(1)).�
+B. Medical�certificates�shall�automatically� expire�after�one�year�or�as�required�by�national�
+standards.�
+C. Observer�programme�shall�provide�medical�examiner�with�written�guidance�on�the�
+procedures�for�the�conduct�of�observer� medical� examinations;�including� applicable�
+job� description,� description� of� living� /� working� conditions� and� psychological�
+stressors�at� the� various�work� sites,� an� estimate�of� time� it� would�take� for� observer�
+to� seek� medical� attention,� and� list� of� physical� expectations� as� defined� by� the�
+programme.�At�a�minimum,� the� physical�expectations�shall�include:�
+i. Vision�shall�be�correctable�to�20/30;�
+ii. Hearing� capacity� for�shall� be� at�least� 30�dB�(unaided)� in�the�better� ear� and�40�
+dB�(unaided)� in�the� less� good� ear� within�the� frequencies�500,�1,000,�2,000�and�
+3,000�Hz� (approximately�equivalent�to� speech-hearing�distances�of�3�meters�and�
+2�meters,�respectively);�
+iii. Ability�to�repeatedly�lift�a�minimum�of�25�kg;�
+iv. Ability�to�fit�through�passageways�of�a�size�appropriate�to�assignment.�
+D.�Medical� examiners� should� understand� their� ethical� position� as� examining� medical�
+practitioners� acting� on� behalf� of� the� observer� programme,� ensuring� that� any�
+conflicts�with�this�are�recognised�and�resolved,�and�should�obtain�informed�consent�
+from�the�observer�prior�to�any�communication�with�others�about�clinical�aspects�of�
+the�observer’s� health.�
+E.� Medical� examiners� should� enjoy� absolute� professional� independence� from� the�
+monitored� industry,� observers,� and� their� representatives� in� exercising� their�
+medical�judgment�in�terms�of�the�medical�examination� procedures.�
+2.
+Preventive Measures
+A. Observers� shall� be� vaccinated� for� tetanus� and� other� communicable� diseases� as�
+appropriate� and� determined� by� the� observer� programme.� The� World� Health�
+Organisation�(WHO)�International�Travel�and�Health�website�[www.who.int/ith/en/]�
+should�be�consulted�for�regional�recommendations.�
+B. Observers� shall� submit� to� an� annual� mental� health� evaluation� or� questionnaire.�
+Results� of� this� evaluation� will� be� held� confidential� according� to� the� laws� of� the�
+country�of�the�hiring�or�administrating� observer� programme.�
+�������������������������������������������������������������
+6�Based on elements of (Transport Canada 2007, 2008, ILO 2011).�
+7�A medical certificate may be an official document or an informal summary of a physical examination as long as it states the observer is
+physically fit for duty.�
+22�
+Version�1.1,�July�2015�(Formatted)�
+C. Observer� programmes� shall� allow� break� time� between� deployments� and� work-
+leave� options� that� allow� observers� to� recover� mentally� and� physically,� including�
+clear�protocols�with�established�time�frames.�
+D. Observers� shall�have�basic�swimming� skills.�Ability� to�swim�500�meters� and�tread�
+water�for�30�minutes�is�highly�recommended.�
+Section II: Medical Training
+�
+1.
+Basic Training
+Observers�shall�possess�certification�for:�
+A. Elementary/Basic� First�Aid.�NMFS�(2007a)�provides�a�thorough�list�of�
+competencies� for�First�Aid�training;��
+B. CPR�(cardiopulmonary� resuscitation);�
+C. Preventing� Disease� Transmission� (PDT;� incl.� Methicillin-resistant� Staphylococcus�
+aureus� (MRSA),� hepatitis,�tuberculosis,�sexually�transmitted�diseases�(STDs)).�
+2.
+Additional Training
+Recognising� observers� are� sometimes� the� most� well� trained� person� to� provide� medical�
+treatment� at� a� deployment� site,� observers� are� encouraged� to� seek� the� following�
+additional�certifications:�
+A. First�Aid�-�Offshore/Wilderness/Marine;�
+B. CPR�&�AED�(automated�external�defibrillator).�
+Section III: Health and Safety Training
+1.
+Training length
+The� minimum� recommended� time� allotted� for� the� initial� health� and� safety� training�
+(excluding� medical� training� described� in� Article� II)� for� new� observers� is� 24� hours;�
+however,�it� may� take� up� to� 48� hours�to�adequately�cover�the�full�list�of�topics.�Observers�
+should�complete�an�annual�refresher�course�(16-32�hours).�
+2.
+Minimum Health and Safety Training Topics (IMO 1978)8
+The�following� topics� shall�be�included� in�observer�training:�
+A. General�Health�and�Safety�Topics�
+i.
+Appropriate� clothing��
+ii.
+Nutrition�
+iii.
+Hydration�and�dehydration�
+iv.
+Fatigue�/�sleep�deprivation��
+v.
+Seasickness�
+vi.
+Sanitation�
+�������������������������������������������������������������
+8�Many of these topics overlap modules of the STCW95 Personal Survival Techniques (PST) and Personal Safety and Social
+Responsibilities (PSSR), as well as the Offshore Petroleum Industry Training Organisation (OPITO) Basic offshore survival induction
+emergency training (BOSIET), Helicopter underwater escape training (HUET) and basic survival training (BST) courses
+23�
+Version�1.1,�July�2015�(Formatted)�
+vii.
+Infections�/�communicable� disease��
+viii.
+Personal�medications�
+ix.
+Sampling�safety�(ergonomics,�proper�location,�safe�lifting�technique)�
+x.
+Psychological� health�
+xi.
+Conflict�resolution�-�definition,�recognition,�de-escalation,�and�documentation��
+xii.
+Harassment�(incl.�assault,�interference,� bribery,�sexual�harassment)�
+xiii.
+Drug�/alcohol�use,�abuse�and�hazards��
+xiv.
+Cultural�awareness�
+xv.
+Communicating� personal�and�worksite�health�&�safety�concerns�to�programme�
+xvi.
+Assignment�refusal�policy�for�safety�or�other�reasons�(See�IOBR�Article�IV(2)�and�
+CCROP-SR� Section�III(13))�
+B. Vessel/Shore-based�Facility/Offshore�Installation�Hazard�Topics�
+i.
+Embark/disembark��
+ii.
+Transfers�at�sea�
+iii.
+Vessel,�deck�&�rigging�hazards��
+iv.
+Falls�and�slips�
+v.
+One�hand�for�the�boat�(deck�safety)�
+vi.
+Stability� -� basic� terminology,� risk� factors� associated� with� different� fisheries,�
+stability�reports�&�guidelines�and�general�rules�of�thumb�(large�and�small�vessel�
+issues),�importance�of�fire/weather-tight�and�watertight�doors�
+vii.
+Hazardous�materials�(e.g.�CO,�hydrogen�sulphide,�ammonia)�
+viii.
+Small�boat�handling�&�outboard�motor�operation�(programme� dependent)�
+ix.
+Gear�hazards�(fishery,�worksite�specific)�
+x.
+Hazardous�marine�organisms�
+xi.
+[recommended]� Helicopter�safety,�transport�operations�and�rescue�
+C. Safety�Equipment�Topics�
+i.
+Personal� floatation� devices� (PFD)� -� proper� donning,� inspect� for� wear,� proper�
+storage,�lights�(check�batteries)�and�maintenance�
+ii.
+Immersion� suits� (colder� water� fisheries)� -� proper� donning,� inspect� for� wear,�
+proper�storage,�strobes/PFD�lights�(check�batteries)�and�maintenance�
+iii.
+Other�floatation�and�rescue�devices�-�life�ring,�life�sling�
+iv.
+Radio/Communication�equipment�-�location,�emergency�instructions,�how�to�use�
+v.
+Positioning�equipment�-�location,�how�to�read�a�GPS�
+vi.
+Alarms�(general,�emergency,�radar/watch,� engine)�
+vii.
+Survival�craft�–�proper�installation,�location,�capacity,�expiration�and�required�
+equipment�
+viii.
+Hydrostatic�release�unit�on�raft�–�proper�installation,� expiration�
+ix.
+EPIRBS�–�models/designs,� battery�expiration�dates,�hydrostatic�release�
+expiration�dates,�registration� decal�information,�testing�by�vessel�personnel�
+x.
+Fire�extinguishers�-�different�styles,�reading�labels,�which�type�to�use�depending�
+on�type�of�fire,�locations�and�maintenance�
+xi.
+Signalling�devices�(passive�and�active)�
+xii.
+Pyrotechnics� (flares)�
+24�
+Version�1.1,�July�2015�(Formatted)�
+xiii.
+Survival�kits�-�SOLAS�approved��
+xiv.
+Survival�kits�-�personal�&�vessel��
+xv.
+Man�Overboard�(MOB)�devices��
+xvi.
+Flood�control�kit�
+xvii.
+Other�personal�protective�equipment�(e.g.�hardhats,�ear�protection)�
+xviii. Dewatering�pump�assembly�and�operation�
+Optional:�
+xix.
+USCG�Damage�Control�Trailer�
+xx.
+Helicopter�rescue/transport�
+D. Survival�Training�Topics�
+i.
+Seven�Steps�to�Survival�(Recognition,�Inventory,�Shelter,�Signals,�Water,�Food,�
+Play)�
+ii.
+Station�bills��
+iii.
+May�Day�
+iv.
+Man�overboard� (MOB)�
+v.
+Life�ring�or�buoys�–�number�on�board�and�location��
+vi.
+Observer�overboard�(stay�rules)�
+vii.
+Escape�plan�(egress�-�getting�to�the�muster�station)�
+viii.
+Abandon�ship�(getting�from�muster�station�to�life�raft)�
+ix.
+Flooding�
+x.
+Fire�and�fire�fighting�
+xi.
+Hypothermia�/�hyperthermia�(location�dependent)�
+xii.
+Cold�water�near�drowning�(location�dependent)��
+xiii.
+Drills�
+E. Regulatory�Topics�
+i.
+International�Convention�for�the�Safety�of�Life�at�Sea�(SOLAS)�
+ii.
+Safety�regulations�pertaining�to�monitored�entity�(country�specific)�
+iii.
+Regulations/rules� pertaining�to�the�health,�safety�&�welfare�of�observers�(e.g.�
+accommodation� requirements,�assault,�harassment,�interference�and�bribery)�
+iv.
+Boarding�by�enforcement� entity�
+v.
+Compliance�reporting�procedures�and�enforcement�follow-up� expectations��
+vi.
+How�to�complete�the�pre-deployment� safety�checklist�
+Optional:�
+vii.
+HACCP�regulations�for�working�with�seafood�
+3.
+Required Competencies9
+The�following�competencies�shall�be� included�as� part� of� observer�health�and�safety�training:�
+A. Participate�in�role�play�demonstrating� ability�to�resolve�a�conflict�situation;��
+B. Demonstrate�proper�lifting�techniques10;�
+�������������������������������������������������������������
+9� See NMFS (2007a) and Davies and Reynolds (2002) for more detailed lists of competencies.�
+10� See Ajango et al. (2004), Appendix G, for more detailed steps for these items.�
+25�
+Version�1.1,�July�2015�(Formatted)�
+C. Complete� a�pre-boarding� safety�checklist� on�board�a�vessel�(or�simulate� completion�
+of�a�checklist� if�a�vessel� is�not�available)�which�includes�identifying�the�location�and�
+service�status�of�critical�lifesaving�equipment;�
+D. Perform�and/or�participate�in�a�vessel�(or�simulated)�orientation�including�identification�
+of�muster�and�embarkation�stations�and�emergency�escape�routes;�
+E. Demonstrate�ability�communicate�with�other�persons�on� board�on� elementary�safety�
+matters�and�understand�safety�information�symbols,�signs�and�alarm�signals;�
+F. Recite�Seven�Steps�to�Survival�and�describe�what�each�step�means;��
+G. Demonstrate�the�correct�use�and�adjust�the�fit�of�a�PFD;�
+H. Demonstrate� how�to�inflate�a�Type�V�PFD;�
+I. Demonstrate�proper�donning�of� an� immersion�suit� within�60� seconds*including�the�
+inflation�of� the� flotation�bladder�and�turning�on�light;�
+J. Demonstrate�proper�jumping�techniques�for�entry�into�the�water�wearing�a�PFD�or�
+immersion�suit;��
+K. Demonstrate�the�HELP�position�with�a�PFD�on�in�the�water;�
+L. Demonstrate�the�HUDDLE�position�with�a�PFD�on�in�the�water;�
+M. Demonstrate�the�chain�swim�with�a�PFD�or�immersion�suit�on�in�the�water;�
+N. Demonstrate�the�proper�securing�and�release�of�the�hammer�type�hydrostatic� release;��
+O. Describe�steps�to�safely�deploy�a�life�raft;�
+P. Board�a�life�raft�from�the�vessel�(or�dock/pool�side)�(with�or�without�assistance);��
+Q. Board�a�life�raft�from�the�water�(with�or�without�assistance);�
+R. Demonstrate�righting�of�a�capsised�a�life�raft�;�
+S. Demonstrate�the�function�of�at�least�one�piece�of�equipment�in�a�SOLAS�A�kit;��
+T. Demonstrate�the�proper�technique�for�testing�an�EPIRB;�
+U. Describe�(or�if�possible�demonstrate)�the�five�steps�in�the�proper�use�of�portable�fire�
+extinguishers�to�fight�a�fire*;�
+V. Demonstrate�the�five�most�important�components�of�a�proper�MAYDAY� call;��
+W. Demonstrate� ability�to�use�signal�mirror�&�whistles;�
+X. Demonstrate�proper�technique�for�deploying�at�least�one�type�of�pyrotechnic� device;�
+Y. Assemble�personal�survival�kit�and�explain�components�to�classmates;�
+Z. Demonstrate�communication�and� writing� skills� necessary�to�properly� document�and�
+report� potential� violations�that�jeopardise�observer�health�or�safety;�
+AA. Describe�appropriate�steps�to�take�if�a�person�falls�overboard,�fire�or�smoke�is�
+detected,�or�the�fire�or�abandon�ship�alarm�is�sounded;�
+BB. Demonstrate�ability�to�take�immediate�action�upon�encountering�an�accident�or�other�
+medical�emergency�before�seeking�further�medical�assistance�onboard;�
+Optional:�
+CC. Demonstrate�ability�to�assemble�and�start�a�dewatering�pump�
+DD. Demonstrate�basic�navigation�skills,�ability�to�start�an�outboard�motor,�and�
+manoeuvre�a�small�boat/skiff.�
+�
+�
+26�
+Version�1.1,�July�2015�(Formatted)�
+4.
+Safety during Hands-on Component of Training
+Each�programme� will�develop�protocols�to�ensure�the�safety� of�observers� during�safety�
+training� such�as�requirements�to�be�met�during�pool�or�open�water�exercises,� flare�
+exercises�and�fire�fighting�exercises11.�
+Section IV: Worksite Health and Safety
+(See�CCROP-SR�Section�II�and�III)�Observer�programme�and/or�employer�shall:�
+1.
+Legal and programmatic policy framework
+A. Establish�policies,�based�on�laws�made�by�the�regulatory� authority,�to�report�incidents�
+concerning� the� observer’s� ability� to� conduct� their� duties� free� of� assault,� harassment,�
+interference�and�bribery�to�the�appropriate�enforcement�entity.�
+B. Recognise�an� observer’s�right�to� refuse�an� assignment�and� develop�guidelines�to� assist�
+observers�in� making�decisions�regarding�their�health,�safety�and�welfare.�
+2.
+Transportation Safety
+A. Develop�guidelines�to�be�followed�if�observer�is�expected�to�utilise�motor�vehicles�(e.g.�
+cars,� motorbikes),� aircraft� or� transport� vessels� in� the� course� of� completing� duties.�
+Specialised�training�may�also�be�required.�
+B. Pre-deployment� Safety� Checklist� -� Develop� a� pre-deployment� safety� checklist�
+appropriate� to� the� class� of� vessels� or� worksites� to� be� monitored� and� establish�
+minimum�requirements�for� assignment�refusal.� The� purpose� of� the� checklist� is�to� aid�
+in�familiarising� observers� with�safety�procedures� and�equipment� prior�to�deployment�
+(See� Box� 1� for� sample� list).� The� checklist� shall� be� completed� and� submitted� to� the�
+observer�programme� or�employer� prior�to�each� observer� deployment.�If�the�minimum�
+requirements� of� the� checklist� are� not� met,� the� observer� may� not� embark� until� they�
+have� contacted� and� reported� these� to� their� observer� programme� or� employer.�
+Observers�are�not�official�safety�inspectors;�therefore,�the� minimum�requirements�(See�
+boxes�below)�consist�of� determining� the� presence/absence� of� certain� pieces� of� safety�
+equipment.�
+3.
+Embarkation/Disembarkation/Transfer Protocols
+Observer�programmes�or�employers�shall�develop� embarkation/disembarkation/� transfer�
+protocols�to�minimise�risk�which�require�the�observer� to:�
+A. Not� embark/disembark/transfer�to� a�monitored�entity� if�observer�deems�
+embarking/disembarking�to� be� unsafe�(based�on�training�and�experience);�
+B. Not�be�intoxicated�(according�to�state�or�international�law)�when�
+embarking/disembarking;�
+C. Ensure� at� least� one� person� is� aware� the� observer� is� embarking/disembarking� a�
+monitored�entity�during�bad�weather�scenarios�and�can�see�the�observer�well�enough�to�
+�������������������������������������������������������������
+11� See NMFS (2007b) for sample training checklists on each of these topics.�
+27�
+Version�1.1,�July�2015�(Formatted)�
+respond� to� an� emergency.� Other� scenarios� are� at� the� discretion� of� the� observer�
+programme12;�
+D. Where�possible,�observer�embarkation/disembarkation�directly�onto�vessels�shall�take�
+place� in� port� by� the� quayside� in� order� to� ensure� the� safest� means� of� transferring�
+observers�to/from�vessels;�
+E. Adhere�to�the�following�general�protocols�during�at-sea�vessel�transfers:�
+i.
+Transfers� in� daylight� are� preferred� or� with� suitable� lighting� in� areas� without�
+daylight�(e.g.�polar�regions);�
+ii.
+The�two�vessels�must�be�within�a�reasonable�distance�from�each�other�(few�
+hundred�METRES,� not�kilometres);�
+iii.
+The�observer�shall�wear�a�PFD�and�hard�hat�(safety�helmet);�
+iv.
+Jumping�from�vessel�to�vessel�is�not�allowed;�
+v.
+If�a�life�boat,�rescue�craft�or�other�inflatable�craft�is�used�in�the�transfer,�the�
+operators�and�equipment�shall�possess�the�appropriate�certifications�for�those�
+activities.�The�vessel�shall�provide�a�pilot�ladder�in�good�condition�-�when�
+appropriate�(smaller�to�larger�vessels);�
+vi.
+If�a�cargo�net�or�basket�is�used,�make�sure�a�line�is�attached�to�both�points�for�
+greater�control�and�to�reduce�swinging.�Crouch�down�as�low�as�possible�to�lower�
+your�centre�of�gravity.�Keep�your�fingers�and�elbows�inside�the�basket�or�net.�
+4.
+Accommodation
+Establish�minimum�standards�for�adequate�accommodation�for�an�observer�deployment�
+appropriate�to�the�size�of�the�Monitored�Entity�and�equivalent�to�that�of�the�officers�of�the�
+Monitored�Entity.�Accommodation� (with�programme�supplementation,� if�necessary)�includes�
+but�is�not�limited�to:�
+A. Safe�drinking�water�and�safe�and�nutritious�food�for�the�observer;�
+B. Dry,�relatively�quiet,�unshared�bunk�space�for�the�observer;�
+C. Accommodation�free�of�harmful�pests�(especially�biting�insects�or�mites)�and�a�plan�for�
+their�control.�
+D. Accommodation�shall�also�be�free�from�harmful�pesticide�exposure�related�to�insect�
+control.�
+5.
+Access
+Unhindered�access�to�emergency�equipment�(e.g.�radios,�immersion�suits).�
+6.
+Adequate assignment notice
+Provide� adequate�notice� and� allow� observers�time� to�prepare� for� and� arrive� at� the�
+assignment�port,�especially�in�programmes�that�require�extensive�driving�or�flying�to�arrive�
+at�the�assignment.�
+�
+�������������������������������������������������������������
+12� For the purposes of this document, “bad weather scenarios” are defined as Beaufort Sea State 7 (28-33 knot, “near gale” winds) and
+above (http://en.wikipedia.org/wiki/Beaufort_scale).
+28�
+Version�1.1,�July�2015�(Formatted)�
+7.
+Communication
+Develop� communication�protocols� and�emergency� action�plan�between� the�appropriate�
+maritime�safety�or�marine�enforcement�entity�and�observer�programmes�(if�separate)� that:�
+A. Clearly�outlines�the�hierarchy�of�authority�relative�to�rectifying�observed�safety�issues;�
+B. Uses�emergency�status�codes�that�are�only�available�to�the�observer�and�observer�
+programme.�
+8.
+Mental health
+Provide� options� for�mental� health� counselling,�including�crisis� intervention�and� drug� and�
+alcohol�counselling,�independent�of�observer�programme�or�observer�employer�that�allow�
+observers�to�freely�address�psychological�stresses�of�the�job.�
+9.
+Provided safety equipment
+Provide�(or�compensate� observer� for)�safety�equipment� appropriate� to�the� assignment�
+which�may�include�the�following:� wearable� PFD,�immersion� suits,�personal� locator�
+beacon,� hearing�protection,� hard�hat,�foul�weather�gear,�work�boots�and�satellite�phone.�
+References
+�
+Ajango,�D.,�P.�Cullenberg,�and�J.�Dzugan.�2004.�Review�and�evaluation�of�NMFS�observer�
+safety�training�-�Final�report.Alaska�Marine�Safety�Education�Association�(AMSEA),�
+Sitka,�AK.�
+AMSEA.�2011.�Commercial�Fishing�Vessel�Emergency�Instruction�&�Drill�Manual,�4th�
+Edition.�Alaska�Marine�Safety�Education�Association,�Sitka,�AK.�
+Davies,�S.�L.�and�J.�E.�Reynolds.�2002.�Guidelines�for�developing�an�at-sea�fishery�observer�
+programme.�FAO�Fish.�Tech.�Paper�No.�414.:116�pp.�
+ICCAT.�2007.�Memorandum� of�Understanding� between�Marine�Resources�Assessment�
+Group�and�Capricorn� Fisheries�Monitoring�and�XXXX�(Carrier�Vessel�Operator)�-�Draft�
+Template.�International�Commission�for�the�Conservation� of�Atlantic�Tunas�(ICCAT)�
+Regional�Observer�Programme.�http://www.iccat.int/Documents/Other/ROP_MOU.pdf.�
+ILO.�1999.�Tripartite�Meeting�on�Safety�and�Health�in�the�Fishing�Industry,13-17� December�
+1999.�International� Labour�Organisation,�Geneva.�See�http://www.ilo.org/global/about-
+the-ilo/newsroom/news/WCMS_071324/lang--�en/index.htm.��
+ILO.�2011.�Proposed�revised�Guidelines�on�the�medical�examinations�of�seafarers.�Report�
+for�discussion�at�the�Joint�ILO/IMO�Meeting�on�Medical�Fitness�Examinations� of�
+Seafarers�and�Ships’�Medicine�Chests�(26–30�September�2011).�ILO/IMO/JMS/2011,�
+International�Labour�Organisation,� Geneva.�
+IMO.�1978.�International� Convention� on�Standards� of�Training,� Certification� and�
+Watchkeeping�(STCW)� for�Seafarers�1978.�International�Maritime�Organization.�
+IOTC.� 2010.� IOTC� Regional� Observer� Scheme� -� Draft� Observer� Manual.� Indian� Ocean� Tuna�
+Commission.McVea,� T.� A.� and� S.� J.� Kennelly,� (Eds.).� 2007.� Proceedings� of� the� 5th�
+International�Fisheries�Observer�Conference,� 15-18�May�2007,�Victoria,�BC�Canada.�NSW�
+29�
+Version�1.1,�July�2015�(Formatted)�
+Department� of� Primary� Industries,� Cronulla� Fisheries� Research� Centre� of� Excellence,�
+Cronulla,�Australia.�
+NMFS.� 2007a.� NMFS� Observer� Safety� Training� Standards.� National� Observer� Program,�
+Office�of�Science�and�
+Technology,�Silver�Spring,�MD.�
+NMFS.�2007b.�NOAA�Fisheries�Observer�Safety�Training�Standards.�National�Marine�
+Fisheries�Service�Procedural�Directive�04-110-01.�November�16,�2007.�National�
+Observer�Program,�Office�of�Science�and�Technology,� Silver�Spring,�MD.�
+Transport�Canada.�2007.�Medical�Examination� of�Seafarers�Physician’s�Guide.�TP�11343E,�
+Marine�Personnel�Standards�and�Pilotage,�Ottawa,�Ontario.�
+Transport�Canada.�2008.�Training�Standards�for�Marine�First�Aid�and�Marine�Medical�Care�
+(Rev.3).�TP�13008E,�Marine�Personnel�Standards�and�Pilotage,�Ottawa,�Ontario.�
+van�Helvoort,� G.,�1986�Observer�program� operations� manual.�FAO�Fish.Tech.Pap.� 275:�207�
+pp.�
+Box 1: SAMPLE CHECKLIST FOR VESSELS
+�
+�
+�
+�
+�
+�
+Box 1: SAMPLE CHECKLIST FOR VESSELS (Ajango et al. 2004, ICCAT 2007, AMSEA 2011)�
+�
+a.
+U.S. Coast Guard Exam Sticker valid two years from month issued in U.S. fisheries. For all
+other vessels, a current and valid Safety Certificate that does not expire for a period of at least
+four months from the date of embarkation of the observer;�
+b.
+Orientation tour of monitored entity provided within 8 hours of embarking or arriving:�
+c.
+Station bill placard of emergency assignments for all on board including the observer - location,
+emergency instructions and assembly locations (muster station);�
+d.
+Life raft/survival craft - type, location, capacity including observer, service date valid,
+hydrostatic release date not expired, raft assignment;�
+e.
+Immersion suits, lifejackets (PFDs) for all personnel on board - types, stowage location,
+accessibility in an�emergency, proper size, light;�
+f.
+Life rings or man overboard recovery device(s) – location;�
+g.
+Flares - types, location, expiration dates;�
+h.
+EPIRB(s) - location, battery expiration date, and hydrostatic release expiration date;�
+i.
+Fire extinguishers - which types, location, last service date;�
+j.
+First aid materials/medicine chest - location, first aid texts, trained crew;
+k.
+Radio - types, location, monitor distress channel, instructed how to use;
+l.
+Electronic position fixing devices: function, how to find position;�
+m.
+Radar - Operational and alarm options;�
+n.
+Stability report or guidance on board and current within 5 years;�
+o.
+Presence of vessel hazards: Do hatches open/close? Do watertight doors properly seal? Are rails open
+or potentially unsafe? Location of overhead or sharp objects;�
+p.
+Personal risk management plan; Personal escape route clear; Find route in dark; Personal
+survival equipment available and accessible at all times;�
+q.
+[small vessels] Instructions to turn engine on/off and how to steer in case observer is only one
+remaining on board.�
+30�
+Version�1.1,�July�2015�(Formatted)�
+Box 2: MINIMUM SAFETY REQUIREMENTS
+�
+�
+�
+Box 2: MINIMUM SAFETY REQUIREMENTS – Vessels >24m LOA�
+�
+�
+The observer shall check the following items as part of the “Pre-deployment Inspection” which shall be
+considered as the minimum compulsory requirements. In the event a vessel does not meet these
+requirements, the observer shall not board the vessel for deployment. Regulatory authorities have not yet
+established standards for vessels <24m LOA. However, stakeholders may consider the following standards
+applicable for vessels <24m LOA.
+�
+Safety Certificate (Safety Management Certificate)�
+a.
+The vessel shall maintain onboard a current and valid safety certificate that does not expire for a
+period of at least four months from the date of embarkation of the observer.�
+b.
+Check that that the full complement including the observer onboard does not exceed the limit
+for the number shown on the safety certificate.�
+�
+Life Rafts�
+a.
+The life rafts shall have the capacity to accommodate the full crew complement including the
+observer.�
+b.
+Life rafts shall be within their serviceable date, which shall cover the expected maximum
+duration of observer deployment.�
+c.
+All life rafts shall be fitted with a properly attached Hydrostatic Release mechanism.�
+d.
+Life rafts shall be mounted in a float free location and be free of extraneous tie-downs.�
+�
+�
+Life Jackets�
+a.
+There shall be a total number of life jackets onboard, readily available at the emergency muster
+stations to accommodate each of the complement onboard the vessel.�
+b.
+All life jackets shall comply with IMO – SOLAS LSA standards.�
+�
+�
+Immersion Suits�
+a.
+There shall be a total number of immersion suits onboard, readily available at the emergency
+muster stations to accommodate each of the complement onboard the vessel.�
+b.
+All immersion suits shall comply with IMO – SOLAS LSA standards.�
+�
+�
+GMDSS Requirements�
+a.
+The vessel shall be GMDSS compliant in accordance to its tonnage and its area of operation.�
+b.
+Any component of the GMDSS requirement that is out of date or unserviceable will render the
+vessel as NOT�being GMDSS compliant�
+�
+�
+Minimum safety requirements shall apply to all vessels onto which an observer is embarked;
+including any vessels used to transfer observers from land to transhipment vessels. It is noted however,
+that a pre-deployment inspection will not be possible in the case of observers not embarked in port. For
+this reason, the observer programme requires all carrier vessels embarking an observer for the first time to
+do so in port. Subsequent observer changeovers may take place without the carrier vessel returning to port.�
+�
+31�
+Version�1.1,�July�2015�(Formatted)�
+�
+GLOSSARY
+�
+The�following�definitions�are�included�for�the�purpose�of�the�IOBR,�CCROP-HS,�and�CCROP-
+SR,�with�source�documents�in�parentheses.�
+�
+Active� Observer� –� A� person� who� has� worked� as� an� authorised�
+‘observer’�within�the�last�year�(IOBR).�
+�
+Assault� –� Physical/verbal� attack,� threat� of� bodily� harm,� rape� or� attempt� to� destroy�
+personal� or�professional�property� of� the�observer�(IOBR).�
+�
+Assignment�–�Beginning� the�day�an�observer� is�first�told�they�are�to�be�deployed� (See�
+Deployment)�on�board�or�at�a�Monitored�Entity�and�ending�the�day�the�observer�leaves�the�
+Monitored�Entity,�or�the�assignment�is�cancelled�(IOBR,�CCROP-SR).�
+�
+At�sea�–�Day�an�observer�is�required�by�the�vessel�to�be�on�board�the�vessel,�regardless�
+if�at�sea,�anchored,�tied�up�at�the�dock�or�in�transit�to�fishing�grounds�(IOBR).�
+�
+Bribery�–� The� offering� of� a� gift� or� other� type� of� incentive� to� influence� the� observer’s�
+conduct� or�performance� of�their� duties.� Bribery� comes�in� many�forms�and� can� often�be�
+subtle,�with� small�gift� giving,�promise�of� future�employment�or� special�treatment�and�can�
+be� with� no� explicit� request� to� alter� the� observer’s� duties,� but� may� have� the� effect� of�
+influencing� the� observer.� Other� forms� of� bribery� of� the� observer� are� more� blatant,� with�
+actual�requests�to�alter�data�or�influence� the� performance� of� their� duties� (IOBR,� CCROP-
+SR).�
+�
+Briefing�–� A� training� prior�to�deployment� that� an�observer� is�required� to�participate,�
+usually� less�time�than�initial� training� with�the�purpose� of�updating� the�observers� on�any�
+protocol� changes� or� changes� in� laws� that� affect� the� observer’s� duties� (IOBR).Conflict� of�
+interest� -� an� observer,� observer� employer,� or� observer� coordinator’s�participation�in� any�
+activity� or� relationship,� whether� pecuniary� or� social,� that� results� in� the� impairment� or�
+perceived�impairment�of�the�official�responsibilities�or�objectivity� of�that�person� (CCROP-
+SR).�
+�
+Crisis�Intervention�–�Emergency�care�aimed�at�assisting�individuals�in�a�crisis�situation�to�
+restore�equilibrium�to�their� biological� and�psychological� functioning� and�to�minimise� the�
+potential�for�psychological�trauma�(IOBR).�
+�
+Debriefer�–� observer�programme�or� contracted�personnel�that� performs�a� face-to-face�
+debriefing� with� the� observer,� using� observer� programme� debriefing� protocols,� after� the�
+observer’s� deployment� to� ensure� the� data� quality� and� integrity� of� their� data� collection�
+methods�and�that�observer�programme�protocols�were�properly�followed�(IOBR).�
+�
+Debriefing� (data�quality�accountability)�–� period� when� an� observer� is� interviewed� by�
+the� debriefer� to� describe� all� aspects� of� their� deployment,� including� data� collection�
+methods,�protocols�followed�and�problems�encountered� (IOBR).�
+�
+Deployment�–� Beginning� the� day� an� observer� starts� travel� to� a� Monitored�Entity� and�
+ending� the�day�the�observer� leaves� the�Monitored�Entity�(IOBR,�CCROP-HS,� CCROP-SR).�
+32�
+Version�1.1,�July�2015�(Formatted)�
+�
+Direct� financial� interest� -� Any� source� of� income� to,� or� capital� investment� or� other�
+interest� held� by,� an� individual,� partnership,� or� corporation� or� an� individual's� spouse,�
+immediate�family�member�or�parent�(CCROP-SR).�
+�
+Dockside�Location� -� shore-based� sampling� location� where� the� observer� collects� catch�
+information�on�aquatic�resources�coming�off�a�vessel�(retained�catch�only)�(IOBR,� CCROP-
+SR).�
+�
+Electronic� Monitoring� (EM)� –� The� use� of� technologies,� such� as� vessel� monitoring�
+systems�or�video� cameras,�to� monitor�commercial�fishing�operations� (CCROP-SR).�
+�
+Electronic�Reporting�(ER)� –� The� use� of� technologies,�such� as� phones� or� computers,�to�
+record,� transmit,�receive� and� store�fishery�data�(CCROP-SR).�
+�
+Essential� Observer� Programme� Data� –� Observer� programme� statistics� that� allow� for�
+comparison� with� other� programme,� such� as� number� of� vessels,� plants� and� dockside�
+locations�covered�in�the�programme,�the�number�of�observers�utilised�in�each,�the�average�
+deployment�length�by�vessel�type�and�fishery,�observer�attrition�rates,�violations�reported�
+and� their� outcome,� estimated� annual� value� of� various� target� fisheries,� unionised� or� not,�
+desired� vs.� implemented� coverage� rates,� and� definition� of� fishing� day� for� observer�
+coverage�purposes�(IOBR).�
+�
+Fair�Labour�Standards�–�A�standard�established�and�adhered�to�by�the�employer�which�
+includes�the�safeguarding�of�employee�rights�under�national�and�international�labour�laws,�
+including� non-discriminatory� practices,� freedom� from� abuse� or� harassment,� rights� to�
+collective� bargaining� (unions)� and� freedom� of� association,� healthy� and� safe� work�
+environment,� premium�payment�for� overtime�and� holidays.�Most� international�fair� labour�
+conventions� set� standards� of� reasonable� weekly� hours� worked� at� no� more� than� 60�
+hours/week.�Many�observers�work�in�excess�of�100�hours�per�week�(IOBR).�
+�
+Financial� Independence� –� This� term� is� used� to� denote� a� clear� separation� financially�
+between� the� observer� or� observer� employer� and� the� Monitored� Entity,� beyond� that� of�
+observer� service� provisioning.�Financial� transactions�should� not� include� direct� payment�
+for� salary,� travel,� transportation,� food� (between� assignments),� lodging� (between�
+deployments),�and�medical�support�(between�deployments)�(IOBR,�CCROP-SR).�
+�
+First-time� Observer� -� an� observer’s� first-time� embarking� a� Monitored� Entity,� during�
+his/her� first� employed� deployment� as� an� observer� (CCROP-SR).Former� Observer� –� A�
+person� who� has� former� work� experience� (equalling� 90� days� or� more)� as� an� authorised�
+observer� and� has� not� worked� as� an� observer� within� the� last� year.� Also� known� as� prior�
+observer�(IOBR).�
+�
+Grievance�Procedure�–�An�official�process�whereby�observers�can�register�a�
+complaint�or�appeal�to�an�action�taken�against�them�or�appeal�a�performance� evaluation�
+(IOBR).�
+�
+Harassment� –� Harassment� of� an� observer� can� include� anything� that� creates� an�
+intimidating,�hostile,�or�offensive� environment,�with�or�without�the�intention�of�interfering�
+with� the� observer’s� duties.� Sexual� harassment� is� a� type� of� harassment� that� involves�
+“unwelcome� sexual� advances,� requests� for� sexual� favours,� and� other� verbal� or� physical�
+conduct�of�a�sexual�nature�[…]�when�submission�to,�or�rejection�of,�this�conduct�explicitly�
+33�
+Version�1.1,�July�2015�(Formatted)�
+or� implicitly� affect� an� individual’s� employment,� unreasonably� interferes� with� an�
+individual’s� work� performance,� or� creates� an� intimidating,� hostile,� or� offensive� work�
+environment.”(AFSC�2011).�Harassment� is�sometimes� subtle�and�requires�special�training�
+by�the�observer� programme� to�help�the�observer� define,� avoid,�de-escalate,�and�properly�
+document�instances�of�harassment�for�prosecution� (IOBR).�
+�
+Industry� Self-Monitoring�-�Refers� to�the� collection� of�information�by�representatives�of�
+the� industry� being� monitored.� Any� representative� hired� directly� by� the� industry� should�
+not�be�referred�to�as�an�observer.�
+�
+Interference�–� Interference� of� an� observer’s� duties� is� any� physical� or� circumstantial�
+manipulation�that�has�the�effect�of�preventing�or� influencing�any� aspect� of� the� observer’s�
+duties� in� a� way� that� prevents�the� observer�from� carrying� out� their� duties� according� to�
+the�observer�programme’s�protocols�(IOBR,�CCROP-SR).�
+�
+Monitored� Entity� –� Vessel,� processing� plant,� dockside� location,� research� vessel� or�
+offshore� platform� that� is� being� monitored� as� part� of� an� observer� programme;� may� be�
+inclusive�of� any� personnel�(or� company)�responsible�for� the� management�or�operation�of�
+the�Monitored�Entity�(IOBR,�CCROP-SR).�
+�
+Observer� –� An� ‘observer’� is� a� person� who� is� authorised� by� a� regulatory� authority� to�
+collect�information� in�the�field�(either� at�sea� or�on� shore)� to� support� sustainable�aquatic�
+resource� management.� The� observer� must� be� financially� independent� of� the� industry�
+being�monitored�(IOBR,�CCROP-SR).�
+�
+Observer�Employer�–�This�includes�any�employer�of�the�observer�(observer�
+programme�or�private�company).�If�a�private�company�(sometimes�referred�to�as�an�
+“observer�provider”),�it�is�one�that�is�contracted�(or�permitted)�by�the�regulatory�
+authority�to�carry�out�the�purpose�of�providing�monitored�entities�with�observers�
+(IOBR).�
+�
+Observer� Performance� Evaluation� –� Observers� should� have� ample� opportunity� to�
+improve�their�performance�through� regular�evaluations.� This�is�usually�done�in�a�face-to-
+face�meeting�with�debriefers�after�an�established�amount�of�time�-�for�example,�after�each�
+trip,� contract,� 6-month� period,� etc.� Observer� performance� evaluations� should� have�
+transparent� protocols� that� ensure� against� discrimination,� be� readily� available� to�
+observers,� and� include� clear� instructions� required� of� the� observer� to� reconcile� any�
+negative� evaluation.� Performance� evaluations� should� include� an� appeal� process� that�
+allows� the� observer� to� challenge� a� negative� performance� evaluation� and� this� should� be�
+included�with�the�performance� evaluation�record�(IOBR).�
+�
+Observer� Programme� –� Includes� all� personnel� of� an� agency,� organisation,� and/or�
+contracted� non-observer� entity� who� are� responsible� for� the� direct� management� of� the�
+monitoring� programme� –� including,� trainers,� briefers,� debriefers,� port� coordinators,�
+observer�coordinators,�and�logistics�personnel.�May�or� may�not� include�observer�employer�
+company�staff�(IOBR,�CCROP-SR).�
+�
+Processing�Plant�–� A� facility� where� vessels� offload� fish� catch,� where� the�fish�
+are�processed�and�packaged�(IOBR).�
+�
+Qualified�Observer�-� An�observer�who�has�completed�a�certification�course�in�accordance�
+with�a�recognised�Observer�
+34�
+Version�1.1,�July�2015�(Formatted)�
+Programme.� To� become� 'qualified',� observers� need� sufficient� time� to� learn� their�
+duties,� develop� good� judgment� in� carryingout� those� duties,� adhering� to� professional�
+standards� of� conduct,� and� adapting� to� the� rigors� of� a� hazardous� working� environment�
+(CCROP-SR).�
+�
+Regulatory�Authority�–�Governing�body�that�mandates,�initiates,�manages�or�oversees�the�
+management�of�an�observer�programme�(IOBR,�CCROP-SR).�
+�
+Standby�–�Days�observer�is�waiting�for�deployment�and�unable�
+to�take�another�job.�This�includes:�
+�
+•�days�after�training,�waiting�to�receive�word�of�their�assignment;�
+•�days�observer�is�expected�to�check-in�with�their�employer�via�phone�or�in�
+person;�
+•�days�assigned�but�waiting�in�the�port�of�hire�to�transit�to�the�Monitored�Entity;�
+•�during�transit�to�arrive�at�the�Monitored�Entity,�and;�
+•�days�when�residing� in�the�port�of�the�Monitored�Entity,�waiting� for�instructions�
+to�board�or�arrive� at�the�Monitored�Entity�(IOBR,�CCROP-SR).�
+�
+Training� –� Days� before� deployment� that� are� dedicated� to� training� the� observer� in�
+sampling� methods,� species� identification,� education� of� aquatic� resource� regulations,�and�
+informing� the� observer� of� any� other� aspect� that� they� are� likely� to� encounter� during�
+their�deployment� (IOBR)�
+�
+�
+35�
+Version�1.1,�July�2015�(Formatted)�
+-�*�*�*�*�This�page�intentionally�left�blank.�*�*�*�*�-�
+36�
+Version�1.1,�July�2015�(Formatted)�

@@ -1,5 +1,7 @@
 Process (Updated: November 25, 2023)
 
+Annual meeting reports
+
 1. Convert pdf files to txt files ([pdf_to_txt.py](code/pdf_to_txt.py))
 2. Manually remove attachments and index from txt (top and bottom of the file)
 3. Parse each file by itemized numbers ([cleaning.py](code/cleaning.py))
@@ -7,3 +9,9 @@ Process (Updated: November 25, 2023)
 5. When documents are not numbered (image numbers or nonexistent), use \n\n as parsing ([cleaning_linebreak.py](code/cleaning_linebreak.py))
 6. After cleaning txt files and converting them to csv files, put them together as a large file ([csv_binder.py](code/csv_binder.py))
 7. Run any analysis on the large file.
+
+Observer letters
+
+1. Convert pdf files to txt files ([pdf_to_txt.py](code/pdf_to_txt.py))
+2. Parse each file by line breaks and pout them in a csv file ([cleaning_letter.py](code/cleaning_letter.py))
+3. Run any analysis on this file.

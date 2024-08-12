@@ -14,7 +14,7 @@ os.chdir('C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\wcpfc')
 pdf_directory = '.\\pdf'
 
 # Replace 'output_directory' with the path to the directory where you want to save the text files
-output_directory = '.\\txt'
+output_directory = '.\\txt\\coded advocacy letters'
 
 # Ensure the output directory exists, create it if not
 os.makedirs(output_directory, exist_ok=True)

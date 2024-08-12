@@ -1,0 +1,2522 @@
+ 
+ 
+COMMISSION 
+THIRTEENTH REGULAR SESSION 
+Denarau Island, Fiji 
+5 – 9 December, 2016 
+TRANSPARENCY AND OBSERVER PARTICIPATION IN INTERNATIONAL AGREEMENTS 
+WCPFC13-2016-OP07 
+14 November 2016 
+ 
+ 
+Paper submitted by International Environmental Law Project 
+ 
+ 
+Lewis & Clark Law School │ 10015 SW Terwilliger Blvd │ Portland, OR  97219 USA 
+TEL +1-503-768-6734 │ FX +1-503-768-6671 
+http://go.lclark.edu/IELP 
+ 
+ 
+ 
+ 
+Transparency and Observer Participation  
+in International Agreements 
+ 
+Chris Wold* and Liz Mering** 
+November 10, 2016 
+ 
+I. 
+Introduction 
+ 
+Over the last 20 years, civil society has participated in growing numbers in meetings of 
+international environmental organizations, including fisheries commissions, and their subsidiary 
+bodies.1 Known as “observers,”2 non-governmental organizations (NGOs) representing business 
+interests, environmental interests, human rights, and other interests are recognized as “an integral 
+part of the negotiating process.”3 Ten thousand individuals representing hundreds of non-
+governmental, intergovernmental, and governmental bodies regularly attend meetings of the 
+climate change regime4 and the Convention on Biological Diversity.5 Smaller numbers of 
+individuals attend meetings of the Convention on International Trade in Endangered Species of 
+                                                
+* Professor of Law and Director, International Environmental Law Project (IELP), Lewis & Clark Law School, 
+10015 SW Terwilliger Blvd., Portland, OR 97219; wold@lclark.edu. The author thanks Bubba Cook, Erica Lyman, 
+and Erik Molenaer for their excellent comments. 
+** Lewis & Clark Law School, 2016. Law Clerk, IELP. 
+1 See Kal Raustiala, States, NGOs and International Environmental Institutions, 41 INTERNATIONAL STUDIES 
+QUARTERLY 719, 722 (1997) (citing Elin Enge & Runar I. Malkenes, Non-Governmental Organizations at UNCED: 
+Another Successful Failure?, in GREEN GLOBE YEARBOOK OF INTERNATIONAL CO-OPERATION ON ENVIRONMENT 
+AND DEVELOPMENT 25–35 (eds. H. Bergesen and G. Parmann, 1993). Raustiala discusses the relative lack of NGO 
+participation in multilateral environmental treaties before the 1970s but much greater and more expansive 
+participation starting around 1985. Raustiala suggests that the increase in NGO participation over time is, in part, 
+due to the increased complexity of new resource regimes which require more implementation and adjustment. Id. at 
+732. See also Barbara Gemmill & Abimbola Bamidele-Izu, The Role of NGOs and Civil Society in Global 
+Environmental Governance, in GLOBAL ENVIRONMENTAL GOVERNANCE 77, 78 (eds. Daniel C. Esty & Maria H. 
+Ivanova, 2002), available at: http://environment.yale.edu/publication-series/782.html (stating that “[t]he 1990s 
+witnessed a dramatic increase in the involvement of non-governmental organizations (NGOs) in global 
+governance.”). 
+2 The term observer is the phrase applied to any non-party participant in an international meeting. An observer may 
+represent a State that is not party to the agreement, an international organization, or a non-governmental 
+organization representing any number of different interests. 
+3 Raustiala, supra note 1, at 721.  
+4 For example, at UNFCCC COPs 1 through 15 over half of the almost 100,000 participants were observers 
+(including NGOs, UN delegates, and IGOs). Miguel Muñoz Cabré, Issue-linkages to Climate Change Measured 
+through NGO Participation in the UNFCCC, 11 GLOBAL ENVIRONMENTAL POLITICS 10, 10–11, Tbl. 1 (2011).  
+5 For the text of the CBD, see Convention on Biological Diversity, June 5, 1992, 1760 U.N.T.S 79, 31 I.L.M. 818 
+(1992) (entered into force Dec. 29, 1993), available at: https://www.cbd.int/ [hereinafter CBD]. 
+ 2
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Wild Fauna and Flora (CITES),6 the Convention on Migratory Species (CMS),7 and other 
+multilateral environmental agreements (MEAs).  
+ 
+Greater and more expansive NGO participation in MEAs is consistent with Agenda 21,8 the so-
+called blueprint for sustainable development. Agenda 21 recognizes that NGOs “possess well-
+established and diverse experience, expertise and capacity in fields which will be of particular 
+importance to the implementation and review of environmentally sound and socially responsible 
+sustainable development.”9 The CITES Parties have also specifically “recognize[ed] the valuable 
+contributions of observers.”10 Others report that “[d]ue to their critical role in service delivery 
+and implementation,” NGOs have “long been recognized as ‘partners’ of the UN system, 
+especially in environmental negotiations.”11 In the fisheries context, the UN Fish Stocks 
+Agreement requires States to provide for transparency in the decision-making process and other 
+activities of subregional and regional fisheries management organizations and arrangements 
+(RFMOs) and specifically provides that representatives from intergovernmental organizations 
+and NGOs “shall be afforded the opportunity to take part in meetings” of RFMOs.12 Such 
+procedures shall not be unduly restrictive in this respect. Such intergovernmental organizations 
+and non-governmental organizations shall have timely access to the records and reports of such 
+organizations and arrangements, subject to the procedural rules on access to them. 
+ 
+Despite the growing relevance and recognized value of observers in meetings of international 
+organizations, some members of the Western and Central Pacific Fisheries Commission 
+(WCPFC)13 have called for NGO observers to pay extremely high participation fees to attend 
+                                                
+6 See CITES, Proposed Process to Review the Rules of Procedure of CITES Bodies, SC66 Doc. 5.2 (2015), 
+available at: https://cites.org/com/sc/66/index.php (showing that more than 900 observers attended the last meeting 
+of the Conference of the Parties). For the text of CITES, see Convention on International Trade in Endangered 
+Species of Flora and Fauna, Mar. 3, 1973, 27 U.S.T. 1087; 993 U.N.T.S. 243 (entered into force on July 1, 1975), 
+available at: https://cites.org/ [hereinafter CITES]. 
+7 CMS, Admission of Observers, UNEP/CMS/COP11/Doc.8/Rev.1 (2014), available at: 
+http://www.cms.int/en/meeting/eleventh-meeting-conference-parties-cms (listing the observers that attended the 
+most recent meeting of the Conference of the Parties in 2014). For the text of CMS, see Convention on the 
+Conservation of Migratory Species of Wild Animals, June 23, 1979, 1651 U.N.T.S. 333 (entered into force 1983), 
+available at: www.cms.int [hereinafter CMS]. 
+8 United Nations Conference on Environment and Development, Agenda 21, U.N. Doc. A/CONF.151/4 (1992). 
+U.N. Doc. A/CONF.151/4 (1992). Agenda 21 is a non-binding, implemented action plan concerning sustainable 
+development formed at the UN Conference on Environment and Development held in Rio de Janeiro, Brazil in 1992 
+9 Id. at § 27.3.  
+10 CITES, Resolution Conf. 13.8 (Rev.CoP16), Participation of Observers at Meetings of the Conference of the 
+Parties (2013), available at: https://cites.org/eng/res/13/13-08R16.php.  
+11 Gemmill & Bamidele-Izu, supra note 1, at 81. 
+12 U.N. Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks: Agreement for the Implementation 
+of the Provisions of this United Nations Convention of the Law of the Sea of 10 December 1982, Relating to the 
+Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks, Aug. 4, 1995, UNDOC 
+A/Conf.164/37, art. 12(2) (entered into force Dec. 11, 2001) [hereinafter Fish Stocks Agreement]. 
+13 The WCPFC was established by the Convention on the Conservation and Management of Highly Migratory Fish 
+Stocks in the Western and Central Pacific Ocean, Sept. 5, 2000, 2275 U.N.T.S. 43, (entered into force June 19, 
+2004) available at: https://www.wcpfc.int/convention-text (entered into force June 19, 2004) [hereinafter WCPF 
+Convention]. 
+ 3
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+WCPFC meetings14 and observers have been excluded from portions of WCPFC meetings. In 
+part due to these issues, the WCPFC directed the Secretariat to undertake a review of observer 
+participation at the Commission, covering the following possible elements: 1) the number of 
+observers which have attended meetings; 2) whether it is appropriate to limit numbers on 
+observers’ delegations; 3) whether it is appropriate for observers to pay an annual contribution 
+towards the meeting costs; 4) how to accommodate treating separately observers which support 
+the effective participation in the Commission by Small Island Developing States; 5) whether 
+and/or how to accommodate treating separately observers that are direct stakeholders, such as 
+harvest groups; 6) transparency; and 7) access to documents.15 In addition, the International 
+Scientific Committee for Tuna and Tuna-Like Species in the North Pacific Ocean (ISC),16 which 
+provides scientific and management advice to the WCPFC, recently adopted restrictive rules for 
+observer participation. 
+ 
+To complement the Secretariat’s review and to determine whether the proposal for high fees for 
+observer participation in the WCPFC, the exclusion of observers from WCPFC-related meetings, 
+and the ISC’s restrictive observer participation rules are consistent with trends in international 
+law, this report reviews the rules for observer participation in 14 international organizations—
+five MEAs, six regional fisheries management organizations (RMFOs), and three International 
+Science Organizations (ISOs). The five MEAs are  
+ 
+• 
+the Convention on Biological Diversity (CBD);  
+• 
+the Convention on International Trade in Endangered Species of Wild Fauna and 
+Flora (CITES); 
+• 
+the Convention on Migratory Species (CMS) 
+• 
+the Montreal Protocol on Substances; that Deplete the Ozone Layer (Montreal 
+Protocol);17 and 
+• 
+the UN Framework Convention on Climate Change (UNFCCC).18 
+                                                
+14 Members of the Forum Fisheries Agency, an alliance of 17 Pacific Island members, many of which participate in 
+the WCPFC, have suggested that observers pay a fee of $10,000 to participate in an annual meeting of the WCPFC. 
+15 WCPFC, Chair’s Report of the 12th Annual Meeting of the WCPFC (Draft), ¶ 61 (2016), available at: 
+https://www.wcpfc.int/meetings/12th-regular-session-commission.  
+16 In 2013, the ISC adopted a brief Protocol governing the participation of observers with the following elements: 
+ 
+1. Observers must apply at least 60 days in advance of the ISC meeting and a single member may veto an 
+observer application without explanation.  
+2. Observer participation is restricted to the Plenary session only. 
+3. Observers cannot submit documents to the Plenary or associated workshops.  
+4. Observer documents will not be posted on the ISC meeting website. 
+5. Observers are allotted a single limited period at the end of each day when they may ask technical 
+questions about ISC assessments and procedures only; presentations or expressions of positions by 
+observers are not permitted. 
+ 
+ISC, Observer Protocol (June 2013). 
+17 Montreal Protocol on Substances that Deplete the Ozone Layer, Sept. 16, 1987, 1522 U.N.T.S. 3, (entered into 
+force Jan. 1, 1989), available at: http://ozone.unep.org/en/treaties-and-decisions [hereinafter Montreal Protocol]. 
+18 United Nations Framework Convention on Climate Change, May 9, 1992, 1771 U.N.T.S. 107 (entered into force 
+Mar. 21, 1994), available at: http://unfccc.int/essential_background/convention/items/6036.php [hereinafter 
+UNFCCC]. 
+ 4
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+ 
+The six RFMOs are 
+ 
+• 
+the Commission for the Conservation of Southern Bluefin Tuna (CCSBT);19 
+• 
+the Indian Ocean Tuna Commission (IOTC);20 
+• 
+the International Commission for the Conservation of Atlantic Tuna (ICCAT);21 
+• 
+the Inter-American Tropical Tuna Commission (IATTC);22 
+• 
+the Northwest Atlantic Fisheries Organization (NAFO);23 and 
+• 
+the Western and Central Pacific Fisheries Commission (WCPFC). 
+ 
+The three ISOs are 
+ 
+• 
+the International Council for the Exploration of the Sea (ICES);24  
+• 
+the Intergovernmental Platform on Biological and Ecosystem Services (IPBES);25 and 
+• 
+the North Pacific Marine Science Organization (PICES).26 
+ 
+Section II begins with an overview of the value of observer participation. Section III summarizes 
+the rules for observer participation, including attendance at meetings, document distribution, 
+ability to speak, and other aspects of participation. The Annex to this document provides a 
+detailed description of the rules for observer participation within the MEAs, RFMOs, and ISOs 
+that are summarized in Section III. Based on the review of the rules for observer participation, 
+Section IV concludes that excluding observers from meetings and large fees for observer 
+participation are inconsistent with current practice. In fact, ICCAT rescinded its $2,000 fee as 
+inequitable and inconsistent with transparency. This paper also concludes that the restrictive 
+rules for observer participation in ISC meetings are mostly inconsistent with current practice. 
+ 
+                                                
+19 Convention for the Conservation of Southern Bluefin Tuna, May 10, 1993, 1819 U.N.T.S. 360, available at: 
+https://www.ccsbt.org/en/content/basic-documents-commission (entered into force May 20, 1994) [hereinafter 
+CCSBT Convention]. 
+20 Agreement for the Establishment of the Indian Ocean Tuna Commission, Nov. 25, 1993, 1927 U.N.T.S. 329, 
+available at: agreement for the establishment of the indian ocean tuna commission (entered into force Mar. 27, 
+1996) [hereinafter IOTC Convention]. 
+21 International Convention for the Conservation of Atlantic Tunas, May 14, 1966, 673 U.N.T.S. 63, available at: 
+http://www.iccat.es/ (entered into force Mar. 21, 1969) [hereinafter ICCAT Convention]. 
+22 Inter-American Tropical Tuna Convention, May 31, 1949, 80 U.N.T.S. 3, U.S.T. 230, T.I.A.S. 2044, available at: 
+http://www.iattc.org/ (entered into force Mar. 3, 1950) [hereinafter IATTC Convention]. The IATTC Convention 
+was replaced by the Convention for Strengthening the Inter-American Tropical Tuna Convention, June 27, 2003, 
+available at: https://www.iattc.org/IATTCdocumentationENG.htm (entered into force on Aug. 27 2010) [hereinafter 
+Antigua Convention]. Three parties to the IATTC Convention have not yet ratified the Antigua Convention. Thus, 
+both treaties are in effect. This report reviews the observer provisions pursuant to the Antigua Convention. 
+23 Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, Oct. 24, 1978, 1135 U.N.T.S. 
+369, available at: http://www.nafo.int/about/frames/about.html (entered into force Jan. 1, 1979) [hereinafter NAFO 
+Convention]. 
+24 See ICES, Who We Are, at http://www.ices.dk/explore-us/who-we-are/Pages/Who-we-are.aspx.  
+25 IPBES, http://www.ipbes.net/.  
+26 Convention for a North Pacific Marine Science Organization, Dec. 12, 1990, art. VI(5), available at: 
+https://www.pices.int/about/convention.aspx (entered into force March 24, 1992) [hereinafter PICES]. See also 
+PICES, Welcome to PICES, at https://www.pices.int/.  
+ 5
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+II. 
+The Value of Observer Participation 
+ 
+NGO observers provide many important benefits to States participating in international 
+agreements even if States sometimes view NGOs as oppositional to State power or as 
+diminishing State power.27 As one scholar writes, NGO participation “does not come at the 
+expense of state centrality; rather it is to the advantage of states.”28 NGOs provide advantages to 
+States because they do not necessarily only lobby State Parties to vote a particular way on an 
+issue; they perform a variety of valuable functions critical to the international policy-making 
+process.29 For example, NGO observers help 1) address scientific, economic, and other 
+uncertainties by researching and presenting relevant information to policy makers; 2) organize 
+workshops, seminars, and conferences to enhance knowledge intersessionally; 3) share their 
+expertise by participating on State delegations; 4) participate in review and enforcement 
+procedures; 5) ensure transparency of the decision-making process; 6) provide support to 
+convention secretariats; 7) and provide on-the-ground support on relevant issues outside the 
+negotiations.30 Regarding on-the-ground support, Greenpeace in 2015 detected a vessel fishing 
+within the WCPFC Convention Area that was not registered to fish in the area.31 
+ 
+International policy-making, and in particular international environmental policy-making, is 
+typically complex and often entails scientific, economic, and other uncertainties.32 NGOs are in 
+an ideal position to help address that uncertainty33 because they hire professionals to research the 
+scientific, economic, social, and technical aspects of specific issues; their research may then be 
+made available to States.34 NGOs may also disseminate information at intersessional workshops, 
+seminars, or conferences.35 That research allows States to minimize their own research expenses 
+while maximizing the amount of policy information they obtain.36 This research may be 
+particularly valuable to developing countries that lack the resources to conduct their own 
+                                                
+27 See Raustiala, supra note 1, at 725-26.  
+28 Id. at 720. 
+29 Ecologic, Participation of Non-Governmental Organisations in International Environmental Governance, 40 
+(2002), available at: http://ecologic.eu/605.  
+30 See id. at 40–51. See also Gemmill & Bamidele-Izu, supra note 1, at 83 (creating a similar list but adding 
+representation of the voiceless as an additional role). 
+31 Forum Fisheries Agency, Proposal for Management of Enclosed and Semi-Enclosed High Seas Areas, 
+WCPFC12-2015-DP05 (Oct. 21, 2015), available at: https://www.wcpfc.int/system/files/WCPFC12-2015-
+DP05%20FFA%20proposal%20for%20management%20of%20enclosed%20and%20semi-
+enclosed%20high%20seas%20areas_0.pdf.  
+32 Id. at 41. 
+33 See Raustiala, supra note 1, at 727. Raustiala further suggests that although NGOs have inherent bias in the 
+information presented, those biases are generally known to the governments involved and the governments can 
+evaluate and use the data if appropriate. Id. See also Ecologic, supra note 29, at 40–42. Ecologic offers several 
+examples of organizations including, World Resources Institute, World Watch Institute, World Conservation 
+Monitoring Centre, and International Institute for Sustainable Development that are particularly active in providing 
+information to Parties to assist in decision-making. Id. at 41–42. 
+34 Tobias Böhmelt & Carola Betzold, The Impact of Environmental Interest Groups in International Negotiations: 
+Do ENGOs Induce Stronger Environmental Commitments? 13 INT’L. ENVTL. AGREEMENTS: POLITICS, LAW AND 
+ECONOMICS 127, 132 (2013).  
+35 See Ecologic, supra note 29, at 41. 
+36 Raustiala, supra note 1, at 727. 
+ 6
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+research.37 For example, at the Basel Convention, NGOs provided documentation on the 
+ineffectiveness of the original prior informed consent procedure concerning the transboundary 
+movement of hazardous waste.38 Within CITES, NGOs document illegal trade and killing of 
+elephants to help Parties determine whether to allow international trade in elephant ivory.39  
+ 
+National delegations also commonly tap NGO expertise by inviting NGO representatives to 
+serve on their delegations. They are often tasked with representing the interests of civil society 
+even if they have limited ability while on a governmental delegation to lobby on behalf of their 
+NGO’s interests.40 Alternatively, NGO representatives may serve as advisers for specific issues. 
+Again, those representatives have increased access but their ability to directly lobby for their 
+NGO’s position is limited. For example, member States of the Alliance of Small Island States 
+(AOSIS) have asked a representative of the International Environmental Law Project to be on 
+delegation to provide legal advice at climate change negotiations.41 The United Kingdom has 
+invited NGO representatives to participate on the delegations to annual meetings of the 
+International Whaling Commission.42  
+ 
+NGOs can also assist in review and enforcement procedures. Although NGOs typically do not 
+have a direct role in enforcement proceedings and their participation varies by agreement, several 
+agreements, including the Convention on the Conservation of European Wildlife and Natural 
+Habitats,43 allow NGOs to initiate a compliance matter44 or participate as a member of the 
+                                                
+37 Id. at 731–32.  
+38 See Ecologic, supra note 29, at 41. Other examples include the Environmental Investigation Agency proving 
+Parties to the Montreal Protocol information on the illegal trade of ozone-depleting substances or Greenpeace 
+International providing information on the illegal trade of hazardous wastes. Id. at 41–42. Not only environmental 
+organizations provide information. An industry association, the Alternative Fluorocarbon Environmental 
+Acceptability Study, provides Parties to the Montreal Protocol with information on production of ozone-depleting 
+substances. Id. at 42. 
+39 CITES, Resolution Conf. 10.10 (Rev. CoP16), Trade in Elephant Specimens, available at: 
+https://cites.org/eng/res/10/10-10R16.php (stating that data and information on illegal trade in elephant ivory and 
+other elephant specimens will be collected by TRAFFIC, an NGO, in collaboration with the CITES Secretariat.). 
+40 See Ecologic, supra note 29, at 44–45. 
+41 Personal Observation. 
+42 See IWC, Delegates and Observers Attending the 63rd Annual Meeting, IWC/63/3 Draft 6, available at: 
+https://iwc.int/private/downloads/aWwobcJ3SrKVUCBsZuab8g/63-3-V6.pdf (showing Vassili Papastavrou, who 
+worked for the International Fund for Animal Welfare at the time, and Jennifer Lonsdale, who works for the 
+Environmental Investigation Agency, as members of the United Kingdom’s delegation). 
+43 Convention on the Conservation of European Wildlife and Natural Habitats, signed Sept. 19, 1979, entered into 
+force Jan. 6, 1982, CETS No. 104, available at: http://conventions.coe.int/Treaty/en/Treaties/Html/104.htm. To help 
+ensure that the Parties to the Bern Convention actually implement the Convention’s obligations, the Parties 
+developed a case-file system which specifically allows NGOs to initiate complaints of violation of the convention. 
+Council of Europe, Monitoring Set Up under the Bern Convention, available at http://www.coe.int/en/web/bern-
+convention/monitoring. 
+44 Bern Convention, Monitoring Set Up under the Bern Convention, available at http://www.coe.int/en/web/bern-
+convention/monitoring (stating that “[t]he case-file system, dating back to 1984, is a unique monitoring tool based 
+on complaints for possible breaches of the Convention that can be submitted by NGOs or even private citizens.) 
+(emphasis in original). See also Agreement on the Conservation of African-Eurasian Migratory Waterbirds 
+(AEWA), Resolution 4.6, Establishment of an Implementation Review Process, available at: http://www.unep-
+aewa.org/en/activities/irp. Although the resolution itself provides that the process is initiated when the Secretariat 
+receives information, the roster of claims clarifies that NGOs are allowed, and have, initiated compliance matters. 
+ 7
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+compliance committee.45 NGOs can be uniquely positioned to independently monitor and assess 
+a State’s compliance with its treaty obligations.46 For example, NGOs have provided reports 
+assessing State compliance with pledges made pursuant to various international agreements or 
+have tracked wildlife trade in order to evaluate a regime’s progress.47 Scholars have identified 
+monitoring by NGOs as a key factor in the effectiveness of an international agreement.48 
+ 
+Transparency is fundamental to the democratic process and can help hold policy makers 
+accountable for their decisions.49 NGOs can directly assist during a negotiation by reporting on 
+the daily events at a meeting. This reporting not only allows transparency of the negotiations but 
+can also help State delegates keep informed with daily developments.50 Governments are not 
+positioned to provide such reporting because their focus is on negotiating.51 In a multi-forum 
+negotiation, such as the climate change negotiations and CITES negotiations, such reporting can 
+provide governments with critical information. In addition to providing such information at 
+meetings, NGOs also convey a simple and easily understood message regarding complex 
+negotiations to the public.52  
+ 
+NGOs also may provide important support for international secretariats. In some cases, that may 
+be by serving as the secretariat, such as when the International Union for Conservation of Nature 
+served as the secretariat during early days of the Ramsar Convention.53 Additionally, NGOs can 
+provide information, such as background papers and other informational documents, to a 
+secretariat.54  
+                                                                                                                                                       
+See AEWA Implementation Review Process (IRP), On-the-spot Assessment Mission: Sociable Lapwing 
+Conservation in Syria: Final Report (2010), available at: http://www.unep-
+aewa.org/sites/default/files/basic_page_documents/final_aewa_syria_irp_report.pdf (stating that the process began 
+in August 2009 when the AEWA Secretariat received a completed “Possible Case Information Sheet” from BirdLife 
+International, an NGO). 
+45 The Basel Convention, for example, includes non-State actors on its compliance committee. See Basel 
+Convention, Mechanism for Promoting Implementation and Compliance with the Obligations Under the Basel 
+Convention, para. 3 (As adopted by the sixth meeting of the Conference of the Parties (decision VI/12), and 
+amended by the tenth meeting of the Conference of the Parties (decision BC-10/11)) (stating that the compliance 
+committee consists of 15 members nominated by the Parties, as opposed to 15 Parties). The implementation 
+committee of the Agreement on International Dolphin Conservation and Protection also includes non-State actors, 
+including representatives from the Humane Society International and the fishing industry. Agreement on the 
+International Dolphin Conservation Program, May 1, 1998, Annex 2, para. 3, available at: 
+http://www.iattc.org/IDCPDocumentsENG.htm (stating that the review panel shall include “three representatives of 
+non-governmental environmental organizations with recognized experience in matters pertaining to this Agreement 
+and with offices in the territory of a Party, and three representatives from the tuna industry that operates under the 
+jurisdiction of any of the Parties in the Agreement Area (“non-governmental members”). 
+46 Gemmill & Bamidele-Izu, supra note 1, at 93–94; Raustiala, supra note 1, at 728–29; Ecologic, supra note 29, at 
+46–47.  
+47 Raustiala, supra note 1, at 729.  
+48 See Ecologic, supra note 29, at 46–48.  
+49 See id.  
+50 See Raustiala, supra note 1, at 730. A delegate at the 1972 Stockholm Environment Conference noted that “the 
+crew that put out ECO should attend all international conferences so we’ll know what the hell is going on.” Id.  
+51 Id.  
+52 See Ecologic, supra note 29, at 46–47.  
+53 Id. at 48. 
+54 Id.  
+ 8
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+ 
+Finally, NGOs may play an important role after negotiations are over.55 Without domestic 
+support, an international treaty may collapse after negotiations are complete. NGOs are often 
+important domestic players; involving them in international negotiations may help negotiators 
+gauge domestic support during the negotiation and may also help after negotiations when States 
+are trying to implement domestic policies.56 For example, NGO support for the North American 
+Agreement on Environmental Cooperation—a side agreement to North American Free Trade 
+Agreement—helped spur adoption of the free trade agreement.57  
+ 
+NGOs provide meaningful support throughout the life of an MEA: during its negotiation, prior to 
+meetings, during meetings, and after meetings. This participation “enhances the ability, in both 
+technocratic and political terms, of states to regulate through the treaty process.”58  
+ 
+III. 
+A Summary of Practices in MEAs, RFMOs, and ISOs 
+ 
+ 
+This section summarizes the rules for observer participation across a range of MEAs, 
+RFMOs, and ISOs. As an overview, it does not include all the details found in the various 
+documents reviewed. More detail can be found in the Annex.  
+ 
+A. Criteria for Admission of Observers 
+ 
+Each of the MEAs, RFMOs, and ISOs reviewed allows NGOs and other organizations to attend 
+and participate as observers without voting rights in meetings of the relevant decision-making 
+body.59 To attend and participate, NGOs must request permission from the relevant 
+administrative body, usually the secretariat, and meet specified technical requirements.60  
+ 
+The criteria for admission of observers are typically written broadly, although limited by a 
+requirement to be technically qualified in the area covered by the convention. The CBD, 
+Montreal Protocol, CITES, CMS and others require NGOs to be “qualified in fields” relating to 
+that MEA, RFMO, or ISO, such as biodiversity conservation in the context of the CBD.61 The 
+IOTC requires organizations to have “special competence in the field of activity of the 
+                                                
+55 See Raustiala, supra note 1, at 731.  
+56 Id. Specifically, Raustiala points to the failure of the Convention on the Regulatory of Antarctic Mineral Resource 
+Activities to be implemented domestically due to opposition from NGOs. Id.  
+57 Id.  
+58 Id. at 736. 
+59 See, e.g. CITES, supra note 6, at arts. XI(6)–(7); Montreal Protocol, supra note 17, at art, 11(5); CCSBT, supra 
+note 18, at art. 14(2). 
+60 See, e.g. CITES, supra note 6, at art. XI(7); UNFCCC, supra note 18, at art. 7(6). 
+61 See, e.g., CBD, supra note 5, at art. 23(5) (“qualified in fields relating to conservation and sustainable use of 
+biological diversity”); UNFCCC, supra note 18, at art. 7(6) (“qualified in matters covered by the Convention”); 
+CITES, supra note 6, at art. XI(7) (technically qualified in protection, conservation or management of wild fauna 
+and flora”); Antigua Convention, supra note 21, at art. XV(1) (“recognized experience in matters pertaining to the 
+Commission and the tuna industry”). 
+ 9
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Commission.”62 The WCPFC requires NGOs to be “concerned with matters relevant to 
+implementation” of the WCPF Convention.63  
+ 
+Regardless of the language used, NGOs representing diverse interests, including animal welfare 
+organizations, trade associations, user groups, and others have participated in meetings of these 
+bodies. With only one exception, this broad inclusion and broad interpretation of the criteria for 
+admission of observers spans MEAs, RFMOs, and ISOs. Of the international organizations 
+reviewed in this report, only the CCSBT appears to limit observer participation based on 
+qualifications in any significant way.64 
+ 
+B. Application Requirements and Deadlines for Obtaining Observer Status 
+ 
+Each of the MEAs, RFMOs, and ISOs reviewed in this paper has a specific process for an 
+organization to apply for observer status. Each requires an organization to submit specific 
+information to the convention’s administrative body for consideration, such as a description of 
+the organization’s activities that demonstrate it is qualified in the field relating to the relevant 
+MEA, RFMO, or ISO. Each also requires an application to be submitted prior to the meeting; 
+these deadlines typically range from just “prior to the meeting”65 to 100 days. One, the CCSBT, 
+does not give a specific deadline but the application must be submitted in time to allow the 
+Secretary to advise Members of the request 50 days before the meeting.66 The UNFCCC is an 
+outlier, requiring NGOs to submit documentation more than one year prior to a meeting;67 
+however, once that documentation is submitted, the accepted organization does not need to 
+resubmit its documentation for subsequent meetings.68 ICCAT, IATTC, IOTC and CCSBT also 
+assess an application only once without requiring observers to reapply for admission.69 
+ 
+Eleven of the MEAs, RFMOs, and ISOs reviewed allow Members to object to an organization’s 
+participation. Most commonly (CMS, CITES, IATTC, ICCAT, CBD, Montreal Protocol, and 
+UNFCCC), observers may participate unless one-third of the Parties or Members object to an 
+organization’s participation.70 The IATTC and ICCAT consider applications as accepted unless 
+                                                
+62 IOTC Agreement, supra note 20, at art. VII. 
+63 WCPF Convention, supra note 13, at art. 21. 
+64 CCSBT, Attendance at Meetings by Observers, available at: http://www.ccsbt.org/site/observers_attendance.php. 
+65 CMS, Rules of Procedure for Meetings of the Conference of the Parties, UNEP/CMS/COP11/REPORT, Annex II, 
+at Rule 2(3). 
+66 CCSBT, Rules of Procedure of the Commission for the Conservation of Southern Bluefin Tuna, Rules 3(5), 
+available at: 
+https://www.ccsbt.org/sites/ccsbt.org/files/userfiles/file/docs_english/basic_documents/rules_of_procedure_of_the_c
+ommission.pdf.  
+67 UNFCCC, Information Note, Revised Deadlines for Applications from Organizations for Admission as Observers 
+to the UNFCCC Process (July 8, 2013) available at: 
+https://unfccc.int/files/parties_and_observers/notifications/application/pdf/information_note_on_revised_deadlines_f
+or_admission.pdf.  
+68 Personal Observation. 
+69 E-mail from Erik Molenaar, Deputy Director, Netherlands Institute for the Law of the Sea (NILOS), Utrecht 
+University, to Chris Wold (July 29, 2016). 
+70 CITES, supra note 6, at art. XI(7); CBD, supra note 5, at art. 23(5); CMS, supra note 7, at art. VII(9); Montreal 
+Protocol supra note 17, at art. 11(5); UNFCCC, supra note 18, at art. 7(6); 
+10 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+one-third of Contracting Parties object in writing at least 30 days before the meeting,71 with the 
+IATTC requiring objections to be for cause.72 The WCPFC requires a majority of Members to 
+object in writing.73 Others, however, are more restrictive; the CCSBT requires all Members to 
+approve the NGO’s participation74 while NAFO and the IOTC require a vote on the matter if one 
+Member objects.75 
+ 
+C. Fees for Participation 
+ 
+Many MEAs, RFMOs, and ISOs have rules allowing the relevant administrative body to impose 
+a standard participation fee on observer organizations, but in practice few actually impose fees 
+on observers. In fact, a recent CITES document76 shows that nine MEAs do not charge fees. 
+These include five MEAs reviewed in this paper: CBD, CMS, the Montreal Protocol (and the 
+associated Vienna Convention for the Protection of the Ozone Layer), and UNFCCC. The other 
+MEAs that do not charge fees are the Basel Convention on the Control of Transboundary 
+Movements of Hazardous Wastes and their Disposal, the Rotterdam Convention on the Prior 
+Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International 
+Trade, the Stockholm Convention on Persistent Organic Pollutants, and the Convention on 
+Wetlands of International Importance especially as Waterfowl Habitat (Ramsar Convention).77 
+Only the International Whaling Commission and the International Tropical Timber Organization 
+charge fees.78 
+  
+ The CITES document is consistent with the findings of this report. Of the MEAs reviewed, only 
+CITES charges a fee: for each meeting of the Conference of the Parties, the first observer for an 
+organization must pay $600 with each additional observer paying $300.79 Among the RFMOs, 
+ICCAT requires observers to pay a fee for each meeting: $500 for up to two observers and an 
+additional 350 US$ fee has to be paid for each additional person in the observer delegation.80 It 
+                                                
+71 Antigua Convention, supra note 22, at Annex 2, ¶ 7; ICCAT, Guidelines and Criteria for Granting Observer 
+Status at ICCAT Meetings, Misc 05–12, ¶ 4 (2005), available at: http://iccat.int/Documents/Recs/compendiopdf-
+e/2005-12-e.pdf [hereinafter ICCAT Guidelines]. 
+72 Antigua Convention, supra note 22, at Annex, ¶ 7. 
+73 WCPFC, Commission-01, Rules of Procedure, Annex I, Rule 36(4) (2004), available at 
+https://www.wcpfc.int/doc/commission-01/rules-procedure [hereinafter WCPFC Rules of Procedure].  
+74 CCSBT Rules of Procedure, supra note 66, at Rule 3(9). 
+75 NAFO, Rules of Procedure for Observers to NAFO Meetings (General Council, Fisheries Commission, and 
+Scientific Council), at Rules 4-5, in Rules of Procedure & Finance Regulations (2014) available at: 
+http://www.nafo.int/publications/frames/publications.html; IOTC, Rules of Procedure, Rule XIV(5) (2014) available 
+at: http://iotc.org/documents/indian-ocean-tuna-commission-rules-procedure-2014 [hereinafter IOTC Rules of 
+Procedure]. 
+76 CITES, Financial Reports for 2014 and 2015, SC66 Doc. 10.1, at 7-8, Tbl. 3 (2015), available at: 
+https://cites.org/com/sc/66/index.php.  
+77 Id. 
+78 The IWC charges NGOs a fee of 580 British Pounds for the first observer and 285 British Pounds for each 
+additional observer. The ITTO has fees that range from zero to $300. Id. 
+79 CITES, Resolution Conf. 16.2 (CoP16), Financing and the Costed Programme of Work for the Secretariat for the 
+Triennium 2014-2016 (2013), available at: https://www.cites.org/eng/res/16/16-02.php; CITES, Notification No. 
+2016/020, 1 (Mar. 16, 2016) (setting fees for CoP17 in September 2016), available at: 
+https://cites.org/sites/default/files/notif/E-Notif-2016-020.pdf.  
+80 E-mail from Driss Meski, ICCAT Executive Secretary, to Chris Wold (May 20, 2016). 
+11 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+previously charged $2,000 but reduced the fee to “allow [] access to all relevant NGOs, and thus 
+enhance[e] transparency and inclusiveness.”81 The IATTC charges $500 for the first observer 
+and $350 for each additional observer.82 The IOTC allows the administrative body or the 
+Commission itself to implement a fee for observer participation,83 but it has never charged a 
+fee.84 Neither does the CCSBT.85 PICES charged participants in its 2015 annual meeting 
+between $50 and $275 (Canadian) depending on the person’s status (for example, student, 
+invited speaker, or non-speaking participant).86 
+ 
+The fees charged are intended to cover the additional costs arising from the observers’ 
+participation. For example, the IOTC Rules of Procedure state that the Commission may decide 
+to “request a contribution towards the additional administrative costs arising from the attendance 
+of observers at its Sessions.”87 The IATTC rules for registration include similar language.88 
+CITES similarly provides that fees relate to the “effective costs of participation” of observers.89 
+ 
+D. Observer Participation in Meetings  
+ 
+Each MEA, RFMO, and ISO allows observers to attend the plenary session of the convention,90 
+Nine of them, however, have possible restrictions on that ability. For example, the CBD, 
+UNFCCC, CCSBT, CITES, CMS, CBD, and IOTC allow the Members to close a session to 
+observers through a vote.91 Sometimes a simple majority is needed to close a session, as in 
+CITES meetings;92 at other times a two-thirds majority is needed to close a session as at CMS 
+meetings.93 These bodies sometimes do, in fact, close meetings, claiming a need to ensure 
+confidentiality, avoid politicizing issues (for example, regarding compliance issues), or conduct 
+                                                
+81 Id. 
+82 IATTC, Registration for AIDCP and IATTC Meetings, available at: http://www.iattc.org/meeting-registration-
+2016-06-20/. 
+83 IOTC Rules of Procedure, supra note 75, at Rule XIV(6). 
+84 E-mail from Dave Wilson, Deputy Secretary & Science Manager, Indian Ocean Tuna Commission, to Chris Wold 
+(May 20, 2016). 
+85 E-mail from Robert Kennedy, Executive Secretary, Commission for the Conservation of Southern Bluefin Tuna, 
+to Chris Wold (May 22, 2016). 
+86 PICES, PICES 2015 Annual Meeting, Registration & Registration Fees, available at: 
+http://pices.int/meetings/annual/PICES-2015/2015-registration.aspx. 
+87 IOTC Rules of Procedure, supra note, at Rule XIV(6). 
+88 IATTC, Registration for AIDCP and IATTC Meetings, supra note 82, at ¶ 6 (stating that “[o]bservers will be 
+required to pay a fee for their participation at the meetings of the Organization, which will contribute to the 
+additional expenses generated by their participation.”). 
+89 CITES, Resolution Conf. 16.2, supra note 79. 
+90 See, e.g., See, e.g., CBD, Rules of Procedure for Meetings of the Conference of the Parties to the Convention on 
+Biological Diversity (see Annex to Decision I/1 and Decision V/20), at Rule 29(1), available at: 
+https://www.cbd.int/doc/legal/cbd-rules-procedure.pdf [hereinafter CBD Rules of Procedure]; IOTC Rules of 
+Procedure, supra note 75, at Rules IV(1), XIV(8). 
+91 CITES, Rules of Procedure for the Conference of the Parties (as amended at the 16th meeting, Bangkok, 2013), at 
+Rule 12(1), available at: https://cites.org/sites/default/files/eng/cop/E16-Rules.pdf [hereinafter CITES Rules of 
+Procedure of Meetings of the Conference of the Parties]; UNFCCC, Draft Rules of Procedure, FCCC/CP/1996/2, at 
+Rule 39(1) (May 22, 1996), available at: http://unfccc.int/resource/docs/cop2/02.pdf [hereinafter UNFCCC Rules of 
+Procedure].  
+92 CITES, Rules of Procedure of Meetings of the Conference of the Parties, supra note 91, at Rule 12(1). 
+93 CMS, Rules of Procedure, supra note 65, at Rules 22, 23. 
+12 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+sensitive discussions and hard bargaining (for example, regarding the budget).94 The treaty and 
+the applicable Rules of Procedure do not always identify when meetings can be closed, although 
+ICCAT rules limit closed meetings to “extraordinary meetings held in executive sessions or 
+meetings of Heads of Delegations.”95 Meetings of the WCPFC and its subsidiary bodies should 
+be closed only in “exceptional circumstances.”96 One comprehensive review of NGO 
+participation in MEAs concluded that meetings should be closed to NGOs on a case-by-case 
+basis and that only “very limited exceptions to the general rule of access to meetings on the basis 
+of well-defined criteria (e.g. consideration of confidential information) might be justifiable.”97 
+ICES and PICES observers can attend with agreement of the Council.  
+ 
+Whether or not observers can attend meetings other than plenary sessions is often less clear. 
+Several agreements do not specifically enable an observer to attend each meeting but more 
+vaguely note that all proceedings are open to observers. CITES and CMS allow observers to 
+participate in committees,98 but require the chair to invite observers to working group meetings.99 
+While most working groups are open to observers, sometimes the chair will limit the number of 
+observers that may participate or omit observer participation completely if the issue is considered 
+politically sensitive.100 ICCAT allows observers to participate in working groups, although the 
+chair may limit their participation.101 At the other end of the spectrum, the UNFCCC rarely, if 
+ever, allows observers to participate in working group meetings.102 In fact, the UNFCCC created 
+a new kind of meeting—“informal-informals”—to exclude from meetings observers who would 
+otherwise have the right to participate in the meeting.103 IOTC meetings are open to observers 
+unless the IOTC decides otherwise.104 Further, ICES has specific procedures for evaluating if 
+observers can attend different sessions, some of which require advanced notice of an observer’s 
+desire to attend the specified meeting. CBD allows observers to attend specific meetings.  
+ 
+An observer’s ability to participate in other ways is not always specified. Some MEAs, RFMOs, 
+and ISOs make clear that observers may make oral statements and, if permission is granted, 
+display posters and exhibits in specified areas. Each treaty allows observers to address the 
+plenary meeting. Treaties sometimes specify limits on observer participation, for example, by 
+allowing the Chair to call a speaker to order, determine the order of speaking, and limit the 
+amount of time or number of times an observer can speak. Finally, IATTC, ICCAT, and ICES 
+also vaguely note that observers may participate in other ways as appropriate without specifying 
+                                                
+94 Ecologic, supra note 29, at 6, 67, 158. 
+95 ICCAT, Guidelines and Criteria for Granting Observer Status at ICCAT Meetings, supra note 71, at ¶ 2. The 
+IATTC similarly restricts closed sessions to “meetings held in executive sessions or meetings of Heads of 
+Delegations.” Antigua Convention, supra note 22, at Annex 2, ¶ 2. 
+96 WCPFC Rules of Procedure, supra note 73, at Rule 15. 
+97 Id. at 12. 
+98 CITES, Rules of Procedure of Meetings of the Conference of the Parties, supra note 91, at Rule 12(1); CMS, 
+Rules of Procedure, supra note 65, at Rule 12(2). 
+99 CITES, Rules of Procedure of Meetings of the Conference of the Parties, supra note 91, at Rule 12(2); CMS, 
+Rules of Procedure, supra note 65, at Rule 12(2). 
+100 Personal Observation. 
+101 E-mail from Driss Meski, supra note 80. 
+102 Personal Observation. 
+103 Personal Observation. 
+104 IOTC Rules of Procedure, supra note 75, at Rules VI(1), XIV(8). 
+13 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+what those ways would be or when it is appropriate. The WCPFC allows observers to participate 
+and intervene at its meetings even though the Rules of Procedure state that NGO observers are 
+only entitled to “sit” at meetings.105 
+ 
+E. Receipt of Meeting Documents by Observers 
+ 
+The rules of the MEAs, RFMOs, and ISOs reviewed do not always articulate whether observers 
+may obtain relevant documents, including (1) proposals, draft resolutions, and budget documents 
+submitted prior to the meeting, (2) in-session revisions to proposals, draft resolutions, budget 
+documents, (3) summary records of the meeting, and (4) informational documents. However, 
+most if not all of the MEAs, RFMOs, and ISOs reviewed in this report make all documents 
+available to observers at the same time they are made available to the parties or members.106 The 
+IATTC, IOTC, and NAFO have specific deadlines for making specific documents available to 
+observers and members simultaneously.107 That said, RFMOs and fisheries scientific bodies 
+sometimes protect confidential information from being disclosed to observers.108 Also, the 
+IATTC and WCPFC sometimes restrict documents under active negotiation to members only.109 
+The practice within a specific MEA, RFMO, or ISO often provides the culture of document 
+distribution, with the official website frequently being the most common way for a document to 
+be distributed.  
+ 
+F. Distribution of Documents by Observers 
+ 
+The distribution of documents by observers is generally permissible, although the types of 
+documents that observers may distribute may be restricted or require approval through the 
+relevant administrative body or the chair. CITES, for example, expressly allows documents to be 
+submitted without review by the Secretariat, provided that the observer’s organization offering 
+the documents is clearly identified.110 IOTC limits the distribution of documents by observers to 
+those documents invited by the IOTC.111 NAFO limits the distribution of documents to only 
+                                                
+105 See WCPFC, Rules of Procedure, supra note 73, at Rule 36(5). 
+106 Personal Observation (regarding CMS, UNFCCC, CITES, and WCPFC); E-mail from Gilbert M. Bankobeza, 
+Chief, Legal Affairs and Compliance, Ozone Secretariat, to Chris Wold (May 25, 2016) (regarding Montreal 
+Protocol); E-mail from Simone Lovera, Executive Director, Global Forest Coalition, to Chris Wold, June 24, 2016 
+(regarding IPBES). 
+107 See, e.g., IATTC, IATTC Rules of Procedure, at Rule 14 (2014) available at: 
+http://www.iattc.org/PDFFiles/IATTC-Rules-of-procedure-amended-Oct-2014.pdf; IOTC, Rules of Procedure, 
+supra note 75, at Rule IV(1); NAFO, Rules of Procedure for the General Council, Rule 2, in Rules of Procedure & 
+Finance Regulations (2014) available at: http://www.nafo.int/publications/frames/publications.html.  
+108 See, e.g., IATTC, Rules of Procedure, supra note 109, at Rule 14; ICCAT, Guidelines and Criteria for Granting 
+Observer Status at ICCAT Meetings, supra note 71, at ¶ 8; NAFO, Rules of Procedure for Observers to NAFO 
+Meetings, supra note 75, at Rule 6(a). 
+109 See E-mail from Rebecca Regnery, Deputy Director of Wildlife, Humane Society International, to Chris Wold 
+(Sept. 22, 2015) (noting that the IATTC has a password protected section of its website for some meeting 
+documents); E-mail from Alfred Cook, Western Central Pacific Tuna Programme Manager, World Wildlife Fund 
+Smart Fishing Initiative, to Chris Wold (Oct. 29, 2015, 14:30). 
+110 CITES, Rules of Procedure of the Conference of the Parties, supra note 91, at Rules 28(3). 
+111 IOTC, Rules of Procedure, supra note 75, at Rule XIV(8). 
+14 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+through the general information table.112 WCPFC allows submission of written comments but 
+only through the Secretariat. 113 The Montreal Protocol requires clearance by the Secretariat to 
+avoid distribution of information and materials that might be offensive or not related to the 
+objectives of the Protocol.114 Both CBD and UNFCCC preclude the distribution of documents in 
+official meeting rooms but allow distribution of observer documents at designated locations.115 
+ 
+IV. 
+Conclusion  
+ 
+The rules for observer participation in the MEAs, RFMOs, and ISOs are generally consistent 
+with the view that NGOs are an integral part of negotiations and “partners” in the process of 
+negotiating text, monitoring implementation, and assessing compliance. While the rules vary 
+among the MEAs, RFMOs, and ISOs reviewed, most allow expansive participation, including 
+the ability to attend most meetings, speak in most meetings, receive most if not all documents, 
+and distribute documents. They also charge no fees for observer participation or an amount 
+designed to pay for the added cost of their participation in a meeting. 
+ 
+Against that background, the suggestion of some WCPFC members that observers should pay a 
+large fee to participate in WCPFC meetings is inconsistent with current practice. While some 
+MEAs, RFMOs, and ISOs charge a fee, most do not and certainly no MEA, RFMO, or ISO 
+charges anything close to $10,000. In fact, ICCAT rescinded its $2,000 fee as inequitable and 
+inconsistent with transparency. 
+ 
+In addition, the ISC’s rules for observer participation are inconsistent with the rules reviewed for 
+this paper; they are far more restrictive than even the most restrictive rules for observer 
+participation. 
+ 
+ISC Protocol Rules (ISC, Observer Protocol 
+(June 2013) 
+Summary Analysis 
+Observers must apply at least 60 days in 
+advance of the ISC meeting and a single 
+member may veto an observer application 
+without explanation 
+• Consistent. While applications deadlines 
+vary, 60 days is within the timeframe of many 
+of the MEAs, RFMOs, and ISOs reviewed in 
+this report. 
+• Inconsistent. The authority of a single 
+member to veto the participation of an observer 
+is inconsistent; of the MEAs, RFMOs, and 
+ISOs reviewed here, only the CCSBT has a 
+similar rule. 
+                                                
+112 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 6(d). 
+113 WCPF Commission, Rules of Procedure, supra note 73, at Rules 36. 
+114 Bankobeza, supra note 106. 
+115 CBD, Guidelines for the Participation of Representatives of Observer Organizations at Meetings of the 
+Conference of the Parties of the Convention on Biological Diversity and its Subsidiary Bodies, ¶¶ 14, 17 (Sept. 16, 
+2010) available at: https://www.cbd.int/doc/meetings/cop/cop-10/other/cop-10-guidelines-observer-en.pdf; 
+UNFCCC, Guidelines for the Participation of Representatives of Non-Governmental Organizations, at ¶ D(1). 
+(March 2003), available at: https://unfccc.int/files/parties_and_observers/ngo/application/pdf/coc_guide.pdf.  
+15 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Observer participation is restricted to the 
+Plenary session only. 
+• Inconsistent. Observers are generally allowed 
+to participate in committees, working groups, 
+and other subsidiary bodies.  
+Observers cannot submit documents to the 
+Plenary or associated workshops.  
+• Inconsistent. Observers are typically able to 
+distribute documents. 
+Observer documents will not be posted on the 
+ISC meeting website. 
+• Not clear. Some MEAs, RFMOs, and ISOs 
+post observer documents to the relevant 
+website and others do not. 
+Observers are allotted a single limited period at 
+the end of each day when they may ask 
+technical questions about ISC assessments and 
+procedures only; presentations or expressions 
+of positions by observers are not permitted 
+• Inconsistent. Observers are typically allowed 
+the right to speak on any matter, provided they 
+speak when called on by the Chair.  
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Annex 
+ 
+The Rules for Observer Participation in Select Multilateral Environmental Agreements, 
+Regional Fisheries Management Organizations, and International Scientific Bodies 
+ 
+This Annex provides the information from which the summaries of observer participation in 
+Section III of the report are taken. The information is current through June 8, 2016.  
+ 
+A. Criteria for Admission of Observers 
+ 
+1. Multilateral Environmental Agreements 
+ 
+The Convention on Biological Diversity (CBD) allows both governmental and non-
+governmental, that are “qualified in fields relating to conservation and sustainable use of 
+biological diversity” to be admitted as an observer to a meeting of the Conference of the Parties 
+after the organization informs the Secretariat of its desire to be represented and unless one third 
+of Parties present objects.116 Similarly, the Cartagena Protocol on Biosafety—adopted by the 
+CBD Parties—allows governmental or non-governmental bodies “qualified in matters covered 
+by this Protocol” to participate as observers at meetings of the Protocol’s Parties after informing 
+the Secretariat of the desire to attend and unless at least one-third of the Parties present object.117 
+Both the CBD and the Cartagena Protocol allow the United Nations, its specialized agencies, and 
+the International Atomic Energy Agency, and any State not a party to be observers at meetings of 
+the Conference of the Parties.118 
+ 
+The Convention on International Trade in Endangered Species of Wild Fauna and Flora 
+(CITES) allows “any body or agency technically qualified in protection, conservation or 
+management of wild fauna and flora” to attend meetings of the parties as observers.119 To attend, 
+observers must follow certain procedures. For example, all observers—whether governmental or 
+non-governmental—must inform the Secretariat of their desire to attend and, in the case of 
+national NGOs, must obtain approval from the State in which they are located. 120 The Parties 
+also adopted a resolution that requires an NGO to be “an organization in its own right, with a 
+legal persona and an international character, remit and programme of activities.”121 If they follow 
+these procedures, observers have the right to attend the meeting unless one-third of the Parties 
+present object.122 However, the Secretariat generally does not deny organizations observer 
+                                                
+116 CBD, supra note 5, at art. 23(5). 
+117 Cartagena Protocol on Biosafety to the Convention on Biological Diversity, Jan. 29, 2000, 2226 U.N.T.S. 208 
+(entered into force Sept. 11, 2003), art. 29(8), available at: http://bch.cbd.int/database/attachment/?id=10694.  
+118 CBD, supra note 5, at art. 23(5); Cartagena Protocol, supra note 109, at art. 29(8). Contracting Parties that have 
+not ratified, accepted, or approved a protocol can also participate as an observer in a meeting of the Parties to that 
+protocol. CBD, supra note 5, at art. 32(2). The admission and participation of observers are subject to the Rules of 
+Procedures. Id. at art. 32(1). Similarly, Parties to the Convention that are not Parties to the Protocol may participate 
+as observers in the meetings of the Protocol as observers. Cartagena Protocol, supra note 109, at art. 29 (2). 
+119 CITES, supra note 6, at art. XI(7). 
+120 Id. 
+121 CITES, Resolution Conf. 13.8 (Rev.CoP16), supra note 10. 
+122 CITES, supra note 6, at art. XI(7). 
+17 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+status123 nor do Parties generally object to an organization participating as an observer.124 CITES 
+also allows the United Nations, its specialized agencies, the International Atomic Energy 
+Agency, and any State not a Party to the Convention to attend the meeting as observers without 
+following the procedures that other observers must follow.125  
+ 
+Each of the CITES subsidiary bodies—the Standing Committee, Animals Committee, and Plants 
+Committee—has its own rules of procedure that allow governmental bodies and NGOs to 
+participate in its meetings.126 Technically, the chair of the relevant committee invites the 
+observers to participate127 but in practice the process is run by the secretariat. Representatives of 
+Parties who are not represented on the committees may also attend meetings as observers with 
+the right to participate but not to vote.128  
+ 
+Under these rules, a wide variety of organizations have participated in CITES meetings. These 
+include representatives from organizations supporting, on the one hand, the pet industry, zoos, 
+captive breeding operations, the coral industry, various fisheries associations, and others 
+supporting international trade in species. They also include a variety of groups more resistant to 
+international trade have been admitted as observers, including those opposing sport hunting and 
+other lethal uses of wildlife.129  
+ 
+The Convention on the Conservation of Migratory Species of Wild Animals (CMS) allows 
+national and international agencies or bodies—whether governmental or non-governmental—to 
+participate in meetings of the parties, provided that they are “technically qualified in protection, 
+conservation and management of migratory species.”130 The text of the convention requires 
+national NGOs to obtain approval of the State in which they are located,131 although in practice 
+that is not required.132 If they follow these procedures, observers have the right to participate in 
+the meeting unless one-third of the Parties present object,133 although no legitimate organization 
+                                                
+123 Personal Observation. However, on rare occasions, NGOs are not approved by the appropriate national body (i.e. 
+U.S. FWS in the United States). Id.  
+124 Personal Observation. On the very rare occasion Parties have revoked observer status, it has been for cause where 
+an organization, for example, “bloodied” the tusk of an elephant in the CITES meeting banner. Id.  
+125 CITES, supra note 6, at art. XI(6). See also CITES, Rules of Procedure of the Conference of the Parties, supra 
+note 91, at Rule 2(1).  
+126 CITES, Rules of Procedure of the Standing Committee, Rules 4, 5, 6 (2012), available at: 
+https://cites.org/sites/default/files/eng/com/sc/rules.pdf; CITES, Rules of Procedure of Meetings of the Animals 
+Committee, Rules 5, 6, 7 (2014) available at https://cites.org/sites/default/files/eng/com/ac/28/E-AC28-
+02%20Rev1.pdf; CITES, Rules of Procedure of Meetings of the Plants Committee, Rules 5, 6, 7, (2014) available at 
+https://cites.org/sites/default/files/eng/com/pc/E-PC21-RoP-2014.pdf.  
+127 CITES, Rules of Procedure of the Standing Committee, supra note 126, at Rule 6(1); CITES, Rules of Procedure 
+of Meetings of the Animals Committee, supra note 126, at Rule 7; CITES, Rules of Procedure of Meetings of the 
+Plants Committee, supra note 126, at Rule 7. 
+128 CITES, Rules of Procedure of Meetings of the Plants Committee, supra note 126, at Rule 4; CITES, CITES, 
+Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 4. 
+129 CITES, List of Participants: Observers; Fifteenth Meeting of the Conference of the Parties (2010), available at: 
+https://cites.org/sites/default/files/common/cop/15/cop15_participants_observers.pdf.  
+130 CMS, supra note 7, at art. VII(9); CMS, Rules of Procedure, supra note 65, at Rule 2(2).  
+131 Id. 
+132 Personal Observation. 
+133 CMS, supra note 7, at art. VII(9). 
+18 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+has ever been denied access.134 Admission of observers is confirmed at the beginning of the 
+meeting, although prior to a meeting the Secretariat provides Parties with a list of organizations 
+that have requested observer status and asks that any Party with an objection inform the 
+Secretariat before the meeting.135 The United Nations, its Specialized Agencies, the International 
+Atomic Energy Agency, and any State not a party may also be represented by observers at 
+meetings of the Conference of the Parties without following the procedures that other observers 
+must follow.136  
+ 
+In addition, observers may attend meetings of the CMS Standing Committee and Scientific 
+Council. With respect to participation at a Standing Committee meeting, an observer that has 
+attended the meeting of the Conference of the Parties (COP) immediately preceding the Standing 
+Committee meeting may attend at its own expense after providing notice to the Secretariat.137 If a 
+body or agency did not attend the previous meeting of the COP, it may participate in a Standing 
+Committee meeting if it submits a request to the secretariat at least 30 days before the meeting 
+with information describing its technical qualifications, the names of individuals who are 
+authorized to attend the meeting, and confirmation that the observer will meet its own 
+expenses.138 The chair of the Scientific Council also has discretion to invite organizations to 
+participate in meetings of the Council.139 As with CITES, a wide range of groups have attended 
+CMS meetings, including those favoring wildlife protection and those favoring the use of 
+wildlife for human benefit.140 
+ 
+The Montreal Protocol on Substances that Deplete the Ozone Layer (Montreal Protocol) 
+specifies that organizations “qualified in fields relating to the protection of the ozone layer” may 
+request and be admitted as observers unless one-third of the Parties present object.141 The 
+Montreal Protocol further requires the Secretariat to “encourage non-Parties to attend meetings 
+of the Parties as observers.”142 Observers, once invited by the President, may participate without 
+the right to vote in any meeting in “matters of direct concern to the body or agency they 
+                                                
+134 See E-mail from Melanie Virtue, Head, Aquatic Species Team, Convention on the Conservation of Migratory 
+Species of Wild Animals, to author (Sept. 9, 2015) (on file with author). Similarly, the Secretariat has denied 
+observer status for individuals who apply but do not represent an organization. Personal observation.  
+135 CMS, Admission of Observers, CoP11.Doc.8.Rev.1, (2014) available at 
+http://www.cms.int/sites/default/files/document/COP11_Doc_08_Admission_of_Observers_to_COP_E_Rev%20_1
+_0.pdf.  
+136 CMS, supra note 7, at art. VII(8). 
+137 CMS, 44th Meeting of the Standing Committee Rules of Procedure, Rule 2(1) (2015) available at: 
+http://www.cms.int/sites/default/files/document/Doc_3_Rules_of_procedure.pdf.  
+138 Id. at Rule 2(2). 
+139 CMS, Rules of Procedure of the CMS Scientific Council, UNEP/CMS, ScC17/Inf.2, at Rule 7 (2011) available at 
+http://www.cms.int/sites/default/files/document/inf_02_rules_of_procedure_e_0.pdf. To that effect, the Parties 
+recognized and invited specific organizations to participate in the Scientific Council. CMS, Institutional 
+Arrangements: Scientific Council, Res. 6.7 (1999) available at 
+http://www.cms.int/sites/default/files/document/Res6.07_E_0_0.pdf.  
+140 See CMS, Provisional List of Participants, CoP11 Inf. 14 (2014) (showing registration of representatives of 
+Federation of Associations for Hunting and Conservation of the EU and the International Fund for Animal Welfare). 
+141 Montreal Protocol supra note 17, at art. 11(5); United Nations Environment Programme Ozone Secretariat, Rules 
+of Procedure for Meeting of the Parties to the Montreal Protocol, at Rule 7(1), available at: 
+http://ozone.unep.org/en/handbook-montreal-protocol-substances-deplete-ozone-layer/2158. 
+142 Montreal Protocol supra note 17, at art. 12. 
+19 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+represent.”143 As with CITES and CMS, the United Nations, its specialized agencies and the 
+International Atomic Energy Agency, as well as any State not party to the Protocol, may be 
+represented at meetings of the Parties as observers without following the procedures that other 
+observers must follow for accreditation.144 A relatively small number of observers attend Montreal 
+Protocol meetings compared to CITES and CMS, but these observers include industry groups 
+supporting the use of ozone depleting substances, such as the International Pharmaceutical Aerosol 
+Consortium and Japan Fluorocarbon Manufacturers Association, and those seeking stronger rules 
+to phase out the use of ozone depleting substances more quickly, including the Environmental 
+Investigation Agency and Institute for Governance and Sustainable Development.145  
+ 
+ 
+The United Nations Framework Convention on Climate Change (UNFCCC), in 
+language similar to the CBD’s, permits governmental and non-governmental bodies that are 
+“qualified in matters covered by the Convention” and that have informed the Secretariat of the 
+desire to attend a meeting as an observer to be admitted unless one-third of the Parties present 
+object.146 The United Nations, its specialized agencies and the International Atomic Energy 
+Agency, and State members that are not Parties can also be admitted as observers.147 The 
+convention’s Subsidiary Body for Implementation expressly encourages the participation of 
+NGOs from developing countries and countries with economies in transition.148 The number of 
+groups attending UNFCCC meetings is very broad, including academic, research, and business 
+organizations, as well as those seeking a total phrase out of fossil fuels and those representing the 
+fossil fuel industry.149 Some organizations appear to attend solely to perform public 
+demonstrations opposing the use of fossil fuels.150 
+ 
+2. Regional Fisheries Management Organizations 
+ 
+The Commission for the Conservation of Southern Bluefin Tuna (CCSBT) may invite inter-
+governmental organizations and, on request, NGOs that have “special competence concerning 
+southern bluefin tuna” to attend meetings of the Commission as observers.151 The Commission 
+                                                
+143 Montreal Protocol Rules of Procedure, supra note 141, at Rule 7(2). 
+144 Montreal Protocol, supra note 17, at art. 11(5). 
+145 Montreal Protocol, Report of the Twenty-Seventh Meeting of the Parties to the Montreal Protocol on Substances 
+that Deplete the Ozone Layer, UNEP/OzL.Pro27/13 ¶ 15 (Nov. 30, 2015). 
+146 UNFCCC, supra note 18, at art. 7(6); see also UNFCCC, Adoption of the Rules of Procedure FCCC/CP/1996/2, 
+Rule 7(1) (1996), available at: http://unfccc.int/resource/docs/cop2/02.pdf; UNFCCC, Handbook, at ¶ 3.E (2006), 
+available at: http://unfccc.int/resource/docs/publications/handbook.pdf. The Handbook further identifies specific 
+UN bodies and MEAs that the Convention should cooperate with to promote implementation of the Convention. 
+That list includes the United Nations, the Intergovernmental Panel on Climate Change, the Vienna 
+Convention/Montreal Protocol, Convention on Biological Diversity, the United Nations Convention to Combat 
+Desertification, and Convention on Wetlands (or Ramsar Convention). Id. at Chapter 4.  
+147 UNFCCC, supra note 18, at art. 7(6). See also UNFCCC Rules of Procedure, supra note 91, at Rule 6(1). 
+148 UNFCCC, Handbook, supra note 144, at ¶ 5.C.2.; UNFCCC, Report of the Subsidiary Body for Implementation 
+on Its Twentieth Session, FCCC/SBI/204/10, at ¶ 106 (2004), available at: 
+http://unfccc.int/resource/docs/2004/sbi/10.pdf.  
+149 UNFCCC, Provisional List of Participants: Part Four: Non-governmental Organizations (Fondation Nicolas 
+Hulot – Zoological Society of London), available at: http://unfccc.int/resource/docs/2015/cop21/eng/misc02p04.pdf.  
+150 Personal Observation. Chris Wold, the lead author of this report, has attended several meetings of the Parties to 
+the UNFCCC and Kyoto Protocol. 
+151 CCSBT Convention, supra note 19, at art. 14(2). 
+20 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+may also invite NGOs that are “competent to contribute to the attainment of the objectives of the 
+Convention” to be an observer.152 The Commission determines which organizations to invite as 
+observers for the next meeting at the immediately preceding meeting,153 and the decision to 
+invite an organization requires the approval of all Members.154 The Commission may also 
+approve long-term observer status.155 Five intergovernmental organizations (IGOs) and four 
+NGOs have been granted with long-term observer status, including Birdlife International, Human 
+Society International, TRAFFIC, and World Wildlife Fund–Australia.156 When it does, it must 
+specify which meetings the organization may attend (e.g., annual meetings, compliance 
+committee meetings, and others). Long-term observer status remains in force until canceled by 
+the Commission upon the written request of a Member made 60 days prior to the next 
+meeting.157 The Executive Secretary informs the Members and affected observer of the request 
+and the reasons, and long-term observer status ceases with the receipt of the request.158  
+ 
+The Inter-American Tropical Tuna Commission (IATTC) promotes transparency in its 
+decision-making through, among other things, “facilitating consultations with, and the effective 
+participation of, non-governmental organizations, representatives of the fishing industry, 
+particularly the fishing fleet, and other interested bodies and individuals.”159 To that end, IGOs 
+whose work is relevant to the implementation of this Convention and non-Parties interested in 
+conservation and sustainable use of the fish stocks may participate in meetings of the 
+Commission.160 In addition, NGOs—“including environmental organizations with recognized 
+experience in matters pertaining to the Commission and the tuna industry of any of the members 
+of the Commission operating in the Convention Area, particularly the tuna fishing fleet”—may 
+also participate in meetings of the Commission and its subsidiary bodies as observers.161 A small 
+but diverse group of observers have participated in IATTC meetings, including those from 
+environmental organizations, the seafood industry, fishing associations, aquaculture associations, 
+and research organizations.162 
+ 
+The convention establishing the International Commission for the Conservation of Atlantic 
+Tunas (ICCAT) does not specifically include provisions for observer participation, although it 
+does specify that the Commission should cooperate with other international fisheries 
+commissions and scientific organizations that might contribute to the work of the 
+Commission.163 It also allows the Commission to invite “any appropriate international 
+                                                
+152 CCSBT Rules of Procedure, supra note 66, at Rule 3(1)(b). (2011); CCSBT, Attendance at Meetings by 
+Observers, supra note 64. As of September 2015, 5 inter-governmental organizations and 4 non-governmental 
+organizations had been granted long-term observer status with the CCSBT. Id.  
+153 CCSBT Rules of Procedure, supra note 66, at Rule 3(2). 
+154 Id. at Rule 3(1). 
+155 Id. at Rule 3(3). 
+156 CCSBT, Attendance at Meetings by Observers, supra note 64. 
+157 CCSBT Rules of Procedure, supra note 66, at Rule 3(3). 
+158 Id. 
+159 Antigua Convention, supra note 22, at art. XVI(1). 
+160 Id. at art. XVI(2), Annex 2, ¶ 1. 
+161 Id. at art. XVI(2). 
+162 See, e.g., IATTC, MINUTES OF THE 87TH MEETING OF THE INTER-AMERICAN TROPICAL TUNA COMMISSION 
+(RESUMED), 8 (2014), at http://www.iattc.org/Meetings/Meetings2014/OCT/PDFs/IATTC-87-2-Minutes.pdf.  
+163 ICCAT Convention, supra note 21, at art. XI(2). 
+21 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+organization” to send observers to the meetings of the Commission and its subsidiary bodies.164 
+Similarly, the Rules of Procedure do not include rules for NGO participation, while reaffirming 
+the ability of “international organizations” to participate in the work of the Commission but not 
+to vote.165  
+ 
+However, the ICCAT members have addressed NGO participation through the Guidelines and 
+Criteria for Granting Observer Status at ICCAT Meetings.166 These Guidelines allow NGOs that 
+“support the objectives of ICCAT and with demonstrated interest in the species under the 
+purview of ICCAT” to be eligible to participate as observers in all meetings and subsidiary 
+bodies except extraordinary meetings held in executive sessions or meetings of heads of 
+delegations.167 ICCAT considers applications as accepted unless one-third of Contracting Parties 
+object in writing at least 30 days before the meeting or within 60 days of receipt of an application 
+if that is more than 30 days before to the meeting.168 Although not reflected in the ICCAT 
+Observer Guidelines and Criteria, once an NGO has had its application for observer status 
+approved, it does not need to apply again.169 The Executive Secretary may limit the number of 
+observers per NGO that may attend a meeting due to logistical constraints.170 As with the 
+IATTC, a small but diverse range of observers attend ICCAT meetings.171 
+ 
+The Indian Ocean Tuna Commission (IOTC) may invite IGOs and NGOs “having special 
+competence in the field of activity of the Commission” to attend and participate in Commission 
+meetings.172 FAO Members, UN bodies, and a range of international organizations may also 
+submit a request to participate in Commission meetings.173 The Commission may also invite 
+consultants or experts—as individuals—to attend the meetings or participate in the work of the 
+Commission, committees, and other subsidiary bodies.174 The Commission, at the 16th Session, 
+agreed that meetings of the Commission and its subsidiary bodies should be open to participation 
+                                                
+164 Id. at art. XI(3). 
+165 ICCAT Rules of Procedure, Rule 5 (2006) available at: http://iccat.int/Documents/Commission/BasicTexts.pdf.  
+166 ICCAT, Guidelines and Criteria for Granting Observer Status at ICCAT Meetings, supra note 71.  
+167 Id. at ¶ 2. 
+168 Id. at ¶ 4. 
+169 E-mail from Erik Molenaar, supra note 69. 
+170 Id. at ¶ 7. 
+171 At the 2013 Annual Meeting, the following organizations attended: The following non-governmental 
+organizations were admitted as observers: ANATUN; Association euroméditerranéenne des pêcheurs professionnels 
+de thon (AEPPT); Asociación de Pesca, Comercio y Consumo Responsable del Atún Rojo (APCCR); Bluewater 
+Fishermen’s Association; International Confederation of Sport Fishing (CIPS); Defenders of Wildlife; Ecology 
+Action Centre (EAC); Federazione Nazionale delle Imprese di Pesca (FEDERPESCA); FEDERCOOPESCA; 
+Federation of Maltese Aquaculture Producers (FMAP); Fundatun; Humane Society International; International 
+Seafood Sustainability Foundation (ISSF); Marine Stewardship Council (MSC); Medisamak; Oceana, Organisation 
+for the Promotion of Responsible Tuna Fisheries (OPRT); Pew Environment Group; The Ocean Foundation; and the 
+World Wide Fund (WWF). ICCAT, Proceedings of the 19th Special Meeting of the Commission, in REPORT FOR 
+BIENNIAL PERIOD, 2014-15, PT. I (2014)-VOL. 1, § 4 (2015). 
+172 IOTC Agreement, supra note 20, at art. VII. The Rules of Procedure also establish rules for NGO participation. 
+IOTC Rules of Procedure, supra note 75, at Rule XIV(5).  
+173 IOTC Agreement, supra note 20, at art. VII. See also IOTC Rules of Procedure, supra note 75, at Rule XIV(2)–
+(4), (7). 
+174 IOTC Rules of Procedure, supra note 75, at Rule XIV(9). 
+22 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+by observers that attended the current and/or previous sessions of the Commission.175 A diverse 
+range of IGOs and NGOs have participated in IOTC meetings, including Birdlife International, 
+International Game Fish Association, Rain Forest Rescue International, and the World Wildlife 
+Fund.176 
+ 
+The convention establishing the Northwest Atlantic Fisheries Organization (NAFO) does not 
+specifically allow IGOs or NGOs to participate in meetings of the Organization; it provides only 
+for Contracting Parties that are not Commission Members to attend as observers.177 Nonetheless, 
+the Rules of Procedure for Observers allow the Executive Secretary to invite to NAFO-related 
+meetings those intergovernmental organizations that have “regular contacts with NAFO as 
+regards fisheries matters or whose work is of interest to NAFO or vice-versa” and NGOs that 
+“support[] the general objectives of NAFO and with demonstrated interest in the species under 
+the purview of NAFO.”178 Consistent with other RFMOs, a small but diverse number of NGO 
+observers have participated in NAFO meetings.179 
+ 
+If an NGO does not communicate with the Secretariat or attend a meeting for three years, then 
+NAFO suspends that NGO’s observer status, but the NGO may reapply to attend in writing.180 
+Further, the Executive Secretary reviews observer accreditation every five years, which includes 
+the consideration of new information or developments regarding the NGO in question and sends 
+the review to the Members.181 In addition, a Member may object to the renewal of observer 
+status in writing—by including the reason for objection—within 30 days of the review; the 
+matter is voted on by a written procedure.182 The Executive Secretary will circulate the reasons 
+for objections and any comments of Members from the vote, and—without an objection—the 
+renewal is considered accepted.183 Due to logistical limitations (e.g., room capacity), the 
+Executive Secretary may limit the number of individuals representing each NGO at any meeting 
+and will transmit those limitations in the conditions of participation.184 Observers may 
+participate, but not vote.185 The three Rules of Procedures—for the General Council,186 Fisheries 
+Commission,187 and Scientific Council188—also allow observers to attend plenary or subsidiary 
+body meetings.  
+                                                
+175 IOTC, Observers to the IOTC Meetings, available at: http://iotc.org/about-iotc/observers-iotc-meetings.  
+176 Id. 
+177 NAFO Convention, supra note 23, at art. XIII(3). 
+178 NAFO Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rules 1, 2.  
+179 NAFO reports that the following NGOs have participated in NAFO meetings: Dalhousie University – 
+Environmental Information: Use and Influence (EIUI) Project, Ecology Action Centre (EAC), International 
+Coalition of Fisheries Association (ICFA), Marine Stewardship Council, PEW Environment Group, Sierra Club of 
+Canada (SCC), Torngat Wildlife, Plants and Fisheries Secretariat, and World Wildlife Fund (WWF). NAFO, NAFO 
+Meetings, available at: http://www.nafo.int/meetings/frames/meetings.html.  
+180 NAFO Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 5(d). 
+181 Id. at Rule 5(e). 
+182 Id. at Rule 5(e). 
+183 Id. at Rule 5(e). 
+184 Id. at Rule 5(b). 
+185 Id. at Rule 6(b). 
+186 NAFO, Rules of Procedure for the General Council, supra note 107, at Rule 2.  
+187 NAFO, Rules of Procedure for the Fisheries Commission, Rule 2, in Rules of Procedure & Finance Regulations 
+(2014) available at: http://www.nafo.int/publications/frames/publications.html.  
+23 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+ 
+The convention establishing the Western and Central Pacific Fisheries Commission 
+(WCPFC) allows IGOs and NGOs “concerned with matters relevant to implementation of this 
+Convention” the opportunity to participate as observers in meetings of the Commission and its 
+subsidiary bodies.189 The Rules of Procedure add that NGOs must have “demonstrated their 
+interest in matters under consideration by the Commission.”190 Non-parties may request observer 
+status and—with the concurrence of the Members—may be invited as observers.191 The 
+Commission must also cooperate with the FAO, other UN specialized agencies and bodies and 
+other international agreements, Commissions, and other organizations to “further the attainment 
+of the objective of [the] Convention and to minimize duplication with respect to their work.”192 
+These organizations may also participate as observers.193 A guidance document also allows 
+cooperating non-members to participate at meetings of the Commission and its subsidiary bodies 
+as observers,194 including working groups, and receive relevant documents.195 Generally, 
+applying organizations are granted observer status.196 Again, a small but diverse range of NGOs 
+attend WCPFC meetings as observers.197 
+ 
+3. International Scientific Organizations 
+ 
+The convention establishing the International Council for the Exploration of the Sea (ICES) 
+allows organizations to participate as observers in meetings of the Council. ICES allows 
+organizations that have objectives “related to those of the Council” to be invited by the 
+Commission as observers.198 ICES guidelines specifically state that governmental, IGOs, NGOs, 
+                                                                                                                                                       
+188 NAFO, Rules of Procedure for the Scientific Council, Rule 2, in Rules of Procedure & Finance Regulations 
+(2014) available at: http://www.nafo.int/publications/frames/publications.html.  
+189 WCPF Convention supra note 13, at art. 21. 
+190 WCPFC Rules of Procedure, supra note 73, at Rule 36(1)(f).  
+191 WCPF Convention, supra note 13, at art. 21. 
+192 Id. at arts. 22(1)-(5). 
+193 WCPFC Rules of Procedure, supra note 73, at Rule 36 (1). 
+194 WCPFC, Cooperating Non-Members, Conservation and Management Measure 2009-11 (2009). 
+195 WCPFC, Conservation and Management Measure for Compliance Monitoring Scheme, Conservation and 
+Management Measure 2014-07 (2014). 
+196 See E-mail from Alfred Cook, supra note 109. 
+197 At the 2014 WCPFC annual meeting, the following NGO observers attended: American Albacore Fishing 
+Foundation, American Fisheries Research Foundation, American Tunaboat Association, Birdlife International, 
+Conservation International, Earth Island Institute, Environment Hawaii, Greenpeace, International Environmental 
+Law Project, International Seafood Sustainability Foundation (ISSF), the Marine Stewardship Council (MSC), 
+Organization for the Promotion of Responsible Tuna Fisheries (OPRT), Pacific Islands Tuna Industry Association 
+(PITIA), the Pew Charitable Trusts, Tautai OSamoa Longline & Fishing Association, the United States-Japan 
+Research Institute, and the World Wide Fund for Nature (WWF). WCPFC, SUMMARY REPORT: ELEVENTH REGULAR 
+SESSION OF THE COMMISSION FOR THE CONSERVATION AND MANAGEMENT OF HIGHLY MIGRATORY FISH STOCKS OF 
+THE WESTERN AND CENTRAL PACIFIC OCEAN, ¶ 4 (2015). 
+https://www.wcpfc.int/system/files/WCPFC11%20summary%20report%20_FINAL_1.pdf.  
+198 ICES, Rules of Procedure, Rule 2, (2014) available at: http://www.ices.dk/explore-us/who-we-
+are/Documents/ICES_Rules_of_Procedure.pdf. The ICES Annual Science Conference is open to anyone who pays a 
+registration fee. ICES, Delegates Handbook at § 6.1 (2013) available at: http://www.ices.dk/explore-us/who-we-
+are/Documents/Delegates_Handbook_version_April_2013.pdf.  
+24 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+and individuals are eligible to be observers.199 Organizations should “support the general 
+objectives of ICES and have competence in the area of ICES’ work.”200 Similarly, individuals 
+should “endorse the objectives of ICES and also have an expressed interest in the work of 
+ICES.”201 Organizations must apply for observer status and individuals need to be registered as 
+observers for specific meetings.202 The General Secretary may limit the number of observers 
+admitted to a meeting based on logistical limitations. The General Secretary should base that 
+decision on the “need for a balanced participation preserving the scientific nature and integrity of 
+the work” and include such a limitation in the conditions of participation.203 
+ 
+The resolution establishing the Intergovernmental Platform on Biodiversity and Ecosystem 
+Services (IPBES) does not discuss observer participation.204 However, a second document 
+adopted at the same time allows for the participation of States that are not members of the 
+Platform, as well as U.N. bodies and other governmental, intergovernmental, or non-
+governmental bodies, organizations, or agencies, including organizations for indigenous peoples 
+and local communities that are “qualified in matters covered by the Platform” and that have 
+requested observer status.205 Those groups are subject to the Rules of Procedure.206 More than 50 
+organizations participated in the 2015 IPBES Plenary meeting.207 
+ 
+The convention establishing the North Pacific Marine Science Organization (PICES) allows 
+the Council to invite “states, organizations, and experts to attend scientific meetings of the 
+Organization, or to participate in activities of the Organization based on terms established by the 
+Council.208 The treaty defines “observer” as “a person, formally invited by the Council to 
+observe some aspect of its activities.”209 The Rules of Procedure elaborate that the Council may 
+invite any government not a Party, any international or other organization “having objectives 
+related to those of the Organization,” and individuals to participate in particular meetings of the 
+                                                
+199 ICES, ICES Policy on Observer Status, CM 2013 Del-11.3, at ¶ 1, (2013) available at: 
+http://www.ices.dk/community/Documents/Observers/CM_2013_Del-11%203_Observer_rules.pdf.  
+200 ICES Policy on Observer Status, supra note 199, at ¶ 2. 
+201 Id. at ¶ 3. 
+202 Id. at ¶ 14. 
+203 Id. at ¶ 9. 
+204 See IPBES, Resolution on the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem 
+Services (2012) available at: http://www.ipbes.net/policies-and-procedures.  
+205 IPBES, Functions, Operating Principles and Institutional Arrangements of the Intergovernmental Science-Policy 
+Platform on Biodiversity and Ecosystem Services, at Part III(2)(6), (2012), available at: 
+http://www.ipbes.net/policies-and-procedures; IPBES, Rules of Procedure for the Plenary of the Platform, Decision 
+IPBES/1/1, at Rule 2(g) (2013), available at: http://www.ipbes.net/sites/default/files/downloads/Decision_IPBES-
+1_1_en_0.pdf; IPBES, Draft Policy and Procedures for the Admission of Observers, IPBES/3/13, at ¶ 1 (2014), 
+available at: http://www.ipbes.net/sites/default/files/downloads/IPBES_3_13_Admission_of_Observers_en.pdf.  
+206 IPBES, Functions, Operating Principles and Institutional Arrangements, supra note 203, at Part III(2)(6). 
+207 IPBES. Report of the Plenary of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem 
+Services on the Work of Its Third Session, IPBES/3/18, ¶ 14 (Jan. 12, 2015) http://www.ipbes.net/plenary/ipbes-3.  
+208 PICES, supra note 26, at art. VI(5). 
+209 PICES, Rules of Procedure (2013), at “Definition of Terms,” available at: 
+https://www.pices.int/about/rules_procedure.aspx.  
+25 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Council.210 The documents from the 2014 PICES annual meeting show a large number and broad 
+range of participants.211 
+ 
+B. Application Requirements and Deadlines for Obtaining Observer Status  
+ 
+1. Multilateral Environmental Agreements 
+ 
+To apply for observer status at CBD meetings, an organization must send an official letter of 
+interest to the Secretariat.212 The letter of interest must be on the organization’s letterhead and 
+signed by the organization’s chief executive or president, include a clear request to attend a 
+specific meeting, and the names, titles, and contact information of nominated representatives.213 
+Further, an organization that has not recently been admitted as an observer must also include a 
+statement on the organization’s qualifications in fields related to conservation and sustainable 
+use of biological diversity, the organization’s website address, the by-laws or terms of reference 
+that show it is a bona fide organization in its home country, and any other relevant information 
+including any changes in the organization’s information.214 Individuals without an affiliation 
+with an organization cannot be admitted as observers.215 Only organizations that have 
+communicated with the Secretariat as above and pre-registered their representatives will receive 
+a badge for meetings.216 Finally, the CBD generally requires that representatives are at least 18 
+years old, although the Secretariat has discretion to admit younger individuals.217 
+ 
+At CITES meetings, observers may attend the Conference of the Parties and the Standing, 
+Animals, and Plants Committees provided they follow the relevant application process (and meet 
+the admission criteria described in Section A). To attend the Conference of the Parties, an 
+organization requests observer status by submitting the names of its observers, and, if a national 
+NGO, evidence of approval of the State in which the organization is located, to the Secretariat at 
+least six weeks before the meeting.218 A Resolution further directs the Secretariat not to accept 
+additional observer names after the six-week deadline and not to accept changes to names except 
+where an organization has registered no more than two observers before the deadline and the 
+Secretariat believes that the change in the representative is due to force majeure.219 Similarly, at 
+least 30 days before a meeting of the Standing Committee, an organization must submit to the 
+Secretariat relevant information on the organization’s technical qualifications, the names of the 
+observers authorized to represent the organization, proof of the approval of the State in which the 
+                                                
+210 PICES, Rules of Procedure, supra note 209, at Rule 2. 
+211 PICES, 2014 Participants, http://www.pices.int/publications/annual_reports/Ann_Rpt_14/2014-Participants.pdf.  
+212 CBD, Non-Governmental Organizations, Meetings, Observer Admission, 
+https://www.cbd.int/ngo/meetings.shtml.  
+213 Id. 
+214 Id 
+215 Id 
+216 CBD, Guidelines for the Participation of Representatives of Observer Organizations, supra note 115, at ¶¶ 6, 7. 
+Badges are required to be worn visibly at all times in the meeting venue and representatives can be required to verify 
+their identify to Secretariat officials or security staff if asked. Id.  
+217 Id. at ¶ 5. 
+218 CITES Rules of Procedure of the Conference of the Parties, supra note 91, at Rule 3(5). 
+219 CITES, Resolution Conf. 13.8 (Rev.CoP16), supra note 10. 
+26 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+national NGO is located or in which the IGO is headquartered.220 The Animals Committee and 
+Plants Committee require an organization to request observer status from the Secretariat at least 
+30 days before the meeting to allow the Secretariat to publish a list of invited organizations after 
+the 30-day deadline.221 Invitations to the Plants and Animals Committees may be withdrawn if 
+the Committee agrees to do so before the meeting starts.222 
+ 
+To attend CMS meetings, an organization requests observer status by submitting the names of its 
+representatives—and, if an NGO, evidence of approval of the State in which they are located—to 
+the Secretariat prior to the opening of the meeting.223 The organization must submit that letter 
+with a request to attend the meeting before the opening of the meeting for the Conference of the 
+Parties.224 The rules do not specify a deadline for submitting such a request to attend the 
+Conference of the Parties. 
+ 
+An organization may also request from the Secretariat an invitation to participate as an observer 
+at Standing Committee meetings.225 Such a request should include relevant information on the 
+organization’s technical qualifications, the names of observers that have been authorized to 
+represent the organization at the meeting of the Standing Committee, and conformation that an 
+observer will meet its own expenses.226 Finally, requests to attend the Standing Committee must 
+be submitted 30 days before the meeting.227 After requests are received, the Secretariat forwards 
+them to the chair and members of the Committee for approval.228 
+ 
+The Montreal Protocol does not elaborate on the requirements for an organization to obtain 
+observer status. According to the Protocol’s Chief of Legal Affairs and Compliance, an 
+organization must simply submit its information to show it meets the general technical 
+requirements established by the Protocol.229 After submitting this information and receiving 
+                                                
+220 CITES Rules of Procedure of the Standing Committee, supra note 126, at Rule 6(2). Observers that represent a 
+State or an NGO shall have been granted credentials authorizing them to represent the State or organization. Id. at 
+Rule 8. Pending approval of their credentials, observers can participate provisionally in the meeting unless the 
+Standing Committee has decided an organization’s credentials are unacceptable. Id. at Rule 12.  
+221 CITES Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 6, 7; CITES Rules of 
+Procedure of Meetings of the Plants Committee, supra note 128, at Rules 6, 7. These committees also require that 
+observers representing a state or an organization have been granted credentials that enable him or her to represent 
+the State or organization at the meeting before making an intervention, and such credentials—including a version 
+translated into one of the working languages—must be presented to the Secretariat. Id. at Rule 8, 9. The Secretariat 
+reviews the credentials and brings any potential problems to the Committee. Id. at Rule 9. Finally, the Committee 
+decides—based on the Secretariat’s report—whether to accept credentials. Id. at Rule 10. Observers invited by the 
+chair due to technical qualifications can use their invitation as their credentials. Id. at Rule 12.  
+222 CITES Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule; CITES Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 7. 
+223 CMS Rules of Procedure, supra note 65, at Rule 2(3). 
+224 Id. 
+225 CMS, 44th Meeting of the Standing Committee Rules of Procedure, supra note 137, at Rule 2(2). 
+226 Id. 
+227 Id. 
+228 Id. at Rule 2(3).  
+229 Bankobeza, supra note 106. 
+27 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+approval to participate, the organization does not need to submit this information to participate in 
+any subsequent meeting.230 
+ 
+To be admitted as an observer to UNFCCC meetings, organizations must provide a statement of 
+competence in Convention matters, confirmation of independent juridical personality, and 
+confirmation of non-profit or tax exempt status.231 In addition, they must submit a range of other 
+documents, including, inter alia, certified copies of documents on the scope, mandate, and 
+governing structure of the organization; a recent annual report including a financial statement; a 
+list of donors and funding sources from the past two years; and information on the organization’s 
+activities for the past year that indicate competence in matters relating to the UNFCCC.232 An 
+organization must use the Online Admission System to submit this documentation.233 The system 
+automatically defers incomplete applications to the next review cycle.234  
+ 
+The UNFCCC does not have standard deadlines but the Secretariat establishes the deadline for 
+applications for each meeting.235 For example for admission to the 21st Conference of the Parties 
+occurring November 30 to December 11, 2015, the deadline was August 31, 2014.236 The 
+Secretariat creates a list of eligible applicants, communicates that list to the Bureau, and informs 
+organizations that they may attend a session if there is no objection by the Bureau.237 The final 
+decision on admission rests with the Conference of the Parties and is considered at the following 
+session.238 The Conference of the Parties decides on participation at meetings of the UNFCCC 
+but also of the Kyoto Protocol.239 After the Conference of the Parties has admitted an 
+organization as an observer, that organization may attend subsequent meetings without 
+reapplying, —unless the organization was admitted for only a specific session.240  
+ 
+ 
+2. Regional Fisheries Management Organizations 
+ 
+To attend CCSBT meetings, an NGO must provide the Executive Secretary with an explanation 
+of the organization’s competence concerning southern bluefin tuna or competence to contribute 
+to the attainment of the objectives of the Convention.241 That information must be sent at least 60 
+days before a meeting to request long-term observer status and 50 days before a meeting to 
+                                                
+230 Id. 
+231 UNFCCC, Handbook, supra note 146, at ¶ 5.C. 
+232 UNFCCC, Standard Admission Process for Non-Governmental Organizations (NGOs) available at: 
+https://unfccc.int/files/parties_and_observers/ngo/application/pdf/standard_admission_policy_ngos_english.pdf.  
+233 Id.  
+234 Id. 
+235 Id. 
+236 UNFCCC, Revised Deadlines for Applications from Organizations, supra note 67, at 2. 
+237 UNFCCC, Handbook, supra note 146, at ¶ 5.C. The Secretariat can request additional information or clarification 
+if necessary. UNFCCC, Standard Admission Process for Non-Governmental Organizations (NGOs), supra note 221. 
+238 UNFCCC, Handbook, supra note 146, at ¶ 5.C. 
+239 UNFCCC, Admission of Observers: Organizations Applying for Admission as Observers, FCCC/CP/2014/4*, ¶ 
+6 (Sept. 15, 2014), available at: http://unfccc.int/resource/docs/2013/cop19/eng/02.pdf.  
+240 Id. at ¶ 2. 
+241 CCSBT Rules of Procedure, supra note 66, at Rule 3(4). 
+28 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+request observer status at a single meeting.242 The Executive Secretary then sends the Members a 
+list of organizations that have requested observer status along with information submitted by the 
+organization at least 50 days before a meeting of the CCSBT.243 The CCSBT decides whether to 
+extend invitations but also relies on the advice of the Executive Secretary.244 However, a 
+Member may object to the invitation of a specific organization by writing to the Executive 
+Secretary with the reasons for the objection.245 If an objection is filed, the Executive Secretary 
+notifies both the Members and the affected organization, and the CCSBT considers the issue at 
+an early point at its next meeting.246 If there are no objections, the Executive Secretary issues 
+invitations to observers no later than 28 days before the opening of the meeting.247 To complete 
+the process to obtain observer status, an organization must accept the invitation in writing and 
+inform the Executive Secretary of the representatives that will attend the meeting at least at least 
+14 days before the meeting.248 
+ 
+To participate as an observer at IATTC meetings, an organization must send the Director a 
+request that includes the NGO’s name and office location, a description of the mission, and how 
+the mission and activities are related to work of the Commission.249 That request must be 
+submitted at least 50 days before the meeting although Director has greater flexibility with that 
+deadline if a meeting is called with less than 50 days notice.250 The Director then transmits to the 
+Members at least 45 days before the meeting the names of any NGOs wishing to participate and 
+related information that those NGOs have submitted.251 NGOs may also request permission to 
+participate as an observer on an annual basis.252 An NGO obtains observer status unless at least 
+one-third of the Members object for cause in writing.253 The Director communicates 
+extraordinary meetings to non-Members and IGOs invited to the meeting as observers at least 45 
+days before the meeting and posts the announcement of the meeting on the website as soon as 
+possible.254  
+ 
+To participate in ICCAT meetings, an NGO must notify the Secretariat and provide the name, 
+address, telephone and fax number of the organization, addresses of all its national/regional 
+offices, the organization’s aims and purposes and how they relate to ICCAT’s objectives, a brief 
+                                                
+242 Id. at Rules 3(3), 3(5). The website further states that requests must be received “in sufficient time” to allow the 
+Executive Secretary to advise Members of those organizations at least 50 days before the meeting. CCSBT, 
+Attendance at Meetings by Observers, supra note 64. 
+243 CCSBT Rules of Procedure, supra note 66, at Rule 3(5). The Executive Secretary can also suggest to Members 
+organizations whose attendance may facilitate the work of the Commission. Id.  
+244 Id. at Rule 3(6). 
+245 Id. 
+246 Id. 
+247 Id. at Rule 3(7). 
+248 Id. 
+249 Antigua Convention, supra note 22, at Annex 2, ¶ 6. That information must be updated as necessary. Id.  
+250 Id. at Annex 2, ¶¶ 3, 4. 
+251 Id. at Annex 2, ¶ 3.  
+252 Id. at Annex 2, ¶ 7. 
+253 Id. at Annex 2, ¶ 7. 
+254 IATTC Rules of Procedure, supra note 107, at Rule 7 (2014). The Rules of Procedure for IATTC apply to 
+IATTC meetings and all of its subsidiary bodies, including the Scientific Advisory Committee and the Committee 
+for Review of the Application of Measures Adopted by the Commission. Id. at Rule 1.  
+29 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+history of the organization and a description of its activities, any relevant papers produced by or 
+for the organization, any past observer status at ICCAT, and the information or input that the 
+organization proposes to present.255 An NGO must present that required information at least 50 
+days before the meeting.256 An observer delegation must also submit the pre-registration form on 
+ICCAT’s website.257 The Executive Secretary then reviews applications and, at least 45 days 
+before the meeting, submits to the Members the names of NGOs wishing to participate along 
+with their qualifications.258 After review, the Executive Secretary will send invited organizations 
+a notification of the decision convening a regular meeting at least 90 days before the meeting or 
+30 days in the case of a special meeting.259 
+ 
+The IOTC has different processes to apply for observer status for different types of 
+organizations or States: Members or Associate Members of the FAO, Members of the United 
+Nations or its specialized agencies, intergovernmental organizations, and NGOs.260 In all cases, 
+an organization must email the IOTC Secretariat a letter addressed to the chairperson of the 
+IOTC that describes the organization’s interest in attending IOTC meetings, including 
+background on how the organization’s attendance will benefit IOTC processes.261 If the IOTC 
+agrees to invite the organization or States, a letter of invitation is issued to the organization.262 
+An NGO must submit its request at least 60 days before the meeting so that the Executive 
+Secretary can send Members the list of NGOs requesting observer status at least 60 days before 
+the Session.263 If a Member objects in writing and by giving reasons for it objection within 30 
+days, the Commission decides the matter through a written procedure.264  
+ 
+NAFO requires an NGO seeking observer status to submit an application to the Secretariat that 
+includes the name, address, telephone and fax number of the organization, addresses of all its 
+national/regional offices, the aims and purposes of the organization and a “statement that the 
+NGO fully supports the objectives of NAFO, i.e., optimum utilization, rational management and 
+conservation of the fishery resources of the NAFO Convention Area,” the organization’s total 
+number of members, decision-making process funding, brief history and a description of its 
+activities, papers or other resources produced by or for the organization on the “conservation, 
+management, or science of fishery resources to which the Convention applies,” and a history of 
+the organization’s observer status.265 An NGO must apply for observer status by emailing the 
+Secretariat266 at least 100 days before the meeting it wishes to attend.267 The Executive Secretary 
+                                                
+255 ICCAT, Guidelines and Criteria for Granting Observer Status, supra note 71, at ¶ 3. 
+256 Id. 
+257 ICCAT, Accreditation of Observers at the 18th Special Meeting of ICCAT (2005) available at: 
+http://www.iccat.int/Documents/Meetings/COMM2012/09-InfoObser_ENG.pdf.  
+258 ICCAT, Guidelines and Criteria for Granting Observer Status, supra note 71, at ¶ 4. 
+259 ICCAT Rules of Procedure, supra note 165, at Rule 2, 3. 
+260 IOTC, Observers to the IOTC Meetings, supra note 173.  
+261 Id. 
+262 Id. 
+263 Id.  
+264 IOTC Rules of Procedure, supra note 75, at Rule XIV(5). 
+265 NAFO, Rules of Procedure for Observers to NAFO Meetings supra note 75, at Rule 2. 
+266 NAFO, Application for Observer Status to NAFO Meetings (General Council, Fisheries Commission and 
+Scientific Council), available at: http://www.nafo.int/meetings/frames/meetings-observers.html.  
+267 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 2. 
+30 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+then transmits to the Members the names of the NGOs wishing to attend and their qualifications. 
+If, within 30 days, one or more Members objects in writing and gives reasons for its objection, 
+the Executive Secretary circulates the reasons for the objection to Members, who then decide by 
+voting through a written procedure whether to accept the organization as an observer.268 As part 
+of its vote, a Member may include comments. If no objection is made, an NGO’s application is 
+considered accepted.269 To complete the process, an NGO must register its representatives with 
+the Secretariat at least 14 days before the meeting.270 
+ 
+To participate in WCPFC meetings, an NGO must notify the Executive Director in writing of 
+that desire at least 50 days before a session.271 The Executive Director notifies the Members of 
+such requests at least 45 days before the session and NGOs are invited unless a majority of the 
+Members objects to a request in writing at least 20 days before the session.272 Observer status 
+remains in effect for future sessions unless the Commission decides otherwise.273 The Executive 
+Director will notify admitted observers of the date, place, and provisional agenda as soon as 
+possible but at least 90 days before a session or 25 days before a special session.274 Observers are 
+represented by designated representatives, alternative representatives, or advisors and must 
+submit those names to the Executive Director no later than 24 hours after the opening of the 
+session in a standard form of designation as the Executive Director establishes.275  
+ 
+3. International Scientific Organizations 
+ 
+An application to apply for observer status at ICES meetings must include the name, address, 
+telephone number, and email address of the organization or individual.276 An organization must 
+also include a description that includes the “aims and purposes, activities, history, current 
+membership, membership eligibility and whether the organization intends to observe advisory 
+services and/or science activities, and/or Council meetings.”277 The next step in applying for 
+observer status depends on which activities the observer wants to observe. The chair of the 
+Science Committee or a specific Science Committee expert group decides if an organization will 
+be invited as an observer.278 Similarly, requests to attend Advisory Services are circulated to the 
+Advisory Committee and the Council and accepted ten days later unless a Member objects.279 If 
+a Member objects to such a request, the chair conducts a web conference that any objecting 
+                                                
+268 Id. at Rule 4. 
+269 Id. at Rule 5. 
+270 Id. at Rule 5(a). 
+271 WCPFC Rules of Procedure, supra note 73, at Rule 36(4). 
+272 Id. at Rule 36(4). 
+273 Id.  
+274 Id. at Rules 1(2), 1(3).  
+275 Id. at Rules 6(2), 6(3). 
+276 ICES, ICES Policy on Observer Status, supra note 198, at ¶¶ 14, 15. 
+277 Id. at ¶ 15. Further individuals must include “the reasons an individual wishes to obtain observer status, a 
+description of the activities or accomplishments of the individual that might make observer status beneficial, and a 
+statement of the meeting(s) at which the individual desires to be an observer.” Id.  
+278 Id. at ¶ 16. 
+279 Id. at ¶ 17. 
+31 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Members may participate in to decide the matter.280 However, ultimately the Advisory 
+Committee is empowered to resolve the matter.281  
+ 
+Although IPBES has not yet established the policy and procedures for admitting observers,282 a 
+temporary process for the admission of observers has been used for the Second, Third, and 
+Fourth Sessions; under this process, organizations that were admitted at previsions sessions do 
+not need to reapply for admission to the next session.283 An organization not previously admitted 
+must inform the Secretariat of its desire to attend the next session.284 At the Third Session, each 
+new organization was required to provide the scope of its work and its mission, objectives, 
+location, year of establishment, and website.285 The Secretariat provides a list of organizations 
+requesting observer status to the Bureau, which reviews the list, makes recommendations on 
+admittance, and communicates its recommendations to Members at least eight weeks before the 
+session.286 Next, Members may communicate their view on a recommendation to the Bureau at 
+least two weeks before the Session.287 If a Member raises concerns, the Bureau informs the 
+organization of those concerns and, at the meeting, a Member may reject observer status for an 
+organization unless that objection is overruled by a two-thirds majority of the Members 
+present.288  
+ 
+IPBES considered a draft policy and procedures for the admission of new observers at its Fourth 
+Meeting.289 The draft policy was not accepted because some members believe that observers 
+should be admitted to a meeting of the Plenary unless at least one third of the Members present 
+                                                
+280 Id. at ¶ 18. 
+281 Id.  
+282 At the first session of IPBES, the Plenary determined the policy and procedures on admission of observers for the 
+second session. See IPBES, Rules of Procedure for the Plenary of the Platform, supra note 203, at Rule 6(1); IPBES, 
+Report of the First Session of the Plenary of the Intergovernmental Science-Policy Platform on Biodiversity and 
+Ecosystem Services, IPBES/1/12, at ¶ 20-22 (2013) available at: http://www.ipbes.net/plenary/ipbes-1. Specifically, 
+the Plenary adopted a procedure for the admission of observers for the Second Session and noted that policies and 
+procedures would also be established at that session. Id. at ¶ 22. However, the Plenary failed to finalize procedures 
+at the Second or Third Sessions and instead agreed to continue using those procedures for admitting observers for 
+the Second Session at each following meeting (i.e. at the Third Session, it was agreed that those procedures would 
+be used for the Fourth Session). See also id. at ¶ 22; IPBES, Report of the Second Session of the Plenary of the 
+Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, IPBES/2/17 at ¶ 48, 54 (2014) 
+available at: http://www.ipbes.net/plenary/ipbes-2; IPBES, Report of the Third Session of the Plenary, supra note 
+205, at ¶ 58-60.  
+283 IPBES, Report of the First Session, supra note 282, at ¶ 22(a). 
+284 Id. at ¶ 22(b)(i). 
+285 IPBES, List of Participants in the First and Second Sessions of the Plenary and Admission of New Observers to 
+the Third Session, IPBES/3/INF/12 (2014), available at: 
+http://www.ipbes.net/sites/default/files/downloads/IPBES_3_INF_12.pdf.  
+286 IPBES, Process for the Admission of Observers to IPBES-2, supra note 282, at ¶ 22(b)(ii)-(iii). 
+287 Id. at ¶ 22(b)(iv). 
+288 Id. at ¶ 22(b)(v)&(vi). 
+289 IPBES, Report of the Plenary of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem 
+Services on the Work of its Fourth Session, IPBES/4/19, ¶ 104 (Mar. 29, 2016), available at: 
+http://www.ipbes.net/plenary/ipbes-4.  
+32 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+objected; others believe that admittance should be by consensus.290 Consequently, IPBES will 
+continue with the process described above.291 
+  
+Under the draft policy, Member States, Observer States of the United Nations, United Nations 
+bodies, and secretariats of multilateral environment agreements would be allowed to participate 
+as observers without having to submit applications.292 Organizations that already have observer 
+status with the UNEP, FAO, United Nations Educational, Scientific, and Cultural Organization, 
+and the United Nations Development Programme are considered observers if they so request, 
+unless the Plenary decides otherwise.293 Further, observers to the first meeting of IPBES are not 
+required to submit an application unless the Plenary decides otherwise.294 Other qualified 
+organizations are required to submit applications to the Secretariat at least 3 months before a 
+session; the application must include documents on the mandate, scope, and governing structure 
+of the organization; other information that supports “competence and interest of the 
+organization” in related matters; and contact information for the organization and a designated 
+focal point, including the organization’s website address.295 The Secretariat reviews this 
+information to determine if an applicant is qualified in matters covered by IPBES by the Bureau 
+and presents a list of applicants at the session of the Plenary.296 After an organization is admitted, 
+it must register for specific sessions and designate and register representatives before a 
+session.297 The Secretariat notifies observers of their admittance, along with the venue and dates 
+of any session, at least eight weeks before a session.298 The admission of new observers should 
+be included as a regular agenda item299 to allow the Plenary to decide on admission and 
+participation of all observers.300 The Plenary has not agreed on the number of Members that are 
+required to prevent an organization from attending as an observer, and the draft offers two 
+options of either only requiring an objection from one member or objections from one-third of 
+Members present.301  
+ 
+It does not appear that PICES has established any particular requirements to apply to participate 
+in its annual meeting.302 
+ 
+ 
+ 
+                                                
+290 Id. 
+291 Id. 
+292 IPBES, Draft Policy and Procedures for the Admission of Observers, IPBES/3/13, supra note 205, at ¶ 2-3.  
+293 Id. at ¶ 5.  
+294 Id. at ¶ 6. 
+295 Id. at ¶¶ 10, 11. 
+296 Id. at ¶¶ 5, 14. 
+297 Id. at ¶ 7. 
+298 IPBES, Rules of Procedure for the Plenary of the Platform, supra note 205, at Rule 4; IPBES Draft Policy and 
+Procedures for the Admission of Observers, IPBES/3/13, supra note 205, at ¶ 8. 
+299 IPBES Draft Policy and Procedures for the Admission of Observers, IPBES/3/13, supra note 205, at ¶ 15. 
+300 Id. at ¶ 14.  
+301 Id. at ¶ 14. 
+302 See PICES, 25 Years of PICES: Celebrating the Past, Imagining the Future, Registration, available at: 
+http://meetings.pices.int/meetings/annual/2016/pices/registration.  
+33 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+C. Fees for Participation 
+ 
+1. Multilateral Environmental Agreements 
+ 
+Several MEAs, including the CBD, Montreal Protocol, and UNFCCC, do not charge fees.303 
+Although CMS allows the Standing Committee to fix a standard participation fee for NGOs and 
+announce that fee in the invitation,304 CMS does not currently charge observers a fee because it 
+is administratively burdensome to implement.305  
+ 
+For the triennium of 2014-2016, CITES requires that observer organizations, except the UN and 
+its specialized agencies, be charged a standard participation fee of at least US$600 for the first 
+representative of an observer organization and $300 for each additional representative.306 To 
+participate in the meetings of the Standing Committee, Plants Committee, and Animals 
+Committee, observers must pay US$100 per representative.307 
+ 
+2. Regional Fisheries Management Organizations 
+ 
+The CCSBT does not charge a fee.308  
+ 
+The Director of IATTC may require observers to pay reasonable fees that cover the costs of their 
+attendance.309 For example at the 2015 meeting, IATTC assessed an Observer Registration Fee 
+of US$500 for each non-member or NGO participating to cover the attendance of two 
+representatives. Organizations also paid US$350 for each additional participant.310 Observers 
+who also serve as environmental representatives on specific review panels may also be exempt 
+from paying the registration fee.311 
+ 
+To participate in a meeting of ICCAT, observers pay a fee as determined annually by the 
+Executive Secretary—currently $500 for the first two participants and $350 for each additional 
+                                                
+303 See CITES, Financial Reports for 2014 and 2015, supra note 76, at 7-8, Tbl. 3 (reporting on observer fees for a 
+number of MEAs). 
+304 CMS Rules of Procedure, supra note 65, at Rule 2(5).  
+305 CITES, Notification No. 2016/020, 1 (Mar. 16, 2016) (setting fees for CoP17 in September 2016), available at: 
+https://cites.org/sites/default/files/notif/E-Notif-2016-020.pdf.  
+306 CITES, Resolution Conf. 16.2 (CoP16), supra note 79; CITES, Notification No. 2016/020, 1 (Mar. 16, 2016) 
+(setting fees for CoP17 in September 2016), available at: https://cites.org/sites/default/files/notif/E-Notif-2016-
+020.pdf. 
+307 CITES, Twenty-Second Meeting of the Plants Committee, Registration Form (2015) available at: 
+https://cites.org/sites/default/files/notif/E-Notif-2015-041-A1.pdf; CITES, Twenty-Eight Meeting of the Animals 
+Committee, Registration Form (2015) available at: https://cites.org/sites/default/files/notif/E-Notif-2015-024-
+A1.pdf.  
+308 Kennedy E-mail, supra note 85. 
+309 Antigua Convention, supra note 22, at Annex, art. 2(10). 
+310 Inter-American Tropical Tuna Commission, Registration, http://www.iattc.org/meeting-registration-2015-06-22/.  
+311 See E-mail from Rebecca Regnery, Deputy Director of Wildlife, Humane Society International, to Chris Wold 
+(Sept. 22, 2015). 
+34 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+participant312—for their participation that contributes towards the additional expenses generated 
+by the observer participation.313  
+ 
+IOTC allows the Commission—based on a proposal of the Executive Secretary—to charge 
+observers a fee to participate in order to cover the additional administrative costs of observer 
+attendance and subject to reciprocity in the case of IGOs.314 To date, it has not charged a fee.315 
+ 
+The Executive Secretary of NAFO annually determines if a fee for NGO observers will be 
+required and, if so, how much is required to cover the additional expenses from observer 
+participation.316 
+ 
+Although WCPFC has considered charging observers a fee for attendance, it currently does not 
+charge a fee.317 
+ 
+3. International Scientific Organizations 
+ 
+ICES charges a fee to attend its annual meetings. for its upcoming 2016 meeting, it is charging 
+190 Euros (260 Euros for late registration), although students must pay only 70 Euros.318 At the 
+2015 annual meeting of PICES, registrants paid the following fees. Primary registrants paid 
+$200 (Canadian) for early registration and $275 (Canadian) for regular registration. Convenors 
+and invited speakers paid $200 (Canadian) and students paid $50 (Canadian).319 It is not clear 
+whether observers to IPBES meetings must pay a fee, although relevant documents suggest that 
+they do not.320 
+ 
+D. Observer Participation in Meetings  
+ 
+1. Multilateral Environmental Agreements 
+ 
+At CBD meetings, sessions of the Conference of the Parties and its subsidiary bodies, including 
+working groups, are open to accredited observers unless the Conference of Parties or subsidiary 
+body decides otherwise.321 In addition, contact groups are open to observers unless the chair or 
+                                                
+312 Meski E-mail, supra note 80. 
+313 ICCAT, Guidelines and Criteria for Granting Observer Status, supra note 71, at ¶ 6. 
+314 IOTC Rules of Procedure, supra note 75, at Rule XIV(6). 
+315 Wilson E-mail, supra note 84. 
+316 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 5(c). 
+317 See Cook E-mail, supra note 109.  
+318 ICES, ICES Annual Science Conference 2016, Registration, available at: http://www.ices.dk/news-and-
+events/asc/ASC2016/Pages/Registration.aspx.  
+319 PICES, PICES 2015 Annual Meeting, Registration 7 Registration Fees (list visited Oct. 3, 2015), available at: 
+http://pices.int/meetings/annual/PICES-2015/2015-registration.aspx.  
+320 Participation by observers has been an ongoing issue at IPBES meetings but none of the discussions have 
+mentioned fees.  
+321 CBD Rules of Procedure, supra note 90, at Rule 29(1); CBD, Guidelines for the Participation of Representatives, 
+supra note 113, at ¶ 1; CBD, Modus Operandi, at V(11), available at: https://www.cbd.int/doc/handbook/cbd-hb-04-
+en.pdf.  
+35 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+convenor closes the meeting.322 A contact group can also decide on its own procedures that may 
+limit participation of observers.323 At the friends of the chair group, observers are generally not 
+invited to participate but may be invited by the group chair.324  
+ 
+Observers to CBD meetings have several ways to participate. They may, for example, make 
+short and concise verbal statements if invited by the chair or group convenor, hold pre-scheduled 
+side events or press conferences, make available relevant information materials, and set up 
+displays (i.e. exhibitions and posters) if pre-arranged.325 As is typical of international meetings, 
+observers typically speak after Parties and non-Party States.326 Observers cannot specifically 
+negotiate but can make points or propose text. However, text proposed by an observer 
+representative is only included in subsequent documentation if sponsored by a Party.327 
+ 
+Despite these rights to participate, NGOs are not financially supported by the Secretariat to 
+participate in CBD meetings.328 In addition, participants shall not harass or threaten other 
+participants, interfere with the movement of participants, disrespect the flags or official symbols 
+of the United Nations or its member States, and respect other participants’ social, cultural, 
+religious or other opinions and refrain from personal attacks.329 A representative that does not 
+observe any of the guidelines may have their badge confiscated, be removed from the premises, 
+have unauthorized material confiscated, and have other appropriate measures taken against it, 
+such as a ban of the organization or representatives from future meetings.330  
+ 
+At CITES meetings, sessions of the plenary and Committees I and II, which meet 
+simultaneously, are open to observers, although any session may be closed through a simple 
+majority vote of Parties present.331 Observers are seated in a designated area in the meeting room 
+and may enter the delegate’s area only if invited to do so by a delegate.332 Although, the 
+Secretariat may limit an organization to no more than two observers at those sessions if required 
+by seating limitations,333 that rule has not been invoked since at least 1992.334  
+ 
+Similar rules apply to participation and attendance at other meetings and on working groups. 
+Participation in sessions of the Credentials Committee or any working group is limited to 
+delegates and observers invited by the Presiding Officer when a session is established,335 
+                                                
+322 CBD, Guidelines for the Participation of Representatives, supra note 115, at ¶ 15. 
+323 CBD, A Guideline for Working Group Chairs at COP and SBSTTA Meetings (Sept. 15, 2010), at ¶ 4.2.1, 
+available at: https://www.cbd.int/doc/guidelines/wg-chair-guide-en.pdf.  
+324 Id. at ¶ 4.2.2. 
+325 CBD, Guidelines for the Participation of Representatives, supra note 115, at ¶ 14. 
+326 CBD, A Guideline for Working Group Chairs at COP and SBSTTA Meetings, supra note 321, at ¶ 5.2.  
+327 Id. at ¶ 5.2. 
+328 CBD, Non-Governmental Organizations, Meetings, Observer Admission, supra note 210. 
+329 CBD, Guidelines for the Participation of Representatives, supra note 115, at ¶ 12. 
+330 Id. at ¶ 24. 
+331 CITES Rules of Procedure of the Conference of the Parties, supra note 91, at Rule 12(1). 
+332Id. at Rule 11(3). Further, the media is only allowed in the observer area if invited to do so by the chair of the 
+session. Id. at Rule 13(2).  
+333 Id. at Rule 11(4). 
+334 Personal Observation.  
+335 CITES Rules of Procedure of the Conference of the Parties, supra note 91, at Rule 12(2). 
+36 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+although observers have never been invited to attend meetings of the Credentials Committee.336 
+Observers are also able to attend and participate in meetings of the Standing Committee, 
+Animals Committee, and Plants Committee, although each committee has rules that allow 
+sessions to be closed.337 When possible, Presiding Officers are directed to invite knowledgeable 
+observers to participate in working groups of Committee I and II.338 Observers are commonly 
+invited to participate in working groups,339 although on rare occasions observers are excluded 
+because of a politically sensitive issue.340  
+ 
+Observers also have the right to speak341 and presiding officers of those sessions are instructed to 
+make every effort to allow observers time to make interventions.342 In fact, observers frequently 
+make interventions at meetings of the Conference of the Parties, as well as at meetings of the 
+subsidiary committees.343 However, the Presiding Officer at the plenary session and sessions of 
+Committees I and II, the Credentials Committee, and working groups may limit the number of 
+observers that speak and the time they are allowed to speak.344 The Presiding Officer generally 
+calls on speakers in the order they desire to speak, with observers speaking after Parties and non-
+Party States.345 An observer may speak only if called on by the Presiding Officer and may not be 
+interrupted except on a point of order.346 Similarly, at the Standing Committee, Animals 
+Committee, and Plants Committee, all admitted observers have the right to speak with the same 
+general rules for the order of speaking as at meetings of the Conference of the Parties.347 
+Observers may also apply to host and participate in side events, as well as display exhibits at a 
+session of the Conference of the Parties.348 
+ 
+In addition, the Secretariat and Parties should choose a venues for meetings that have adequate 
+space for observers on the floor for sessions of the plenary, Committee I, and Committee II; each 
+observer should have at least one seat on the floor for those meetings.349 Despite these rights, the 
+                                                
+336 Personal Observation.  
+337 CITES Rules of Procedure of the Standing Committee, supra note 126, at Rule 26; CITES Rules of Procedure of 
+Meetings of the Animals Committee, supra note 126, at Rule 28; CITES Rules of Procedure of Meetings of the 
+Plants Committee, supra note 126, at Rule 28.  
+338 CITES, Resolution Conf. 13.8 (Rev.CoP16), supra note 10. 
+339 Personal Observation. 
+340 Personal Observation.  
+341 CITES Rules of Procedure of the Conference of the Parties, supra note 91, at Rule 17(1). 
+342 CITES, Resolution Conf. 13.8 (Rev.CoP16), supra note 10. 
+343 Personal Observation. 
+344 CITES Rules of Procedure of the Conference of the Parties, supra note 91, at Rule 16(2)(b). 
+345 Id. at Rule 17(2). 
+346 Id. at Rule 17(3), (4). The Presiding Officer also has the right to call a speaker to order and a speaker can give 
+way during his/her intervention. Id. Further, the Presiding Officer announces the list of speakers and declares the list 
+closed with the consent of the session, but can also grant the right of reply to an observer if that becomes desirable 
+after the list is closed. Id. at Rule 17(7).  
+347 CITES Rules of Procedure of the Standing Committee, supra note 126, at Rule 23(1),(2). The same rules 
+concerning the right to speak at the Conference of the Parties apply to the Standing Committee. Id. at Rule 
+23(3),(4),(6),(7); CITES Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 25; 
+CITES Rules of Procedure of Meetings of the Plants Committee, supra note 126, at Rule 25. 
+348 Personal Observation. 
+349 CITES, Resolution Conf. 13.8 (Rev.CoP16), supra note 10. 
+37 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Secretariat may not provide sponsorship through the Sponsored Delegates Project to any 
+representative that is an NGO observer.350 
+ 
+At CMS meetings, plenary sessions and sessions of the Committee of the Whole are open to the 
+public and observers unless a two-thirds majority of Parties present vote to close that session.351 
+However, the Parties generally do not exclude observers from a plenary session.352 The Rules 
+further include requirements for an observer’s right to speak at a plenary session,353 and 
+observers regularly do speak when called on by the chair.354 Sessions of other committees and 
+working groups are generally limited to delegates and observers that are invited by the chair of 
+the relevant committee or working group.355 Observers, however, are commonly invited to 
+different committees, working groups, and subsidiary bodies, although in a small number of 
+instances certain working groups deemed politically sensitive by some Parties have restricted 
+observer participation.356  
+ 
+Observers to CMS meetings have the right to speak at a plenary session, although the presiding 
+officer may limit the number of times an observer may speak on a question.357 The Presiding 
+Officer generally calls on speakers in the order they ask to speak, although observers typically 
+speak after Parties and non-Party States.358 The chair of a session or working group has 
+significant discretion, but meetings generally include a high level of NGO participation.359 
+Observers may speak if called on by the Presiding Officer, although that Officer may call a 
+speaker to order if the remarks are not relevant.360 A speaker cannot be interrupted except on a 
+point of order although a speaker may give way with permission of the Presiding Officer.361 
+Further, on a proposal of the Presiding Officer or a delegate, the Conference may limit the time a 
+speaker and number of times an observer may speak on a question.362 Although, observers are 
+generally given opportunities to intervene, observers have been encouraged to intervene 
+collectively.363 Similar rules and practices govern observers right to speak at meetings of the 
+Standing Committee and the Scientific Council.364 Observers may also apply to hold side events 
+or exhibits at a session of the Conference of the Parties.365 
+ 
+                                                
+350 Id.  
+351 CMS Rules of Procedure, supra note 65, at Rules 22, 23. 
+352 Personal Observation.  
+353 CMS Rules of Procedure, supra note 65, at Rules 8(2), 10(2). 
+354 Personal Observation. 
+355 CMS Rules of Procedure, supra note 65, at Rule 23. 
+356 See Virtue e-mail, supra 126; Personal Observation.  
+357 CMS Rules of Procedure, supra note 65, at Rules 8(2)(b), 10(1). 
+358 Id. at Rule 10(2). 
+359 See E-mail from Mark Peter Simmonds, Senior Marine Scientist, Humane Society International, to author (Sept. 
+25, 2015, 11:45) (on file with author); Personal observation. 
+360 CMS Rules of Procedure, supra note 65, at Rule 10(2). 
+361 Id. at Rule 10(3). 
+362 Id. at Rule 14(1). 
+363 See Simmonds e-mail, supra note 359.  
+364 CMS, 44th Meeting of the Standing Committee Rules of Procedure, supra note 137, at Rule 3(10). The chair can 
+depart from that general order. Id.  
+365 Personal Observation. 
+38 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+As in other MEAs, the Secretary may limit approved organizations to no more than two 
+representatives per organization at a plenary session or a session of the Committee of the Whole 
+of a meeting due to logistical limitations. In such circumstances, the Secretariat shall notify 
+Parties, observers, and other participants of other limitations before the meeting.366 However, the 
+administrative body has generally not applied such logistic limitations.367 
+ 
+At meetings of the Montreal Protocol, observers may attend, make interventions, and 
+participate in working groups “without hindrance.”368 They are excluded only from meetings of 
+the Implementation Committee.369 
+ 
+Plenary sessions of the UNFCCC Meetings of the Conference of the Parties are held in public 
+unless the Conference of the Parties decides otherwise.370 Observers may also attend open-ended 
+contact groups if invited by the presiding officer of Convention bodies unless one third of the 
+Parties objects, although the presiding officer may also close a group to observers at any time;371 
+most contact groups are, in fact, closed.372 Observers cannot attend meetings that are designated 
+as closed.373  
+ 
+The plenary session regularly includes a few statements from observers, and the relevant head of 
+a session, subsidiary body, or contact group may permit observers, when appropriate, to make 
+interventions.374 Practically speaking, observers also have few opportunities to speak.375 
+Observers may also apply to hold side events or exhibits at a session.376 
+ 
+In addition, participants at UNFCCC meetings may not harass or threaten other participants and 
+must cooperate with and comply with requests and instructions from UN officials and security 
+staff.377 Participants may not interfere with the movement of other participants and must treat 
+symbols of the United Nations and its member States.378 Observers should not have unauthorized 
+demonstrations at UNFCCC venues and should respect other participants’ social, cultural, 
+religious or other opinions, and refrain from personal attacks.379 
+ 
+ 
+ 
+                                                
+366 CMS Rules of Procedure, supra note 65, at Rule 2 (4). 
+367 Personal Observation.  
+368 Bankobeza, supra note 106. 
+369 Id. 
+370 UNFCCC, Rules of Procedure, supra note 91, at Rule 30(1). 
+371 UNFCCC, Attendance of Intergovernmental and Non-governmental Organizations As Contract Groups, 
+FCC/CP/1998/16/Add.1, available at: http://unfccc.int/resource/docs/cop4/16a01.pdf#page=66; see also UNFCCC, 
+Handbook, supra note 146, at ¶ 5(A). 
+372 Personal Observation. 
+373 UNFCCC, Guidelines for the Participation of Representatives of Non-Governmental Organizations, supra note 
+115, at ¶ C(1).  
+374 UNFCCC, Handbook (2006), supra note 146, at ¶5.A. 
+375 Personal Observation. 
+376 UNFCCC, Standard Admission Process for Non-Governmental Organizations, supra note 232.  
+377 UNFCCC, Guidelines for the Participation of Representatives, supra note 115, at B (1)-(2). 
+378 Id. at ¶ B(3)-(4). 
+379 Id. at ¶ C(5). 
+39 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+2. Regional Fisheries Management Organizations 
+ 
+At CCSBT meetings, the opening plenary session is expressly open to the public unless the 
+Commission decides otherwise.380 All other sessions of the CCSBT are considered private.381 
+Nonetheless, observers may attend public and private sessions of the Commission,382 although, if 
+requested by a Member, the Commission may meet without observers to determine if particular 
+agenda items or a session should be restricted to Members only.383 The CCSBT chair may invite 
+observers to address the Commission unless a Member objects.384  
+ 
+The IATTC permits admitted observers to participate in all meetings of the Commission and its 
+subsidiary bodies except meetings held in executive session or meetings of Heads of Delegations 
+unless otherwise decided by the Commission.385 In addition, observers may make oral statements 
+at meetings if invited by the chair.386 Generally, if time allows, the chair gives NGOs the 
+opportunity to intervene after Members are finished intervening,387 and NGOs also engage in 
+other appropriate activities that are approved by the chair.388 However, NGOs are regularly 
+excluded from discussions of specific topics during meetings.389 
+ 
+IATTC rules also note that observers must comply with all rules and procedures applicable to 
+other participants in a meeting, and if an NGO does not comply with the rules and procedures 
+they shall be excluded from further participation in meetings unless the Commission decides 
+otherwise.390 
+ 
+At ICCAT meetings, an admitted NGO observer may attend all meetings of the organization and 
+its subsidiary bodies except extraordinary meetings held in executive session or meetings of the 
+heads of delegations.391 Observers may participate in working groups, but their level of 
+participation may be determined by the chair of each working group.392 Observers may also, if 
+authorized by the chair, make oral statements during the meeting and otherwise participate in the 
+work of the commission.”393 Admitted observers for ICCAT meetings must comply with all rules 
+and procedures applicable to other participants and failure to do so may result in withdrawal of 
+accreditation by the chair.394 
+ 
+                                                
+380 CCSBT Rules of Procedure, supra note 66, at Rule 11(1). 
+381 Id. at Rule 11(2). 
+382 Id. at Rules 3(8), 11(2). 
+383 Id. at Rules 3(8), 11(3). 
+384 Id. at Rule 3(9). 
+385 Antigua Convention, supra note 22, at Annex 2, ¶¶ 2, 9(a); IATTC, IATTC Rules of Procedure, supra note 107, 
+at V(16). 
+386 Id. at Annex 2, ¶ 9(b). 
+387 See Regnery e-mail, supra note 109. 
+388 Antigua Convention, supra note 22, at Annex 2, ¶ (9)(d). 
+389 See Regnery e-mail, supra note 109. 
+390 Antigua Convention, supra note 22, at Annex 2, ¶¶ 11, 12. 
+391 ICCAT, Guidelines and Criteria for Granting Observer Status at ICCAT meetings, supra note 71 at ¶ 5. 
+392 Meski e-mail, supra note 80. 
+393 ICCAT Rules of Procedure, supra note 165, at Rule 5. 
+394 ICCAT, Guidelines and Criteria for Granting Observer Status at ICCAT Meetings, supra note 71, at ¶ 9. 
+40 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Meetings of the IOTC, including the plenary meeting, are open to observers unless the IOTC 
+decides otherwise.395 Meetings of the IOTC Scientific Committee, sub-commissions, 
+committees, working parties, and other subsidiary bodies are only open to delegates unless the 
+IOTC decides otherwise.396 When the IOTC decides to hold a private meeting, it also determines 
+if observers may attend that meeting.397 At plenary sessions, observers may deliver oral 
+statements if invited by the Commission.398 
+ 
+The IOTC Rules of Procedure also specify that the Director be assured that the Government 
+hosting a Session is willing to grant observers the privileges and immunities that are necessary 
+for the independent exercise of their functions in connection with the Session. Further, the 
+Commission may enter into agreements with IGOs and institutions, “especially those active in 
+the fisheries sector, which might contribute to the work and further the objectives of the 
+Commission.” Organizations with those agreements may attend Sessions as observers, submit 
+memoranda, and—as appropriate—participate in discussions of the Commission, Committees, 
+and other subsidiary bodies of the Commission. IOTC records attendance of observers to 
+particular meetings of the Commission or its subsidiary bodies in the relevant meeting report.  
+ 
+Observers at NAFO meetings are invited to “all non-restricted sessions” at both the annual 
+meeting and intersessional meetings.399 Observers may address the plenary session400 and attend 
+meetings.401 Observers may make statements at a meeting if invited by the chair.402 Observers 
+may also engage in other appropriate activities if approved by the chair.403 However, an observer 
+may not record a meeting using film, video, or audio or issue press releases to the media on 
+agenda items under discussion at a meeting.404 Observers may address both plenary or subsidiary 
+body meetings at meetings of the General Council, Scientific Council, and Fisheries 
+Commission.405 
+ 
+NAFO observers must comply with all rules and procedures applicable to participants and failure 
+to comply may result in removal from a meeting by the Presiding Officer and revocation of 
+                                                
+395 IOTC Rules of Procedure, supra note 75, at Rules VI(1), XIV(8). 
+396 Id. at Rule XIV(8). 
+397 Id. at Rule VI(1). 
+398 Id. at Rule VI(2). 
+399 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 3. 
+400 NAFO, Rules of Procedure for the General Council, supra note 107, at Rule 2.1; NAFO, Rules of Procedure for 
+the Fisheries Commission, supra note 187, at Rule 2.1. 
+401 NAFO, Application for Observer Status to NAFO Meetings, supra note 266, at Rule 6. Although, website states 
+attend meetings “as set forth above” there is nothing set forth above that specifies which meetings are open to 
+observers. Id. 
+402 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 6(c). 
+403 Id. at Rule 6(e). 
+404 Id. at Rule 6(f), 6(g). 
+405 NAFO, Rules of Procedure for the General Council, supra note 107, at Rule 2; NAFO, Rules of Procedure for the 
+Scientific Council, supra note 188, at Rule 2; NAFO, Rules of Procedure for the Fisheries Commission, supra note 
+187, at Rule 2. 
+41 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+observer status.406 Further, a Member may request to review and revise or amend the rules as 
+necessary to “function effectively when conducting its business.”407 
+ 
+The WCPFC specifies that observer participation is not to be “unduly restrictive” and that 
+observers should have timely access to pertinent information.408 Consistent with this rule, non-
+Member States, fishing entities, and relevant IGOs may “participate” in the deliberations of the 
+Commission and its subsidiary bodies. 409 However, NGO observers only have a right to “sit” at 
+meetings of the Commission and its subsidiary bodies.410 NGOs are generally allowed to attend a 
+meeting except in “exceptional circumstances,” although occasionally they are excluded from a 
+meeting,411 and make oral statements. 
+ 
+The WCPF Convention further requires procedures to “obtain[] the views of such organizations,” 
+if appropriate. To implement that provision, the Rules of Procedure allow NGOs, if invited by 
+the chair and approved by the Commission or relevant subsidiary body, to make oral statements 
+on matters within the scope of their activities.412 Although observers are generally allowed to 
+speak, they are limited to brief interventions except in rare circumstances where an observer is 
+invited to provide presentations on issues within their expertise.413 As the chair has a lot of 
+discretion, some chairs are hostile to or impatient with observer interventions.414 To help limit 
+observer intervention time and show solidarity, observers occasionally make joint 
+interventions.415  
+ 
+NGOs may also distribute written statements relevant to the work of the Commission if approved 
+by the chair.416 In practice, NGO documents and statements are routinely placed on the 
+WCPFC’s website by the Secretariat.417  
+ 
+3. International Scientific Organizations 
+ 
+At ICES, admitted observers, defined as part of the General Assembly,418 may attend 
+meetings.419 Further, any person—with agreement of the Council—may attend and address the 
+                                                
+406 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 7. 
+407 Id. at Rule 8. 
+408 WCPF Convention, supra note 13, at art. 21. 
+409 WCPFC Rules of Procedure, supra note 73, at Rule 36(2)-(3). 
+410 Id. at Rule 36(5). 
+411 WCPFC Rules of Procedure, supra note 73, at Rule 15; see Cook e-mail, supra note 109. Specifically, observers 
+are regularly excluded from the Compliance Monitoring Review Process of the Technical and Compliance 
+Committee. Id. Observer delegations were limited to 3 participants in the Tropical Tunas discussions during the 
+Tenth Annual Meeting of the WCPFC. Id.  
+412 WCPFC Rules of Procedure, supra note 73, at Rule 36(5). 
+413 See Cook E-mail, supra note 109.  
+414 See id. 
+415 See id. 
+416 WCPF Convention, supra note 13, at art. 22(6); WCPFC, Rules of Procedure, supra note 73, at Rule 36(5). 
+417 Personal Observation. 
+418 ICES, Rules of Procedure, supra note 198, at Rule 3. 
+419 ICES, ICES Policy on Observer Status, supra note 199, at ¶ 8.1. 
+42 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+plenary session.420 Further, organizations that are in an agreement with the Conference that 
+“specif[ies] delivery of advice” are invited to observe all meetings.421 Observers may also attend 
+meetings of the Science Committee and of the Science Committee Expert Groups, although the 
+Expert Group meetings require advance notice.422 Further, observers may also attend meetings of 
+the Advisory Committee, advice drafting groups, and technical review meetings if they have 
+obtained observer status to advisory services with the appropriate advance notice.423 Observers 
+are restricted in Advisory expert groups to intergovernmental commissions and government 
+agencies.424 Finally, observers are accepted to Science Committee, Science Committee expert 
+groups, and/or Council meetings on a case-by-case application.425 Closed meetings at ICES are 
+not open to observers.426  
+ 
+ICES also allows anyone present to address the Assembly unless the Council decides 
+otherwise.427 Further, admitted observers may make oral statements during a meeting and engage 
+in other appropriate activities if invited by the chair.428 
+ 
+ICES rules also stipulate that admitted observers shall comply with all rules and procedures 
+applicable to other participants.429 Failure to comply may result in removal from a meeting and 
+revocation of observer status.430 Observers may not insist on alterations or edits to the meeting 
+report and cannot not make minority statements in the report.431 The Secretariat may routinely—
+“with regular interval/every five years”—ask confirmed observers to confirm their continued 
+wish for observer status.432 Similarly, the Secretariat may cancel observer status if the conduct of 
+an observer is “inconsistent with the criteria adopted for granting observer status.433 Finally, a 
+Member may request the rules be reviewed and amended.434 
+ 
+Meetings of IPBES are called the Plenary, which observers may participate in if invited by the 
+chair, but cannot vote or “join or block consensus.”435 However, IPBES does not further specify 
+which meetings, if any, that observers cannot attend. The IBPES chair controls the participation 
+of observers and may limit the time and number of times an observer may speak on an issue.436 
+Observers and other stakeholders are also allowed to make “inputs and suggestions” concerning 
+                                                
+420 ICES, Rules of Procedure, supra note 198, at Rule 3. 
+421 ICES, ICES Policy on Observer Status, supra note 199, at ¶ 4. 
+422 Id. at ¶ 5. 
+423 Id. at ¶ 6. 
+424 Id. at ¶ 6.  
+425 Id. at ¶ 7. 
+426 Id. at ¶ 11. 
+427 ICES, Rules of Procedure, supra note 198, at Rule 3(ii). 
+428 ICES, ICES Policy on Observer Status, supra note 199, at ¶¶ 8.2, 8.4. 
+429 Id. at ¶¶ 11, 20. 
+430 Id. at ¶ 20. 
+431 Id. at ¶ 12. 
+432 Id. at ¶ 21. 
+433 Id. 
+434 Id. at ¶ 22. 
+435 IPBES, Rules of Procedure for the Plenary of the Platform, supra note 205, at Rule 7. 
+436 Id. at Rule 17(2)(b). 
+43 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+the work of IPBES437 Such inputs and suggestions need to be received by the Secretariat no later 
+than 6 months prior to a Plenary so that the Secretariat can compile a list and publish it to the 
+website.438 The Multidisciplinary Expert Panel and the Bureau prioritize the inputs and 
+suggestions.439  
+ 
+At PICES, observers may only attend meetings of the Science Board and Finance and 
+Administration Committee if the chair of the Council of the relevant Committee invites them.440 
+However, unless the Council limits participation in the “meetings of any group,” any registered 
+person may attend those meetings.441 Meetings of the Council and executive committees are 
+closed unless that group decides to invite observers to attend.442 All registered participants to an 
+Annual Meeting may attend meetings of PICES Scientific and Technical Committees and 
+subsidiary bodies and participate in discussion.443 
+ 
+It is unclear to what degree observers may participate in meetings of PICES. Registered persons 
+may attend the meetings of any group unless participation is limited.444 All registered 
+participants may attend meetings to participate in discussions.445 However, the draft procedures 
+also note that if observer status needs to be withdrawn the chair may suspend the status subject to 
+ratification of either the Bureau or the Plenary.446 Finally, observers much satisfy all conditions 
+set out for observers and any relevant rules of procedure.447 
+ 
+E. Receipt of Meeting Documents by Observers 
+ 
+1. Multilateral Environmental Agreements 
+ 
+The agenda for meetings and planned activities of CBD are made available on the Secretariat’s 
+list of upcoming meetings.448 Official documents are provided for general distribution in all six 
+UN languages.449 
+ 
+At CITES meetings, observers receive all documents that are submitted to Parties as a whole at 
+the same time that Parties receive them.450 If an observer is on a working group that has prepared 
+                                                
+437 IPBES, Decision IPBES/1/3, Procedure for Receiving and Prioritizing Requests Put to the Platform, at ¶¶ 3, 7, 8 
+(2013) available at: http://www.ipbes.net/sites/default/files/downloads/Decision_IPBES-1_3_en.pdf.  
+438 Id. at ¶ 9. 
+439Id. 
+440 PICES Rules of Procedure, supra note 209, at Rule 20(iii). 
+441 Id. at Rule 20(iv). 
+442 Id. at Rule 20(v). 
+443 PICES, Guidelines for Chairs and Convenors, Roles and Responsibilities of Chairs and Members of PICES 
+Groups, at part III, (2015) available at http://pices.int/about/Chairs_handbook.aspx.  
+444 PICES Rules of Procedure, supra note 209, at Rule 20(iv). 
+445 PICES, Guidelines for Chairs and Convenors, supra note 443, at Part III. 
+446 IPBES, Report of the First Session, supra note 282, at ¶ 15. 
+447 Id. at ¶II(17). 
+448 CBD, Non-Governmental Organizations, Meetings, Observer Admission, supra note 212.  
+449 CBD, A Guideline for Working Group Chairs at COP and SBSTTA Meetings, supra note 323, at ¶ 7.1. 
+450 Personal Observation.  
+44 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+a draft document, the observer also has access to those draft documents.451 At the Standing 
+Committee meetings, the Secretariat places all documents, without translation, submitted by an 
+observer at the request of the chair on the website.452  
+ 
+Observers to CMS meetings of the Conference of the Parties and its subsidiary bodies generally 
+obtain all documents at the same time that Parties receive them.453 Like CITES, an observer that 
+is part of a working group that has prepared a draft receives those draft documents at the same 
+time that Parties do.454  
+ 
+At Montreal Protocol meetings, observers receive documentation at the same time as Parties455 
+ 
+At UNFCCC meetings, admitted observers shall be informed by the Secretariat of the date and 
+venue of any session.456 The rules do not make clear which other documents, if any, an observer 
+may receive and the intense negotiations over the last five years has made it difficult to 
+generalize a rule. However, draft negotiating texts as well as other documents are typically 
+published on the UNFCCC website and made available to everyone at the same time.457 Other 
+documents, however, such as those originating from contact groups, are not always made 
+available to observers.458 
+ 
+2. Regional Fisheries Management Organizations 
+ 
+For CCSBT meetings, observers receive meeting reports and documents submitted to a meeting 
+of the Commission, subsidiary, or advisory body at no cost.459  
+ 
+Observers to IATTC meetings are sent, or otherwise provided, the same documentation 
+generally available to Members unless a document contains business-confidential data.460 
+Specifically, all background documents prepared by the Director—including the report of the 
+Scientific Advisory Committee, the staff conservation recommendation, the compliance report, 
+the at-sea transshipment reports, the draft annual budget, and the auditor’s report—are posted on 
+the Commission’s website and circulated to observers at least 45 days before the meeting unless 
+otherwise decided by the Commission and subject to applicable rules of confidentiality.461 
+Finally, any proposal or relevant document that is going to be discussed at a meeting needs to be 
+submitted to the Director at least 21 days before a meeting, who then posts it on the 
+                                                
+451 Personal Observation. 
+452 CITES Rules of Procedure of the Standing Committee, supra note 126, at Rule 21. If the Secretariat “believes a 
+Party may be directly affected by any discussion of a document to be considered by the Committee,” it alerts the 
+Party concerned and where the document can be viewed on the CITES website and provides printed copies to all 
+Parties that request them. Id. at Rule 21(2).  
+453 Personal Observation.  
+454 Personal Observation.  
+455 Bankobeza, supra note 106. 
+456 UNFCCC Rules of Procedure, supra note 91, at Rule 8. 
+457 Personal Observation.  
+458 Personal Observation.  
+459 CCSBT Rules of Procedure, supra note 66, at Rule 10(12) Reports will also be made available on the Internet. Id.  
+460 Antigua Convention, supra note 22, at Annex 2, ¶ 8. 
+461 IATTC Rules of Procedure, supra note 107, at IV(14). 
+45 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Commission’s website without translating it.462 However, the IATTC website has a password 
+protected section for distributing certain active meeting documents to delegates only.463 
+ 
+For ICCAT meetings, the Executive Secretary sends the approved report of each meeting to 
+invited observers.464 Observers now receive the same documentation as Contracting Parties 
+unless the Parties have designated a document as confidential.465 Further, at the 18th Special 
+Meeting, documents were distributed electronically and a single hard copy was circulated to each 
+observer organization.466 This level of transparency at annual meetings has not always been the 
+case and even now only the meeting agenda and logistical information for scientific meetings are 
+publicly available and access to documents is password-protected.467  
+ 
+For IOTC meetings, the Executive Secretary draws up the provisional agenda—including 
+reports and documents available in connection with the Session—which is sent, after approval by 
+the chair, at least 60 days before a session to the Observer Nations and Observer Associate 
+Members that have attended the previous regular Session or requested to attend the next 
+session.468 Similarly, other observers—including Non-member States of FAO, IGOs, and 
+NGOs—also receive the provisional agenda, reports, and documents.469 
+ 
+Observers to NAFO meetings receive documentation available to Members except documents 
+considered confidential by a Member or the Executive Secretary.470 Specifically, invited 
+observers receive the draft provisional agenda and the provisional agenda at least 90 days and 60 
+days, respectively, before the meeting for the General Council and the Fisheries Commission.471 
+Observers also receive the provisional agenda for the Scientific Council.472 Finally, as soon as 
+possible after a meeting of the General Council, Fisheries Commission, or Scientific Council, 
+observers are sent the summary records, reports, resolutions, recommendations, and other 
+decisions adopted.473 
+ 
+The WCPFC Secretariat is directed to distribute all documents of the Commission to 
+observers.474 Before a meeting, the Executive Director sends the provisional agenda to observers 
+                                                
+462 Id. at IV(15). 
+463 See Regnery e-mail, supra note 109. 
+464 ICCAT Rules of Procedure, supra note 165, at Rule 15(2). 
+465 ICCAT, Guidelines and Criteria for Granting Observer Status at ICCAT Meetings, supra note 71, at ¶ 8. 
+466 ICCAT, Accreditation of Observers at 18th Special Meeting of ICCAT (2012) available at: 
+http://www.iccat.int/Documents/Meetings/COMM2012/09-InfoObser_ENG.pdf. 
+467 Prior to 2014, meeting documents were available only on a password-protected site available to members only. 
+E-mail from Erik Molenaar, supra note 69.  
+468 IOTC Rules of Procedure, supra note 75, at Rule IV(1). 
+469 Id. at Rule IV(2). 
+470 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 6(a). 
+471 NAFO, Rules of Procedure for the Scientific Council, supra note 188, at Rule 4.1. 
+472 NAFO, Rules of Procedure for the General Council, supra note 107, at Rules 4.1, 4.2; NAFO, Rules of Procedure 
+for the Fisheries Commission, supra note 178, at Rules 4.1, 4.2. 
+473 NAFO, Rules of Procedure for the General Council, supra note 107, at Rule 8.3; NAFO, Rules of Procedure for 
+the Scientific Council, supra note 188, at Rule 8.3; NAFO, Rules of Procedure for the Fisheries Commission, supra 
+note 187, at Rule 8.3. 
+474 WCPFC Rules of Procedure, supra note 73, at Rule 12. 
+46 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+at least 90 days before a regular meeting and 25 days before a special session.475 The Executive 
+Director compiles and distributes a list of proposed supplementary items for the provisional 
+agenda to observers at least 20 days before the Session.476 The Executive Director also 
+communicates the annual report to observers at least 45 days before the meeting.477 After a 
+meeting, the Executive Director communicates the text of all decisions adopted by the 
+Commission to observers within 7 days of the adoption of a decision.478 Although documents are 
+generally disseminated in a timely manner, occasionally it takes months to receive the summary 
+report after a meeting,479 which is made publicly available on the WCPFC’s website. Further, 
+documents under discussion are generally not distributed to observers and therefore observers 
+cannot comment on drafts.480  
+ 
+3. International Scientific Organizations 
+ 
+At ICES meetings, observers receive the same documentation as Members except for documents 
+considered confidential by a Member, the chair, or the General Secretary.481 
+ 
+ The Secretariat of IPBES distributes, in all six UN official languages, the provisional 
+agenda and other official documents that are going to be considered at a session at least six 
+weeks prior to the session.482 
+ 
+ 
+We were unable to determine what the rules for documentation are for PICES. 
+ 
+F. Distribution of Documents by Observers 
+ 
+1. Multilateral Environmental Agreements 
+ 
+At CBD meetings, observers may make available relevant information materials but may not 
+distribute materials in official conference rooms.483 Those documents can only be distributed at 
+designated locations and must be relevant to the negotiations and clearly marked with the 
+organization’s name.484 However, other materials, including posters and other displays, relevant 
+to the negotiations can only be distributed in consultation with the Secretariat at appropriate 
+locations.485 Observers may also provide information documents that will be made available to 
+all delegates at least six weeks before the opening of the meeting if the documents provide 
+                                                
+475 Id. at Rules 1(2)-(3). 
+476 Id. at Rule 3. 
+477 Id. at Rule 13. 
+478 Id. at Rule 33(2). 
+479 See Cook e-mail, supra note 109.  
+480 See id. 
+481 ICES, ICES Policy on Observer Status, supra note 199, at ¶ 10. 
+482 IPBES, Rules of Procedure for the Plenary of the Platform, supra note 205, at Rule 8(2). 
+483 CBD, Guidelines for the Participation of Representatives, supra note 205, at ¶¶ 14, 17. 
+484 Id. at ¶19. 
+485 Id. at ¶¶ 18, 20. 
+47 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+background on the consideration of an agenda item but do not request or require a specific action 
+if requested by a Party depending on the subject matter or issue.486  
+ 
+CITES observers may submit informative documents “on the conservation and utilization of 
+natural resources” to participants without approval if the organization offering the documents is 
+clearly identified.487 If requested by the observer, the Secretariat may distribute a document to all 
+meeting participants, but the document must be provided in sufficient numbers for 
+distribution.488 A representative may complain to the Bureau if a distributed informative 
+document is considered offensive.489 Observers may also distribute materials at their exhibits in a 
+designated section of the conference building.490 Tables are also typically provided for the 
+display and distribution of observer documents.491 Observers may organize side events and 
+distribute documents during the event.492 
+ 
+For the Animals Committee and Plants Committee, NGOs may provide documents through the 
+“CITES Management Authority of the Party where they are located,” and recognized IGOs may 
+send documents to the Secretariat.493 After receiving a submitted document, the Secretariat—in 
+consultation with the chair—determines whether to distribute a document.494 Documents 
+submitted to the Secretariat by a Member, alternative Member, or an observer at the request of 
+the chair are placed on the website as soon as possible after receipt or no later than 10 days after 
+the submission deadline.495 The Secretariat also distributes printed and translated documents to 
+Members and alternate Members at least 45 days before the meeting where those issues are to be 
+discussed.496 Further, the Secretariat alerts Parties of any documents that directly affect that Party 
+and provides copies of documents to all Parties that request them.497 Observers may submit 
+documents only for information purposes but those documents will not be translated and cannot 
+be discussed at the meeting, although they can be referred to if relative to a discussion.498  
+ 
+                                                
+486 CBD, A Guideline for Working Group Chairs at COP and SBSTTA Meetings, supra note 323, at ¶ 7.1. 
+487 CITES Rules of Procedure of the Conference of the Parties, supra note 91, at Rules 28(1), 28(2). 
+488 Id. at Rule 28(3). 
+489 Id. at Rule 28(4). 
+490 Personal Observation. 
+491 Personal Observation. 
+492 Personal Observation. 
+493 CITES, Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 21; CITES, Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 21. 
+494 CITES, Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 21; CITES, Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 21.  
+495 CITES, Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 22; CITES, Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 22. 
+496 CITES, Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 22; CITES, Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 22. Documents placed on the website are to 
+be available in the three working languages at least 2 weeks before the meeting. Id. at 22. 
+497 CITES, Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 22; CITES, Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 22.  
+498 CITES, Rules of Procedure of Meetings of the Animals Committee, supra note 126, at Rule 23; CITES, Rules of 
+Procedure of Meetings of the Plants Committee, supra note 126, at Rule 23.  
+48 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+CMS does not expressly prohibit or allow observers to distribute documents to Parties, but CMS 
+does not limit the distribution of documents.499 An area is typically designated for observers and 
+others to display exhibits and tables are provided for the distribution of observer documents.500 
+Observers may organize side events and distribute documents during the event.501 
+ 
+At Montreal Protocol meetings, observers may distribute, with clearance by the Secretariat 
+documents outside meeting rooms.502 Clearance with the Secretariat is required as a 
+precautionary measure to avoid distribution of information and materials that could be offensive 
+or not related to the objectives of the Protocol.503 
+ 
+UNFCCC observers may be invited to submit their views on specific issues when appropriate 
+between sessions. Those documents are not official documents but are made available on the 
+Secretariat’s website.504 At a meeting, only UN officials may distribute materials in official 
+meeting rooms.505 However, observers may organize side-events and exhibits to provide 
+information on new technologies, scientific research, mitigation or adaptation information, 
+project results, and other materials.506 Observers may also display posters at designated locations 
+if they have received prior permission from the Secretariat.507 During a UNFCCC meeting of the 
+Conference of the Parties, observers organize dozens of side events and display large numbers of 
+posters and exhibits.508 Similarly, if there is adequate space, observers may display documents at 
+designated locations if they are relevant to the negotiations.509 Finally, observers should deposit 
+samples of distributed documents, clearly labeled with the name of the organization, with the 
+Secretariat.510 
+ 
+2. Regional Fisheries Management Organizations 
+ 
+Observers to CCSBT meetings may submit documents relevant to matters under consideration to 
+the Executive Secretary who then distributes them as information documents.511 The Secretary 
+provides documents to Members only in the language in which they are submitted unless a 
+                                                
+499 See Simmonds e-mail, supra note 359; Personal observation.  
+500 Personal Observation. 
+501 Personal Observation. 
+502 Bankobeza, supra note 106. 
+503 Id. 
+504 UNFCCC, Handbook, supra note 146, at ¶ 5.A. 
+505 UNFCCC, Guidelines for the Participation of Representatives of Non-Governmental Organizations, supra note 
+115, at ¶ D(1).  
+506 UNFCCC, Handbook, supra note 146, at Box 5.1. 
+507 UNFCCC, Guidelines for the Participation of Representatives of Non-Governmental Organizations, supra note 
+115, at D(2). Posting notices about authorized events does not require authorization if in designated locations. Id. at 
+D(3).  
+508 Personal Observation. 
+509 UNFCCC, Guidelines for the Participation of Representatives of Non-Governmental Organizations, supra note 
+115, at ¶ C(3).  
+510 Id. at ¶ D(3). 
+511 CCSBT Rules of Procedure, supra note 66, at Rule 3(10). 
+49 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+Member requests otherwise.512 Further, the Commission may decide to consider documents 
+submitted by observers in its formal deliberations.513 
+ 
+At meetings of IATTC, observers are allowed to distribute documents with the approval of the 
+chair.514 The Scientific Advisory Committee may also consider documents submitted by 
+individuals and entities other than Members, Cooperating non-Members, and observers.515 
+Observer documents are also posted on the IATTC website.516  
+ 
+At ICCAT meetings an NGO observers may, through the Secretariat, distribute documents.517 At 
+least 120 days before a meeting, NGO observers may also submit reports to the Secretariat on 
+non-compliance with ICCAT conservation and management measures.518 At the 18th Special 
+Meeting, NGO observers were allowed to present written statements and working papers through 
+the Secretariat.519 The Secretariat determined if the content was appropriate for distribution and 
+made decisions on limiting the number of statements from each observer delegate in the Biennial 
+Report.520 NGO observers were also allowed to make leaflets and other information available, 
+although they could not distribute such materials in the pigeonholes of delegates unless accepted 
+through the Secretariat.521 The Secretariat will circulate such a report to Contracting Parties, 
+Cooperating non-Contracting Parties, and Entities or Fishing Entities. An NGO that submits a 
+non-compliance report may also request permission to present the report to the Compliance 
+Committee and the Permanent Working Group; that request is considered when the agenda of a 
+meeting is adopted.522  
+ 
+At IOTC plenary sessions, Observer non-Member States and Observer Associate Members may 
+submit memoranda while Observer IGOs, and Observers NGOs may be invited to submit 
+memoranda by the Commission.523 
+ 
+At NAFO meetings, NGOs may distribute documents only through the general information 
+table.524 
+ 
+                                                
+512 Id. 
+513 Id. at Rule 3(11). 
+514 Antigua Convention, supra note 22, at Annex 2, ¶ 9(c). 
+515 IATTC Rules of Procedure, supra note 107, at Rule 39. 
+516 See Regnery e-mail, supra note 109.  
+517 ICCAT, Guidelines and Criteria for Granting Observer Status, supra note 71, at ¶ 5. 
+518 ICCAT, Recommendation by ICCAT to Establish a Process for the Review and Reporting of Compliance 
+Information, 08-09 (2008) available at: http://www.iccat.int/Documents/Recs/compendiopdf-e/2008-09-e.pdf.  
+519 ICCAT, Accreditation of Observers at 18th Special Meeting of ICCAT (2012) available at: 
+http://www.iccat.int/Documents/Meetings/COMM2012/09-InfoObser_ENG.pdf.  
+520 Id. 
+521 Id. 
+522 ICCAT, Recommendation by ICCAT to Establish a Process for the Review and Reporting of Compliance 
+Information, supra note 518.  
+523 IOTC Rules of Procedure, supra note 75, at Rule XIV(8). 
+524 NAFO, Rules of Procedure for Observers to NAFO Meetings, supra note 75, at Rule 6(d). 
+50 
+Transparency in International Agreements (IELP: Nov. 10, 2016) 
+ 
+At WCPFC meetings, all observers may submit written comments to the Secretariat for 
+distribution to Members.525 However, written statements of an observer NGO must be “within 
+the scope of their activities which are relevant to the work of the Commission.”526  
+ 
+3. International Scientific Organizations 
+ 
+At ICES meetings, admitted observers may distribute documents through the chair.527 At IPBES 
+meetings, observers may distribute documents, although given the trend toward going paperless, 
+space is often limited for distribution of observer documents.528 
+ 
+ 
+PICES rules do not clearly specify whether observers may distribute documents at 
+meetings. 
+ 
+# # # 
+ 
+ 
+                                                
+525 WCPFC Rules of Procedure, supra note 73, at Rules 36 (2), 36(3), 36(5). 
+526 Id. at Rule 36(5). 
+527 ICES, ICES Policy on Observer Status, supra note 199, at ¶ 8.3. 
+528 Lovera E-mail, supra note 106. 

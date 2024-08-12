@@ -1,0 +1,383 @@
+ 
+ 
+COMMISSION 
+FOURTEENTH REGULAR SESSION 
+Manila, Philippines 
+3 – 7 December 2017 
+A BRIEF TO WCPFC14 
+WCPFC14-2017-OP04 
+14 November 2017 
+ 
+Submission by The Pew Charitable Trusts 
+ 
+A brief from
+Nov 2017
+Recommendations to the 14th Regular 
+Session of the Western and Central 
+Pacific Fisheries Commission
+2-7 December 2017, Manila, Philippines
+Overview
+The Western and Central Pacific Fisheries Commission (WCPFC) has a mandate to sustainably manage and 
+ensure long-term conservation of all highly migratory fish stocks, including tunas and sharks, in the western and 
+central Pacific Ocean. However, the Commission’s handling of some stocks falls short of that mandate and global 
+expectations of best practices, despite a Convention that incorporates relatively modern principles of fisheries 
+management.
+The Conservation and Management Measures (CMMs) in place are inadequate to ensure that overfishing is 
+ended or prevented. Management of many stocks is reactive rather than proactive. While some progress has 
+been made on the conservation and management of sharks, much more is needed to ensure that both targeted 
+and incidental catch of sharks is sustainable.
+Masa Ushioda/Blue Planet Archive
+2
+Ensuring sustainable fisheries in the WCPFC Convention Area requires strong conservation and management 
+actions, strict compliance with measures already adopted, and mechanisms that promote transparency and 
+accountability. 
+The Pew Charitable Trusts urges all Commission members, cooperating non-members, and participating 
+territories—known collectively as CCMs—to cooperate and compromise in order to:
+ • Agree on and adopt “bridging measures” for tropical tunas and south Pacific albacore that sustainably manage 
+these tunas while transitioning to management by harvest strategies.
+ • Adopt the rebuilding plan for Pacific bluefin recommended by the Northern Committee and ensure compliance 
+with measures.
+ • Improve management of fish aggregating devices (FADs).
+ • Adopt electronic reporting and electronic monitoring standards for fishing vessels.
+ • Prohibit retention of thresher sharks.
+ • Prohibit retention of manta and mobula rays and adopt live release guidance for both.
+ • Continue work to develop a comprehensive shark CMM.
+ • Ban transshipment at sea until authorities can be certain that it does not contribute to illegal, unreported, and 
+unregulated (IUU) fishing activity.
+ • Improve the effectiveness and transparency of the compliance monitoring scheme.
+ • Agree on and adopt a port State measures CMM to regulate minimum standards for port inspection of vessels 
+believed to have engaged in IUU fishing or related activities in support of such fishing. 
+ • Urge eligible CCMs to implement the “Flick the Switch” measure adopted in 2012, which allows their national 
+waters to be monitored by the Commission’s Vessel Monitoring System (VMS).
+ • Amend Recommendation 2013-10 to require that all eligible fishing vessels obtain International Maritime 
+Organization (IMO) numbers.
+ • Establish a procedure that permits vessels found to be engaged in IUU fishing to be added to the IUU vessel 
+list between annual meetings.
+Recommendations
+Modernize management of tunas
+Fisheries management in the western and central Pacific must consider the importance of the stocks to the 
+region’s economies and the well-being of marine ecosystems by moving toward modern practices and developing 
+more effective controls on purse seine and longline gears. Tuna catches in these waters totaled an estimated 
+2.7 million metric tons in 2016—the second-highest amount on record—and represented 56 percent of the 
+global catch.1 Healthy stocks such as skipjack—which accounted for 67 percent of the region’s catch—should be 
+managed with a long-term view. Other stocks, such as Pacific bluefin (which is severely depleted) and Pacific 
+bigeye (a stock of long-standing concern), require urgent action that goes beyond business as usual. 
+3
+Adopt bridging measures that sustainably manage the tropical tunas and south Pacific albacore while 
+transitioning to the harvest strategy approach
+The Commission must move toward developing harvest strategies by agreeing on “bridging” measures for 
+tropical tunas and south Pacific albacore. The measures are supposed to serve as a bridge to implementation of 
+harvest strategies as opposed to the ad hoc, multi-annual decision-making of years past that occurred largely in 
+response to changes in stock status. 
+The 2017 stock assessment of bigeye, which incorporated new growth data, provides a more optimistic view of 
+the stock than before. It concludes that the stock is likely not experiencing overfishing and is at 0.32SBF=0, with 
+a 16 percent chance of being below the limit reference point. The Commission should follow the advice of the 
+Scientific Committee and not increase fishing mortality from current levels to maintain or increase the spawning 
+biomass until members can agree on an appropriate target reference point for bigeye.
+Well-crafted harvest strategies offer considerable advantages to governments, industry, and the stocks. They 
+include clear objectives and harvest control rules (HCRs) that are tested for their performance in computer 
+simulations. Effective harvest strategies can ensure the sustainability and long-term profitability of resources 
+vital to the well-being of the economies, fishing industries, and people of many nations. They can offset natural 
+variability, scientific uncertainty, and political influence while also allowing managers to act swiftly and efficiently 
+without time-consuming and costly negotiations. To move toward this outcome, the bridging measure for tropical 
+tunas at a minimum must:
+ • Incorporate decisions already made on harvest strategies, including:
+ •  Limit reference points shall be 20 percent of the estimated average spawning biomass in the  
+absence of fishing.
+ •  When developing HCRs in the future, the Commission will determine the acceptability of HCRs in which 
+the estimated risk of breaching limit reference points is between 0 and 20 percent.
+ • Manage the skipjack purse seine fishery to achieve the interim target reference point of 50 percent of the 
+estimated average spawning biomass of skipjack in the absence of fishing. 
+ • Manage bigeye to avoid increases in fishing mortality and increase the current spawning biomass—which 
+would decrease the probability that the stock is below the limit reference point—by:
+ •  Setting science-based longline catch limits that encompass all areas of the Convention Area where 
+significant fishing is occurring. 
+ • Setting science-based FAD set limits in the purse seine fishery.
+ • Link decisions on harvest strategies to the WCPFC harvest strategy workplan and prioritize agreement on a 
+target reference point for bigeye, given the concern for the stock, and ensure timely development of a target 
+reference point for yellowfin.
+4
+Support additional harvest strategy elements in the Commission workplan
+The Commission must build on last year’s progress to support efforts beyond the context of the bridging 
+measures that are essential building blocks in developing harvest strategies for tunas. Reflecting the importance 
+of these stocks, the Commission should adhere to the timelines in the workplan to:
+ • Agree on a list of performance indicators, even if only on an interim basis, to model bigeye and yellowfin 
+harvest control rules in the management strategy evaluation (MSE).
+ • Agree on actions necessary to conduct MSE as scheduled for skipjack, to support MSE for all other tuna 
+stocks with appropriate budgets, and to ensure stakeholder outreach and capacity building to develop 
+greater comfort with the harvest strategy approach.  
+ • Adopt a precautionary target reference point for south Pacific albacore.
+Adopt the recommended rebuilding plan for Pacific bluefin and ensure compliance with measures
+After years of stalemate, the Northern Committee reached agreement on a recommended rebuilding plan for Pacific 
+bluefin at its meeting in August. The plan aims to rebuild the population to at least 20 percent of its unfished levels 
+by 2034 and includes commitments to develop reference points and harvest controls and to test them using MSE. It 
+also puts restrictions on how and when catch limits can be raised in the future, ensuring that if the species is slow to 
+recover, management measures will be responsive to the state of the population.
+This is a first step toward implementing a full harvest strategy for the severely depleted Pacific bluefin population, 
+which is at just 2.6 percent of its historic size, but it is only the beginning of the needed efforts. In the past two 
+years, both Japan and Korea have exceeded their catch limits for Pacific bluefin. If the recovery plan is to reach its 
+goals and return the species to healthy levels, all members must commit to reducing future quotas to pay back 
+these overages and to take all domestic actions needed to avoid exceeding these limits in the future.
+In light of the outcomes of the Northern Committee meeting, Pew recommends that the WCPFC:
+ • Adopt the recommended rebuilding plan and CMM for Pacific bluefin tuna.
+ • Note the recent catch limit overages and strongly urge all CCMs to implement the necessary domestic 
+measures to prevent such overages in the future.
+ • Direct all CCMs to comply with the reporting requirements in CMM 2016-04.
+ • Commit to continuing to include Pacific bluefin on the WCPFC annual meeting agenda so the Commission 
+can monitor the Northern Committee’s progress in meeting rebuilding plan deadlines.
+Effectively manage fish aggregating devices
+Bigeye tuna in the purse seine fishery are taken almost exclusively in sets on FADs, while the use of FADs 
+contributes to the catch of non-target species, such as some species of sharks and turtles, as well as marine 
+debris. Improving FAD management should be an urgent priority. The Commission neither limits the total 
+allowable number of sets that can be made on FADs nor the number of FADs that can be deployed. It also lacks 
+basic data on how many FADs are deployed or their fates (lost, abandoned, etc.).
+Given the significance of the FAD fishery, the Commission should lead in FAD management. It took a step 
+forward when it created the FAD Working Group, which held two meetings in 2016, but the group did not 
+recommend FAD management options, a key part of its terms of reference, and did not meet in 2017. 
+5
+An independent Global FAD Science Symposium, held in Santa Monica, California, in 2017, included experts 
+familiar with the western and central Pacific Ocean. They agreed on a series of best practices for managing FADs 
+in a tropical tuna purse seine fishery.2 The WCPFC Scientific Committee recommended that the Commission take 
+into consideration the examples of best practices when developing a framework for management of FADs within 
+the Convention Area. Given the significance of FAD use, the Commission should follow the scientific advice and 
+take steps to improve the data collection and management of FADs, including: 
+ • Agree to introduce a FAD buoy identification scheme as recommended by the Scientific Committee and 
+the Technical and Compliance Committee, and agree to develop a physical marking scheme for the raft 
+components of FADs, recognizing that FAD buoys are frequently swapped among rafts. 
+ • Adopt the changes recommended by the Scientific Committee to the data fields to be filled out by observers 
+and vessel operators to ensure that data is collected from all vessels involved in FAD activities, including 
+support vessels. That will allow the Commission to better understand the number of FADs deployed, their 
+fates, and construction methods. 
+ • Agree to establish a clear process to improve FAD management, noting the best practices agreed to during 
+the independent FAD Science Symposium related to:
+ • Agreeing to management objectives for FAD use.
+ •  Shifting some fishing effort to free school fishing through market (such as certification schemes), policy 
+(such as FAD set limits), or other incentives, which would have a positive impact for juvenile tunas and 
+certain non-target species.
+ •  Establishing a cap on the number of FADs to avoid cherry-picking and reduce marine pollution, including 
+beaching or grounding of FADs.
+ •  Using non-entangling FADs, which result in little to no risk of entangling sharks and turtles without 
+decreasing catches of tunas.
+Adopt electronic reporting and electronic monitoring standards
+Commission policies currently do not require sufficient and timely submission of critical fishing data or mandate 
+that their accuracy is confirmed, which contributes to ineffective management of the tuna longline fisheries in 
+the Convention Area. In 2014, fish caught by longliners in the western and central Pacific had an end value of 
+almost US$4 billion.3 Given the economic importance of that sector of the fishery, the Commission should act to 
+safeguard its long-term sustainability by instituting regulations to address data gaps so that timely and accurate 
+tracking of longline fishing catch and effort can be ensured. 
+Promising new technologies can make required reporting and monitoring faster, more accurate, and more reliable. 
+Electronic reporting (ER) systems allow information on catches to be relayed in near real-time in a standardized 
+format. In addition, proven electronic monitoring (EM) technology can be used to expand observer coverage 
+requirements—without additional onboard personnel. 
+Technological advances, coupled with the increasing cost-effectiveness of ER and EM systems, can help improve 
+fisheries management and ensure high levels of compliance with conservation and management measures. Near 
+real-time electronic catch reporting improves accountability and accuracy, which benefits authorities, vessel 
+owners, and scientists. Many WCPFC member countries have already embraced these technologies as effective 
+management tools for their domestic fisheries. Pew calls on members of the WCPFC to: 
+6
+ • Adopt the pending electronic observer reporting and transshipment declaration and notification standards 
+and direct the ER and EM Working Group to oversee development of necessary EM standards. 
+ • Require 100 percent electronic reporting to improve timeliness and accuracy of catch reporting. 
+ • Require CMMs to report the level of observer coverage achieved for their carrier vessels, as mandated by 
+CMM 2009-06.
+ • Commit to requiring 100 percent observer coverage on longline vessels, as now required on purse seine vessels, 
+by complementing onboard human observers with electronic monitoring once standards have been adopted.
+Strengthen conservation and management of sharks
+An unsustainable number of sharks—an estimated 63 million to 273 million—are caught and killed in commercial 
+fisheries each year.4 Whether this catch is highly sought after or unintended and unwanted, managers must take 
+immediate action to stop the decline in shark populations and mitigate the damage it causes to marine ecosystems.
+Until measures are in place to ensure that both targeted and incidental catch of sharks is sustainable, harvest 
+of these animals should be avoided. Those caught should be released alive whenever possible. Fishing gear that 
+increases the likelihood of shark catch, such as wire leaders and shark lines, should be prohibited, and research 
+should be done to determine the best means of avoiding shark catch. 
+If CCMs are to continue to target sharks, or to catch sharks as bycatch, then the Commission must enact 
+management measures that reflect the precautionary principle. In instances where limited population data for 
+shark species results in uncertain stock assessments, managers must implement precautionary measures, such 
+as prohibitions or catch limits, that can safeguard these vulnerable stocks. 
+The Commission should also require that fins be naturally attached when sharks are landed. Adopting this global 
+standard would allow for better enforcement of the WCPFC prohibition on shark finning. 
+Based on the advice of the WCPFC Scientific Committee, Pew calls on the Commission to:
+Prohibit the retention of thresher sharks
+Thresher sharks are among the most vulnerable of all shark families5 but have been subject to no management 
+action in WCPFC fisheries. A Pacific-wide assessment presented at this year’s Scientific Committee meeting 
+shows that fishing mortality is likely to be above sustainable levels, particularly for bigeye threshers.
+All three species of thresher shark were listed on the Convention on International Trade in Endangered Species 
+of Wild Fauna and Flora (CITES) in October 2016, meaning that all international trade or import of catch from 
+international waters must be sustainable as of 4 October 2017. Management action is urgently needed, both to 
+implement that listing and to respond to the new WCPFC scientific advice.
+Pew urges the Commission to:
+ • Ban the retention of all thresher sharks while prioritizing data collection on ongoing bycatch levels and post-
+release survival to inform future management strategies, including sustainable catch limits.
+7
+Prohibit retention of manta and mobula rays and adopt live release guidance
+The family Mobulidae, which includes manta rays and mobula rays, is extremely vulnerable to overfishing.  Observer 
+reports show that manta and mobula rays are often killed as bycatch in WCPFC purse seine fisheries; 284 metric 
+tons were recorded from 1994 to 2009.6 At its recent meeting, the Scientific Committee adopted safe handling 
+guidelines for these species that will facilitate live release. Furthermore, the Technical and Compliance Committee 
+(TCC) recommended that the Commission adopt these safe release guidelines for manta rays and mobulids.
+Pew urges the Commission to:
+ • Ban the retention of manta and mobula rays and implement the Scientific Committee’s 2017 guidelines for 
+safe release of such rays when caught incidentally in WCPFC fisheries. 
+Continue work to develop a comprehensive shark CMM
+At its 2016 meeting, the Commission initiated work to develop an overarching shark CMM to help the WCPFC 
+better manage both targeted shark fisheries and incidental bycatch. This year, the Scientific Council started work 
+on development of this measure, although additional effort is needed over the next year to refine it.
+Pew applauds this initiative and encourages the WCPFC to continue efforts to develop a comprehensive shark 
+CMM that would prioritize the following:
+ • Banning wire leaders and shark lines in fisheries that are not declared as targeted shark fisheries to reduce 
+the mortality of prohibited species. 
+ • Ensuring that all targeted shark fisheries are subject to management plans that limit mortality to 
+sustainable levels—especially for heavily exploited blue and mako sharks.
+ • Expanding observer coverage for longline fleets operating in the Convention Area.
+ • Adopting a “no data, no fish” measure for sharks, which would prohibit CCMs that do not submit landing 
+data on key shark species from retaining shark catches. 
+Continue efforts to stop illegal fishing 
+Ban transshipment at sea until authorities can be certain it does not contribute to IUU activity
+A lack of effective regulations and monitoring means that illegal, unreported, and misreported transshipment of 
+catch at sea, particularly within the longline sector, contributes significantly to IUU activity in the Commission 
+area. Within the western and central Pacific alone, an estimated $142 million a year of tuna and tuna-like product 
+is involved in illegal, at-sea transshipment activities.7 
+The current WCPFC transshipment measure (CMM 2009-06) includes several exemptions and loopholes that 
+increase opportunities for IUU transshipment. For example, activities in archipelagic waters are exempted from 
+reporting requirements, meaning that transshipments that occur in hundreds of thousands of square kilometres 
+within the Convention Area go unreported. In addition, activities in a country’s exclusive economic zone are 
+governed by national legislation, which can be weaker than WCFPC reporting requirements.  Finally, despite the 
+intention of CMM 2009-06 to strictly limit transshipment at sea, more than 52 percent of non-purse seine vessels 
+currently on the WCPFC Record of Fishing Vessels were allowed to transship on the high seas in 2016, up from 49 
+percent the previous year.  At the same time, the WCPFC Convention says Commission members must encourage 
+8
+their fishing vessels to conduct transshipment in port to support efforts to ensure accurate reporting of catches.8 
+However, over the past six years, both the number of transshipping events at sea and the number of fishing vessels 
+involved in transshipping at sea have increased, making these activities the norm rather than the exception. 
+In addition, verification of reported transshipment activity remains difficult. Although all carrier vessels are 
+required to have 100 percent observer coverage, the WCPFC Secretariat does not currently receive reports 
+from these observers, nor does it maintain a database for this information. That means that observer reports 
+of transshipments on the high seas cannot be compared or cross-verified with information provided directly 
+from the vessel. The Secretariat also cannot audit these activities because vessels are not required to provide 
+transshipping notifications and declarations to the Secretariat when transshipping occurs in port, within EEZs, or 
+in archipelagic waters. As such, no single body, including the Secretariat, maintains a full and complete picture 
+of this activity within the entire Convention Area from the point of catch to the point of offloading. Additional 
+controls are needed to ensure that transshipment activities are legal and verifiable.
+Pew calls on members of the WCPFC to: 
+ • Ban transshipment at sea until authorities can be certain it does not contribute to IUU activity. 
+ • Direct the TCC to review the draft guidelines prepared by the Secretariat for determination of circumstances 
+when it is impracticable for certain vessels to transship in port or in waters under national jurisdiction, as 
+required in CMM 2009-06.
+ • Establish formal observer reporting processes, procedures, submission requirements, and standardized 
+forms for observers on carrier vessels to ensure that every high-seas transshipment reported via 
+declarations can be cross validated by the Secretariat as to species, quantity, and location.
+ • Improve transshipment reporting protocols to create a full and complete picture of this activity as it occurs, 
+regardless of location, by requiring transshipment reports and declarations to be provided to the Secretariat 
+wherever and whenever the activity takes place in the Convention Area.   
+Improve the effectiveness and transparency of the compliance monitoring scheme 
+The Second Joint Meeting of Tuna RFMOs in 2009 recommended that the regional fisheries management 
+organizations develop robust compliance review mechanisms so that the records of each member of the 
+Commission could be examined on an annual basis. As a result, the WCPFC established a trial Compliance 
+Monitoring Scheme (CMS) to ensure that CCMs meet their obligations. The CMS is designed to assess CCM 
+compliance. It also helps to identify areas where technical assistance or capacity building may be needed and 
+determine aspects of CMMs that require refinement or amendment for effective implementation. 
+That CMS measure, however, continues to operate on a short-term, trial basis. CCMs must make significant 
+investments of time to assess CMM compliance each year and review and renew the measure itself. 
+Because the CMS is a critical component of the WCPFC compliance process, CCMs should make it permanent 
+and remove the need for an annual review. In addition, the CMS does not include tangible penalties for non-
+compliance with Commission obligations and has been implemented in a manner that prohibits observers from 
+being present for CMS reviews and discussions. In advance of the report of an independent CMS audit to be 
+released in 2018, the Commission should agree to the following principles to improve the CMS in ways that fully 
+and transparently support its conservation and management objectives: 
+9
+ • The CMS should be a permanent measure to ensure greater predictability and certainty. That would allow 
+the TCC to devote more time to reviewing issues of compliance, rather than the CMS itself.
+ • Penalties should be set for non-compliance to establish a more effective and efficient scheme with the 
+proper level of deterrence.
+ • Observers should be permitted in CMS discussions in accordance with the WCPFC Convention’s language on 
+transparency and the practices of other tuna RFMOs. Such a step would be a recognition that transparency is 
+critical to accountability and a fundamental principle of good practice in public resource management.
+Enhance CCM transparency and accountability
+Adopt minimum standards for port inspections
+Port State measures (PSMs) are cost-effective tools to monitor compliance with management arrangements 
+and prevent illegal fish from entering the market. PSM proposals have been considered by the Commission for 
+several years and were recommended as part of the WCPFC Performance Review in 2013. Recent efforts to adopt 
+a CMM on Port State Measures to Prevent, Deter, and Eliminate Illegal, Unreported, and Unregulated Fishing 
+have fallen short, but circumstances have changed in recent years. The Food and Agriculture Organization of the 
+United Nations’ Port States Measures Agreement entered into force in 2016, with a number of WCPFC members 
+now party to the agreement, creating a strong basis to establish a regional scheme within the WCPFC. 
+Pew urges the Commission to:
+ • Adopt a port State measures CMM as soon as possible to regulate minimum standards for port inspection 
+of vessels believed to have engaged in IUU fishing or related activities in support of such fishing. If there is 
+no agreement at the annual meeting, task a small working group to develop text on a port State measures 
+CMM for consideration by the TCC in 2018 with formal adoption by the Commission next year.
+Urge eligible CCMs to implement the WCPFC9 ‘Flick the Switch’ measure
+Since its adoption in 2012, the WCPFC9 “Flick the Switch” measure has received wide support from member 
+countries that belong to the Pacific Islands Forum Fisheries Agency (FFA).9 Implementing the measure meant 
+that CCMs with coastal State waters in the Convention Area could have their own national waters monitored by 
+the Commission’s VMS. However, not all coastal State CCMs have “flicked the switch.” Bringing in the remaining 
+costal State CCMs, including the remaining five FFA member countries,10 would maximize the usefulness of 
+the Commission’s VMS as a tool to eliminate illegal fishing. It would give authorities in all coastal State CMM 
+countries the ability to monitor non-licensed vessels on the WCPFC authorized vessel list if they operated in their 
+national waters. This type of effective monitoring would help close a major loophole for IUU fishing.
+Pew urges the Commission to:  
+ • Encourage all coastal state CCMs, especially the FFA members, to adopt the WCPFC9 measure “Flick the Switch” 
+to maximize the use of VMS and improve the transparency of fishing operations in the Convention Area. 
+10
+Amend Recommendation 2013-10 to require that all eligible fishing vessels obtain IMO numbers
+Recommendation 2013-10 entered into force 1 January 2016 and required that all vessels of 100 gross tons/
+gross registered tons or more obtain an IMO number. Member states have made great progress in providing IMO 
+numbers for most active eligible vessels, although gaps remain. Member states are encouraged to ensure that 
+none of their vessels that are required to have IMO numbers are fishing without this identification. IMO numbers 
+should be clearly marked in all vessel records. 
+In August 2016, the IMO amended its guidance on eligibility criteria for IMO numbers. Fishing vessels of non-
+steel hull construction of 100 GT and above and all motorized inboard fishing vessels of less than 100 GT down 
+to 12 metres in length overall that are authorized to operate outside waters under national jurisdiction are now 
+eligible. This means that more than 2,00011 additional vessels listed on the WCPFC record of vessels can now 
+obtain an IMO number. Accordingly, the Secretariat is encouraged to amend Recommendation 2013-10 to include 
+all eligible fishing vessels.
+Pew urges the Commission to:
+ • Amend Recommendation 2013-10 to require that all eligible fishing vessels obtain IMO numbers. 
+Enhance the effectiveness of the IUU vessel list
+Placing a vessel on WCPFC’s IUU vessel list helps to highlight, and ultimately deter, unacceptable practices in 
+the Convention Area. However, the list’s effectiveness is diminished because vessels found to be engaged in IUU 
+fishing can be added only once a year. As a result, these vessels operate unhindered until the Commission meets 
+and CCMs put them on the list. The WCPFC permits vessels to be removed from the IUU vessel list between 
+annual meetings. In the same spirit, the Commission should permit the listing of IUU vessels intersessionally.
+Pew calls on members of the WCPFC to:
+ • Establish a procedure that permits the addition of vessels found to be engaged in IUU fishing to the IUU 
+vessel list between annual meetings.
+11
+Endnotes
+1 
+Peter Williams et al., “Overview of Tuna Fisheries in the Western and Central Pacific Ocean, Including Economic Conditions—2016,” 
+paper presented to the 13th annual meeting of the Scientific Committee, 2017, https://www.wcpfc.int/node/29628.
+2 
+John Hampton, et al., “What Does Well-Managed FAD Use Look Like Within a Tropical Purse Seine Fishery?” paper presented to the 13th 
+annual meeting of the Scientific Committee, 2017, https://www.wcpfc.int/node/29549.
+3 
+Grantly Galland, Anthony Rogers, and Amanda Nickson, “Netting Billions: A Global Valuation of Tuna,” The Pew Charitable Trusts”(2016), 
+http://www.pewtrusts.org/tunavalue.
+4 
+Boris Worm et al., “Global Catches, Exploitation Rates, and Rebuilding Options for Sharks,” Marine Policy 40 (2013): 194–204, http://
+www.sciencedirect.com/science/article/pii/S0308597X13000055. 
+5 
+Nicholas K. Dulvy et al., “Extinction Risk and Conservation of the World’s Sharks and Rays,” eLife (2014), doi:10.7554/eLife.00590.
+6 
+Western and Central Pacific Fisheries Commission, “Non-Target Species Interactions With the Tuna Fisheries of the Western and Central 
+Pacific Ocean,” WCPFC SC6-2010/EB-IP-8 (2010), http://www.wcpfc.int/system/files/WCPFC-SC6-2010-EB-IP-08_Non_target_spp_
+interactions.pdf.
+7 
+MRAG Asia Pacific, “Towards the Quantification of Illegal, Unreported and Unregulated (IUU) Fishing in the Pacific Islands Region” 
+(2016), http://www.ffa.int/files/FFA%20Quantifying%20IUU%20Report%20-%20Final.pdf.
+8 
+Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean Article 29 
+(1), (2000).
+9 
+Western and Central Pacific Fisheries Commission. “WCPFC9 Decision on Application of WCPFC VMS to National Waters of WCPFC 
+Members” (6 February 2013), https://www.wcpfc.int/system/files/WCPFC9-decision-24%288%29.pdf. 
+10 The five countries are Fiji, the Marshall Islands, Papua New Guinea, Vanuatu, and Kiribati. 
+11 
+Tuna-org, “Global List of Authorized Tuna Fishing Vessels” accessed 28 August 2017, http://www.tuna-org.org/GlobalTVR.htm. 
+Contact: Amanda Nickson, director, international fisheries 
+Email: anickson@pewtrusts.org 
+Project website: pewtrusts.org
+The Pew Charitable Trusts is driven by the power of knowledge to solve today’s most challenging problems. Pew applies a rigorous, analytical 
+approach to improve public policy, inform the public, and invigorate civic life. 
+For further information, please visit: 
+pewtrusts.org
