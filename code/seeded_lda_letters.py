@@ -2,28 +2,28 @@
 ##### Author: Takumi Shibaike
 ##### Date: November 29, 2023
 ##### Revision: V1.0
-##### File : seeded_lda_letters.py
+##### File : seeded_lda_summary_reports.py
 
 import os
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 import spacy
-import nltk
 import re
 import matplotlib.pyplot as plt
-
-# Download WordNet data
-nltk.download('wordnet')
 
 os.chdir('C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\wcpfc')
 
 # Load the CSV file
-csv_file_path = '.\\analysis\\letters.csv'
+csv_file_path = '.\\analysis\\coded_advocacy_letters.csv'
 df = pd.read_csv(csv_file_path)
 
+# Extract WCPFC meeting number from the document name
+df['meeting'] = df['document'].str.extract(r'(WCPFC\d+)')
+
 # Remove rows with empty text
-df = df[df['content'].str.strip() != '']
+#df = df[df['content'].str.strip() != '']
+df = df[df['content'].str.len() >= 50]
 
 # Check duplicates
 # duplicate_rows = df[df.duplicated('Content')]
@@ -56,7 +56,7 @@ topic_seed_words = [
     {'words': ['mse','hcr','trp'], 'label': 'Strategy'},
     {'words': ['bycatch', 'shark', 'turtle','seabird','mammal'], 'label': 'Bycatch'},
     {'words': ['transparency', 'vms', 'iuu','ais','cds'], 'label': 'Transparency'},
-    {'words': ['sids', 'right', 'governance'], 'label': 'Governance'}
+    {'words': ['sids', 'right', 'small', 'island'], 'label': 'Governance'}
     # Add more seed words for each topic along with labels
 ]
 
@@ -69,11 +69,27 @@ residual_words = list(all_words - seed_words)
 num_topics = len(topic_seed_words) + 1  # Including the residual category
 
 # Initialize the LDA model with seed words
-lda = LatentDirichletAllocation(n_components=num_topics, random_state=lda_seed)
-lda.fit(X)
+#lda = LatentDirichletAllocation(n_components=num_topics, random_state=lda_seed)
+#lda.fit(X)
 
 # Fit the LDA model
-df['topic_distribution'] = lda.transform(X).argmax(axis=1)
+#df['topic_distribution'] = lda.transform(X).argmax(axis=1)
+
+# Initialize the GuidedLDA model
+guided_lda = guidedlda.GuidedLDA(n_topics=num_topics, random_state=lda_seed, n_iter=100)
+
+# Create seed topics matrix
+seed_topics = {}
+for topic_idx, topic_info in enumerate(topic_seed_words):
+    for word in topic_info['words']:
+        if word in vectorizer.vocabulary_:
+            seed_topics[vectorizer.vocabulary_[word]] = topic_idx
+
+# Fit the GuidedLDA model with the seed topics
+guided_lda.fit(X, seed_topics=seed_topics)
+
+# Get the topic distribution for each document
+df['topic_distribution'] = guided_lda.transform(X).argmax(axis=1)
 
 
 # Attach topic labels to the original DataFrame
@@ -89,7 +105,7 @@ for idx, row in df.iterrows():
 df['topic_label'] = topic_labels
 
 # Save the DataFrame with topic labels as a CSV file
-#columns_to_save = ['year', 'observer', 'category', 'source', 'joint', 'signatories', 'asks', 'content', 'content_lemmatized', 'topic_label']
+#columns_to_save = ['document', 'number', 'content', 'content_lemmatized', 'topic_label']
 #df[columns_to_save].to_csv('.\\analysis\\letters_with_labels.csv', index=False)
 
 # Print the topics and associated words, including seeded words and labels
@@ -115,12 +131,12 @@ for topic_idx, topic in enumerate(lda.components_):
     print(" ".join(top_words_with_seeds))
     print()
 
-# Calculate topic distribution by year
-topic_distribution_by_year = df.groupby('year')['topic_distribution'].value_counts(normalize=True).unstack()
-print("Topic Distribution by Year:")
+# Calculate topic distribution by WCPFC meeting
+topic_distribution_by_meeting = df.groupby('meeting')['topic_distribution'].value_counts(normalize=True).unstack()
+print("Topic Distribution by Meeting:")
 
-for year, ratios in topic_distribution_by_year.iterrows():
-    print(f"\nYear {year}:")
+for meeting, ratios in topic_distribution_by_meeting.iterrows():
+    print(f"\n{meeting}:")
     for topic_idx, topic_info in enumerate(topic_seed_words):
         label = topic_info['label']
         ratio = ratios.get(topic_idx, 0)
@@ -136,22 +152,32 @@ for topic_idx, topic_info in enumerate(topic_seed_words):
     print(f"{label}: {ratio:.2%}")
 
 
-# Calculate topic distribution by year for chart
-topic_distribution_by_year = df.groupby(['year', 'topic_label']).size().unstack(fill_value=0)
-topic_distribution_by_year_percentage = topic_distribution_by_year.div(topic_distribution_by_year.sum(axis=1), axis=0) * 100
+# Convert 'document' to a categorical variable with custom ordering
+custom_order = ['WCPFC{}'.format(i) for i in range(3, 17)]  # You need WPCFC number plus 1
+df['meeting'] = pd.Categorical(df['meeting'], categories=custom_order, ordered=True)
+
+# Calculate topic distribution by meeting for chart
+topic_distribution_by_meeting = df.groupby(['meeting', 'topic_label']).size().unstack(fill_value=0)
+topic_distribution_by_meeting_percentage = topic_distribution_by_meeting.div(topic_distribution_by_meeting.sum(axis=1), axis=0) * 100
 
 # Plot 100% stacked bar chart
-fig, ax = plt.subplots(figsize=(10, 6))
-topic_distribution_by_year_percentage.plot(kind='bar', stacked=True, ax=ax)
+fig, ax = plt.subplots(figsize=(12, 8))
+# Move "Residual" column to the last position
+topic_distribution_by_meeting_percentage = topic_distribution_by_meeting_percentage[
+    [col for col in topic_distribution_by_meeting_percentage.columns if col != 'Residual'] + ['Residual']
+    ]
+topic_distribution_by_meeting_percentage.plot(kind='bar', stacked=True, ax=ax)
+
+
 
 # Add labels and legend
 ax.set_ylabel('Percentage')
-ax.set_xlabel('Year')
-ax.set_title('Topic Distribution by Year')
+ax.set_xlabel('Meeting')
+ax.set_title('Topic Distribution by Meeting')
 ax.legend(title='Topic', bbox_to_anchor=(1, 1))
 
 # Save the figure as PNG with specified dimensions
-#plt.savefig('topic_distribution_chart.png', dpi=300, bbox_inches='tight')  # Adjust the file name and DPI as needed
+plt.savefig('letter_topic_distribution_chart.png', dpi=300, bbox_inches='tight')  # Adjust the file name and DPI as needed
 
 # Show the plot
 plt.show()
