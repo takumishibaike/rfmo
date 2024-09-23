@@ -8,7 +8,7 @@ import os
 import re
 import pandas as pd
 
-os.chdir('C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\wcpfc')
+os.chdir('C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\rfmo')
 
 directory_path = '.\\txt\\coded advocacy letters'
 
@@ -32,7 +32,7 @@ else:
         with open(file_path, 'r', encoding='utf-8') as input_file:
             file_content = input_file.read()
 
-        # Clean and split the file content into sections
+        # Clean and split the file content into sections (use '. ' for by sentence)
         file_content = re.sub(r'\n\d+', '', file_content)
         sections = [para.strip() for para in file_content.split('\n \n') if para.strip()]
 
@@ -62,5 +62,5 @@ df = pd.DataFrame(data)
 print(df)
 
 # Write the DataFrame to a CSV file
-csv_file_path = ".\\csv\\coded_advocacy_letters.csv"
+csv_file_path = ".\\csv\\coded_advocacy_letters_2.csv"
 df.to_csv(csv_file_path, index=False, encoding='utf-8')

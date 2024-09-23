@@ -6,7 +6,7 @@ library(stringr)
 library(ggplot2)
 library(tidyr)
 
-setwd("C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\wcpfc")
+setwd("C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\rfmo")
 
 rm(list=ls()) 
 
@@ -19,7 +19,7 @@ df <- df %>%
 
 df <- df %>%
   mutate(meeting = str_extract(document, "WCPFC\\d+")) %>%
-  filter(nchar(content) >= 70)
+  filter(nchar(content) >= 60)
 
 #dict <- list(harvest_strategy = c('harvest','mse','hcr*','trp','strateg*','limit*','target*','referenc*'),
 #             fishing_mortality = c('mortality','overfishing','catch','quota'),
@@ -33,10 +33,11 @@ df <- df %>%
 #             session = c('session','december','regular','meeting','wcpfc*')
 #)
 
-dict <- list(strategy = c('mse','hcr*','trp','strategy','limit','target'),
-             bycatch = c('bycatch','shark','turtle','seabird','mammal'),
-             transparency = c('vms','iuu','ais','cds','transparency'),
-             governance = c('right', 'small', 'island','sids')
+dict <- list(strategy = c('mse','hcr*','trp','strateg*','limit*','target*','control','harvest','capacity','mortality','overcapacity'),
+             bycatch = c('bycatch','shark*','turtle*','seabird*','mammal*','juvenile','billfish','longline','fad*','retention'),
+             transparency = c('vms','iuu','ais','cds','transparen*','unreported'),
+             equity = c('right*', 'small', 'island*','sids','allocation','developing','burden','ffa'),
+             session = c('session*','december','regular','meeting*','wcpfc*','chair*')
 )
 
 
@@ -64,7 +65,7 @@ colnames(df)[5] <- "topic"
 df$topic[is.na(df$topic)] <- "other"
 
 # Write out labeled data for later review
-# write.csv(df, ".\\analysis\\letters_with_labels_four.csv", fileEncoding = "UTF-8")
+write.csv(df, ".\\analysis\\letters_with_labels_four.csv", fileEncoding = "UTF-8")
 
 # Extract numeric part for ordering
 df <- df %>%
@@ -75,8 +76,8 @@ df <- df %>%
   mutate(meeting = factor(meeting, levels = unique(meeting[order(meeting_number)])))
 
 # Filter out "other" and "session" topics before processing
-#df <- df %>%
-#  filter(!topic %in% c("other", "session"))
+df <- df %>%
+  filter(!topic %in% c("other", "session"))
 
 # Treat the presence of topics in a document as ratio
 document_topic_distribution <- df %>%
@@ -138,13 +139,12 @@ long_average_ratios <- long_average_ratios %>%
 # Create the stacked bar chart
 p <- ggplot(long_average_ratios, aes(x = meeting, y = average_ratio, fill = topic)) +
   geom_bar(stat = "identity") +
-  labs(title = "Average Topic Distribution by Meeting",
-       x = "WCPFC Meeting",
-       y = "RAtio of Topics (%)",
+  labs(x = "WCPFC Meeting",
+       y = "Ratio of Topics (%)",
        fill = "Topic") +
   theme_minimal() +
   scale_y_continuous(labels = scales::percent_format()) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 p
-#ggsave("wcpfc_letters_original_code_ratio.png", plot = p, width = 7, height = 5, dpi = 300)
+#ggsave("wcpfc_letters.png", plot = p, width = 7, height = 5, dpi = 300)

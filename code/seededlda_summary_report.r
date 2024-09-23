@@ -6,7 +6,7 @@ library(stringr)
 library(ggplot2)
 library(tidyr)
 
-setwd("C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\wcpfc")
+setwd("C:\\Users\\tshibaik\\OneDrive - Syracuse University\\Desktop\\rfmo")
 
 rm(list=ls()) 
 
@@ -22,13 +22,15 @@ df <- df %>%
 
 df <- df %>%
   mutate(meeting = str_extract(document, "WCPFC\\d+")) %>%
-  filter(nchar(content) >= 70)
+  filter(nchar(content) >= 60)
 
-dict <- list(strategy = c('mse','hcr*','trp','strategy','limit','target'),
-             bycatch = c('bycatch','shark','turtle','seabird','mammal'),
-             transparency = c('vms','iuu','ais','cds','transparency'),
-             governance = c('right', 'small', 'island','sids')
+dict <- list(strategy = c('mse','hcr*','trp','strateg*','limit*','target*','control','harvest','capacity','mortality','overcapacity'),
+             bycatch = c('bycatch','shark*','turtle*','seabird*','mammal*','juvenile','billfish','longline','fad*','retention'),
+             transparency = c('vms','iuu','ais','cds','transparen*','unreported'),
+             equity = c('right*', 'small', 'island*','sids','allocation','developing','burden','ffa'),
+             session = c('session*','december','regular','meeting*','wcpfc*','chair*')
 )
+
 
 dict <- dictionary(dict)
 
@@ -47,7 +49,7 @@ print(terms(slda, 10))
 table(topics(slda))
 
 # Write out terms for later review
-# write.csv(terms(slda, 100), ".\\analysis\\keywords_frame.csv")
+#write.csv(terms(slda, 100), ".\\analysis\\keywords_frame.csv")
 
 df <- cbind(df, topics(slda))
 colnames(df)[5] <- "topic"
@@ -56,7 +58,7 @@ colnames(df)[5] <- "topic"
 df$topic[is.na(df$topic)] <- "other"
 
 # Write out labeled data for later review
-#write.csv(df, ".\\analysis\\letters_with_labels.csv", fileEncoding = "UTF-8")
+write.csv(df, ".\\analysis\\summary_with_labels.csv", fileEncoding = "UTF-8")
 
 # Extract numeric part for ordering
 df <- df %>%
@@ -65,6 +67,10 @@ df <- df %>%
 # Create ordered factor for meetings
 df <- df %>%
   mutate(meeting = factor(meeting, levels = unique(meeting[order(meeting_number)])))
+
+# Filter out "other" and "session" topics before processing
+df <- df %>%
+  filter(!topic %in% c("other", "session"))
 
 # Standardize topic distribution by document length
 document_topic_distribution <- df %>%
@@ -96,7 +102,7 @@ long_topic_distribution$normalized_percentage <- long_topic_distribution$normali
 # Create the stacked bar chart, ordering by meeting factor levels
 p <- ggplot(long_topic_distribution, aes(x = document, y = normalized_percentage, fill = topic)) +
   geom_bar(stat = "identity") +
-  labs(x = "Meeting", y = "Ratio of Topics (%)", title = "Topic Distribution by Meeting") +
+  labs(x = "WCPFC Meeting", y = "Ratio of Topics (%)") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 p
